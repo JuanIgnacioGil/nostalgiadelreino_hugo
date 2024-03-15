@@ -1,0 +1,9 @@
+---
+date: '2005-01-27T02:44:00+00:00'
+tags: []
+title: no title
+tumblr_url: http://nostalgiadelreino.net/post/18842397048/y-quedará-en-él-alguien-uno-solo-que-no-sea
+url: /2005/01/27/y-quedará-en-él-alguien-uno-solo-que-no-sea/
+---
+
+<p><em><blockquote><br/><br/>¿Y quedará en él alguien, uno solo, que no sea razonable?<br/><br/><br/><br/>En algún rincón, un vestigio del reino olvidado. En alguna muerte violenta, el castigo por haberse acordado del reino. En alguna risa, en alguna lágrima, la sobrevivencia del reino. En el fondo no parece que el hombre acabe por matar al hombre. Se le va a escapar, le va a agarrar el timón de la maquina electrónica, del cohete sideral, le va a hacer una zancadilla y después que le echen un galgo. Se puede matar todo menos la nostalgia del reino, la llevamos en el color de los ojos, en cada amor, en todo lo que profundamente atormenta y desata y engaña. Wishful thinking, quizá; pero esa es otra definición posible del bípedo implume.<br/><br/></blockquote></em><br/><br/><br/><br/><em>de <strong>Rayuela, cap 71</strong>, de <strong>Julio Cortázar</strong></em><br/><br/><br/><br/>La misma idea, una y otra vez, repitiéndose, multiplicándose, llenándolo todo. La vemos en todas las épocas, en todos los libros, pinturas, poemas, canciones. La nostalgia del reino, la nostalgia por otro lugar, otro mundo, que no conocemos, pero que soñamos, sentimos como nuestro verdadero hogar. Lo recordamos en nuestros sueños, <br/><br/>y ansiamos volver, volver&hellip;</p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-953751192378233?l=nostalgiadelreino.blogspot.com" alt=""/></div>

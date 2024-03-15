@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2019s on My New Hugo Site</title>
+    <link>http://localhost:1313/2019/</link>
+    <description>Recent content in 2019s on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/2019/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fernweh</title>
+      <link>http://localhost:1313/2019/12/21/%20Fernweh%20/</link>
+      <pubDate>Sat, 21 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2019/12/21/%20Fernweh%20/</guid>
+      <description>La palabra que expresa uno de los deseos humanos más lacerantes, la nostalgia, parece de origen griego, pero en realidad no lo es. Nostalgia se ha formado a partir de los términos griegos νόστος, «el regreso», y ἄλγος, «el dolor», «la tristeza», y expresa el deseo melancólico de volver a casa, a los lugares en los que se ha pasado la niñez y en los que se encuentran las personas y los objetos que más se quieren, pero es una palabra completamente ajena al mundo griego.</description>
+    </item>
+    <item>
+      <title>Nobody tells you</title>
+      <link>http://localhost:1313/2019/12/15/nobody-tells-you/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2019/12/15/nobody-tells-you/</guid>
+      <description>Que la vida iba en serio&#xA;uno lo empieza a comprender más tarde&#xA;-como todos los jóvenes, yo vine&#xA;a llevarme la vida por delante.&#xA;Dejar huella quería&#xA;y marcharme entre aplausos&#xA;-envejecer, morir, eran tan solo&#xA;las dimensiones del teatro.&#xA;Pero ha pasado el tiempo&#xA;y la verdad desagradable asoma:&#xA;envejecer, morir,&#xA;es el único argumento de la obra.&#xA;Jaime Gil de Biedma, &amp;ldquo;No volveré a ser joven&amp;rdquo; (Poemas póstumos, 1968)</description>
+    </item>
+    <item>
+      <title>The beginning of a joke</title>
+      <link>http://localhost:1313/2019/12/08/the-beginning-of-a-joke/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2019/12/08/the-beginning-of-a-joke/</guid>
+      <description>Nel mezzo del cammin di nostra vita&#xA;mi ritrovai per una selva oscura,&#xA;hé la diritta via era smarrita.&#xA;Ahi quanto a dir qual era è cosa dura&#xA;esta selva selvaggia e aspra e forte&#xA;che nel pensier rinova la paura!&#xA;Dante, Divina Comedia, Canto I&#xA;Era una noche lluviosa, hace varias semanas. Caminaba por las calles del centro de Milán, junto a dos compañeros de trabajo. Buscábamos un supermercado 24 horas para comprar unas galletas de chocolate que no se podían encontrar en Londres.</description>
+    </item>
+    <item>
+      <title>To boldly go</title>
+      <link>http://localhost:1313/2019/05/14/utopias/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2019/05/14/utopias/</guid>
+      <description>Siempre he sido más fan de Star Star Wars que de Star Trek. El que creo que es mi primer recuerdo es estar en el cine, viendo maravillado las escenas de la batalla de Hoth en El Imperio Contrataca. Y una tradición que mi madre y yo mantuvimos durante muchos años es ver la Trilogía en Navidad (y a menudo en un solo día).&#xA;Pero en los últimos años me dedico a ver lentamente todas las series de Star Trek, concretamente desde el 2016, el año de Trump y el Brexit.</description>
+    </item>
+    <item>
+      <title>Las Películas del 2018</title>
+      <link>http://localhost:1313/2019/01/03/Las-Peliculas-del-2018/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2019/01/03/Las-Peliculas-del-2018/</guid>
+      <description>Como ya es tradición cuando comienza el año, hago repaso aquí de mis películas favoritas del año anterior. Una vez más, y ya van cuatro años seguidos, comencé el 2018 en un país distinto del que lo acabé, con lo que algunas películas se han quedado por el camino (por las distintas fechas de estreno, o, simplemente, porque estaba a otras cosas). Como siempre, incluyo aquí estrenos que yo he visto en sala en el 2018, aunque alguna pueda ser del 2017.</description>
+    </item>
+  </channel>
+</rss>

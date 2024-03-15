@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017s on My New Hugo Site</title>
+    <link>http://localhost:1313/2017/</link>
+    <description>Recent content in 2017s on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/2017/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elegías</title>
+      <link>http://localhost:1313/2017/10/27/Elegia/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2017/10/27/Elegia/</guid>
+      <description>Und so drängen wir uns und wollen es leisten, wollens enthalten in unsern einfachen Händen, im überfüllteren Blick und im sprachlosen Herzen. [&amp;hellip;] Sind wir vielleicht hier, um zu sagen: Haus, *Brücke, Brunnen, Tor, Krug, Obstbaum, Fenster, - * höchstens: Säule, Turm&amp;hellip;&#xA;Y así nosotros nos apresuramos y queremos lograrlo, queremos abarcarlo con nuestras simples manos, con los ojos henchidos y el corazón sin voz. [&amp;hellip;] Quizás estemos aquí sólo para decir: casa, puente, manantial, puerta, cántaro, árbol frutal, ventana, todo lo más: columna, torre&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Errores</title>
+      <link>http://localhost:1313/2017/05/09/Errores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2017/05/09/Errores/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Nel mezzo del cammin di nostra vita&lt;br&gt;&#xA;mi ritrovai per una selva oscura&lt;br&gt;&#xA;ché la diritta via era smarrita.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Dante, &lt;em&gt;Divina Comedia&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mi padre siempre ha lamentado el haber dejado la Marina. Pasó allí varios años, sin lograr adaptarse a la disciplina militar, y, finalmente, la abandonó por una carrera, en Correos, que nunca le satisfizo. Y esa decisión, el dejar la Marina, es tal vez el gran &lt;em&gt;y si&amp;hellip;&lt;/em&gt; de su vida, la intersección donde cree que tomó el camino equivocado (yo, claro, no acabo de compartirlo: de haber tomado la otra ruta, mis padres nunca se hubieran conocido, y yo no habría nacido. Mi padre me dijo una vez que habría conocido a mi madre de todas formas, y que yo sí habría nacido, sólo que en otro lugar. Lo dudo, pero, en cualquier caso, él está en su derecho a lamentar sus decisiones, aunque el fruto indirecto fuera yo).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Futuros</title>
+      <link>http://localhost:1313/2017/01/14/Futuros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2017/01/14/Futuros/</guid>
+      <description>&lt;p&gt;Leí, en los 90&amp;rsquo;s, varias novelas de &lt;a href=&#34;https://en.wikipedia.org/wiki/William_Gibson&#34;&gt;William Gibson&lt;/a&gt;. Me parecía entonces un escritor, con una calidad en la prosa que no abunda en el género de la ciencia ficción, pero cuya obra no acababa de engancharme, no lograba, sobre todo, que conectara con sus personajes, que me importara lo que pasaba.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gorriones</title>
+      <link>http://localhost:1313/2017/06/26/Gorriones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2017/06/26/Gorriones/</guid>
+      <description>El sábado, al salir de casa, encontramos un polluelo de gorrión caído de su nido, arrastrándose por el patio de nuestro edificio. Con la esperanza de que su madre volviera a por él, lo dejamos donde estaba, y nos marchamos. Pero, a nuestra vuelta, nada había cambiado, y el polluelo seguía allí, indefenso, en mitad del patio.&#xA;Decidimos llevarlo a casa, y, durante dos días, intentemos que estuviera alimentado y cómodo.</description>
+    </item>
+    <item>
+      <title>Historia de dos ciudades</title>
+      <link>http://localhost:1313/2017/01/15/Historia-de-dos-Ciudades/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2017/01/15/Historia-de-dos-Ciudades/</guid>
+      <description>&lt;p&gt;![V. y L.]({{ site.url }}/images/Wien_London.png)&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;(Esta es una historia real. Se puede amar a ciudades, como se ama a personas. Y pueden, al igual que las personas, romperte el corazón.)&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Infierno</title>
+      <link>http://localhost:1313/2017/05/15/Inferno/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2017/05/15/Inferno/</guid>
+      <description>Un sueño:&#xA;Un viejo enemigo, que, décadas atrás, cuando era joven, solía cubrirse la cara con un pañuelo, como un forajido del Oeste. Pero eso fue mucho tiempo atrás: los años habían pasado, y él había envejecido y muerto.&#xA;Yo necesitaba hacerle unas preguntas, sobre nuestro pasado, sobre algunos temas todavía presentes para mí, que sólo él conocía, así que fui a visitarle al Infierno.&#xA;El Infierno, al menos la parte donde nos reunimos, era un bar con luces rojas, donde todo el mundo fumaba.</description>
+    </item>
+    <item>
+      <title>Las películas del 2016</title>
+      <link>http://localhost:1313/2017/01/01/Las-peliculas-del-2016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2017/01/01/Las-peliculas-del-2016/</guid>
+      <description>&lt;p&gt;Ya es una costumbre comenzar el año repasando las películas que vi durante el que acaba de terminar (aunque algunas sean del 2015).&lt;/p&gt;&#xA;&lt;p&gt;![I, Daniel Blake]({{ site.url }}/images/daniel-blake.png)&lt;/p&gt;&#xA;&lt;p&gt;Este año, la mejor es, sin duda, &lt;em&gt;I, Daniel Blake&lt;/em&gt;, de &lt;a href=&#34;https://es.wikipedia.org/wiki/Ken_Loach&#34;&gt;Ken Loach&lt;/a&gt;, una desgarradora mirada a la máquina de humillación que las burocracias occidentales han generado alrededor del estado del bienestar, de como forzamos a muchos a la pobreza para luego culparles por ser pobres.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

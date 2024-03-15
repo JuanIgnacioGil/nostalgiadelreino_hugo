@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recuerdos on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/recuerdos/</link>
+    <description>Recent content in Recuerdos on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/recuerdos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gorriones</title>
+      <link>http://localhost:1313/2017/06/26/Gorriones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2017/06/26/Gorriones/</guid>
+      <description>El sábado, al salir de casa, encontramos un polluelo de gorrión caído de su nido, arrastrándose por el patio de nuestro edificio. Con la esperanza de que su madre volviera a por él, lo dejamos donde estaba, y nos marchamos. Pero, a nuestra vuelta, nada había cambiado, y el polluelo seguía allí, indefenso, en mitad del patio.&#xA;Decidimos llevarlo a casa, y, durante dos días, intentemos que estuviera alimentado y cómodo.</description>
+    </item>
+  </channel>
+</rss>

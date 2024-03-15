@@ -1,0 +1,9 @@
+---
+date: '2004-10-09T10:30:00+01:00'
+tags: []
+title: Cancion de Amergin
+tumblr_url: http://nostalgiadelreino.net/post/18895405122/cancion-de-amergin
+url: /2004/10/09/cancion-de-amergin/
+---
+
+<p>(Citada por Robert Graves, en &ldquo;La Diosa Blanca&rdquo;)<br/><br/><br/><br/></p><blockquote><br/><br/><br/><br/>Soy un ciervo: <em>de siente púas</em>,<br/><br/>soy una creciente: <em>a través de un llano</em>,<br/><br/>soy un viento: <em>en un lago profundo</em>,<br/><br/>soy una lágrima: <em>que el Sol deja caer</em>,<br/><br/>soy un gavilán: <em>sobre el acantilado</em>,<br/><br/>soy una espina: <em>bajo la uña</em>,<br/><br/>soy un prodigio: <em>entre flores</em>,<br/><br/>soy un mago: <em>¿quién sino yo<br/><br/>inflama la cabeza fría con humo?</em><br/><br/><br/><br/>Soy una lanza: <em>que anhela la sangre</em>,<br/><br/>soy un salmón: <em>en un estanque</em>,<br/><br/>soy un señuelo: <em>del paraíso</em>,<br/><br/>soy una colina: <em>por donde andan los poetas</em>,<br/><br/>soy un jabalí: <em>despiadado y rojo</em>,<br/><br/>soy un quebrantador: <em>que amenaza la ruina</em>,<br/><br/>soy una marea: <em>que arrastra a la muerte</em>,<br/><br/>soy un infante: <em>¿quién sino yo<br/><br/>atisba desde el arco no labrado del dolmen?</em><br/><br/><br/><br/>Soy la matriz: <em>de todos los bosques</em>,<br/><br/>soy la fogata: <em>de todas las colinas</em>,<br/><br/>soy la reina: <em>de todas las colmenas</em>,<br/><br/>soy el escudo: <em>de todas las cabezas</em>,<br/><br/>soy la tumba: <em>de todas las esperanzas.</em><br/><br/><br/><br/></blockquote><br/><br/><br/><br/><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-2966061911610749811?l=nostalgiadelreino.blogspot.com" alt=""/></div>

@@ -1,0 +1,14 @@
+---
+date: '2009-05-24T09:23:00+01:00'
+tags:
+  - Bob Dylan
+  - música
+  - siglo xx
+  - cine
+  - comics
+title: When the Ship Comes In
+tumblr_url: http://nostalgiadelreino.net/post/18785836361/when-the-ship-comes-in
+url: /2009/05/24/when-the-ship-comes-in/
+---
+
+<object width="500" height="405"><param name="movie" value="http://www.youtube.com/v/nrk25hHEb4A&amp;hl=es&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6&amp;border=1"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/nrk25hHEb4A&amp;hl=es&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6&amp;border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="405"></embed></object><br/><br/><a href="http://www.bobdylan.com/#/songs/when-ship-comes">Esta</a> es la canción que más escucho en los últimos tiempos. La escribió Dylan en el 64, después de que, según Joan Baez, le negaran la entrada a un hotel por su aspecto desastrado. Parece que Dylan leía mucho a Brecht en esa época, y que la letra está muy influenciada por <a href="http://inocenciayexperiencia.blogspot.com/2008/06/jenny-la-pirata.html">&ldquo;Jenny la novia del Pirata&rdquo;</a>, una de las canciones de <a href="http://en.wikipedia.org/wiki/The_Threepenny_Opera">&ldquo;La Ópera de los Tres Centavos&rdquo;</a> (otra obra basada en esta canción es Dogville, la película de Lars Von Trier, y también Alan Moore usó la imagen del Velero Negro en su Watchmen). <br/>Pero mientras que la canción de Brecht habla de la miseria, la frustración y el deseo de venganza (<em>Preguntándome /  “¿Los matamos AHORA, o LUEGO?” / ¡Preguntándome A MÍ! / “¿Los matamos ahora, o luego?” / Mediodía en el reloj y el muelle tranquilo / Se oye una sirena a millas de distancia / Y en esa quietud mortal / Diré: “Ahora. / ¡Ahora!”</em>), la de Dylan es una canción esperanzada, de un tiempo en que se miraba al futuro con ilusión, soñando con un mundo que iba a cambiar ya (y cambió, aunque no lo suficiente).<br/><br/><br/><blockquote>A song will lift<br/>As the mainsail shifts<br/>And the boat drifts on to the shoreline.<br/>And the sun will respect<br/>Every face on the deck,<br/>The hour that the ship comes in.</blockquote><br/><br/><br/><br/>Y yo llevo tantos años esperando ese barco que hará que todo vaya bien, que lo arreglará todo&hellip; Y el barco no llegaba. Y es ahora, muchos años después, mirando la costa, cuando me he dado cuenta de que no hay barco, de que debo construirlo yo, con mis manos. Y aún así, mientras talo árboles, mientras intento aprender a construir una balsa, sigo mirando el horizonte, todavía esperando.<div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-4809922711556310657?l=nostalgiadelreino.blogspot.com" alt=""/></div>

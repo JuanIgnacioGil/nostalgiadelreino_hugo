@@ -1,0 +1,9 @@
+---
+date: '2004-11-29T02:42:00+00:00'
+tags: []
+title: Tranquilidades
+tumblr_url: http://nostalgiadelreino.net/post/18895421763/tranquilidades
+url: /2004/11/29/tranquilidades/
+---
+
+<p>El fin de semana fluyó tranquilo (<em>Fluir</em>. Es <a href="http://mmhblue.blogspot.com/">Blue</a> quien usa siempre esa palabra. Y a veces es tan adecuada&hellip;). Las tormentas permanecen alejadas de mi alma.<br/><br/><br/><br/>Contando una historia. Cena con Q., escuchando de sus planes y aficiones. Paseos con mis padres por el Retiro, tomando fotos, recibiendo miradas irónicas desde a veces crueles <a href="http://museoreinasofia.mcu.es/exposiciones/exposicion.php?idexposicion=118&amp;tipo=actuales">pinturas</a>. E. lejos, concentrada en sus ensayos, pero cerca, mandándome mensajes que me hacen estremecer. Pasta con setas y trufas. Café con <a href="http://finitud.blogspot.com/">Wyan</a>. <a href="http://www.wkw2046.com/">Historias</a> de amores que llegan en el momento equivocado, escapando en un tren de fantasía, bellísimas azafatas robóticas en cuyos ojos puedes perderte para siempre. Chocolate con churros y huevos con pisto, y larga larga y esperada conversación con <a href="http://zirbethtales.blogspot.com/">Zirbeth</a>.<br/><br/>Y una noche con E. Y un despertar que llena todo este lunes.<br/><br/>Islas tropicales esperándome.<br/><br/>Y unas cortas vacaciones.<br/><br/>Y cruzar el mar. Caminar otra vez por Covent Garden.<br/><br/><br/><br/><br/><br/>Esto debe ser la paz&hellip;<br/><br/><br/><br/><br/><br/></p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-5784791371870122324?l=nostalgiadelreino.blogspot.com" alt=""/></div>

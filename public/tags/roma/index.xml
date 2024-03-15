@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roma on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/roma/</link>
+    <description>Recent content in Roma on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Sep 2014 20:43:47 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/roma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ianus</title>
+      <link>http://localhost:1313/2014/09/05/ianus/</link>
+      <pubDate>Fri, 05 Sep 2014 20:43:47 +0100</pubDate>
+      <guid>http://localhost:1313/2014/09/05/ianus/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Dos apuntes sobre Juliano</title>
+      <link>http://localhost:1313/2014/04/29/dos-apuntes-sobre-juliano/</link>
+      <pubDate>Tue, 29 Apr 2014 11:14:00 +0100</pubDate>
+      <guid>http://localhost:1313/2014/04/29/dos-apuntes-sobre-juliano/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>The narrow policy of preserving, without any foreign mixture, the pure blood of the ancient citizens, had checked the fortune, and hastened the ruin, of Athens and Sparta. The aspiring genius of Rome sacrificed vanity to ambition, and deemed it more prudent, as well as honorable, to adopt virtue and merit for her own wheresoever they were found, among slaves or strangers, enemies or barbarians.</title>
+      <link>http://localhost:1313/2013/11/23/the-narrow-policy-of-preserving-without-any/</link>
+      <pubDate>Sat, 23 Nov 2013 12:50:01 +0000</pubDate>
+      <guid>http://localhost:1313/2013/11/23/the-narrow-policy-of-preserving-without-any/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>But it is not your own Shire</title>
+      <link>http://localhost:1313/2012/09/12/but-it-is-not-your-own-shire/</link>
+      <pubDate>Wed, 12 Sep 2012 09:04:00 +0100</pubDate>
+      <guid>http://localhost:1313/2012/09/12/but-it-is-not-your-own-shire/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>El dictador</title>
+      <link>http://localhost:1313/2012/06/03/el-dictador/</link>
+      <pubDate>Sun, 03 Jun 2012 15:55:07 +0100</pubDate>
+      <guid>http://localhost:1313/2012/06/03/el-dictador/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Toda la vida se ha de ir estudiando, y lo que más se debe ponderar es que toda ella se ha de gastar en aprender a morir.</title>
+      <link>http://localhost:1313/2012/04/26/toda-la-vida-se-ha-de-ir-estudiando-y-lo-que-m%C3%A1s/</link>
+      <pubDate>Thu, 26 Apr 2012 04:31:02 +0100</pubDate>
+      <guid>http://localhost:1313/2012/04/26/toda-la-vida-se-ha-de-ir-estudiando-y-lo-que-m%C3%A1s/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>La idea de Europa</title>
+      <link>http://localhost:1313/2009/10/23/la-idea-de-europa/</link>
+      <pubDate>Fri, 23 Oct 2009 07:29:00 +0100</pubDate>
+      <guid>http://localhost:1313/2009/10/23/la-idea-de-europa/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>De Seneca, el deseo y la necesidad</title>
+      <link>http://localhost:1313/2009/03/09/de-seneca-el-deseo-y-la-necesidad/</link>
+      <pubDate>Mon, 09 Mar 2009 14:21:00 +0000</pubDate>
+      <guid>http://localhost:1313/2009/03/09/de-seneca-el-deseo-y-la-necesidad/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Atlantis Púnica</title>
+      <link>http://localhost:1313/2008/04/15/atlantis-p%C3%BAnica/</link>
+      <pubDate>Tue, 15 Apr 2008 19:32:00 +0100</pubDate>
+      <guid>http://localhost:1313/2008/04/15/atlantis-p%C3%BAnica/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>El Lupercal</title>
+      <link>http://localhost:1313/2007/11/22/el-lupercal/</link>
+      <pubDate>Thu, 22 Nov 2007 09:09:00 +0000</pubDate>
+      <guid>http://localhost:1313/2007/11/22/el-lupercal/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Meditaciones</title>
+      <link>http://localhost:1313/2007/09/19/meditaciones/</link>
+      <pubDate>Wed, 19 Sep 2007 12:10:00 +0100</pubDate>
+      <guid>http://localhost:1313/2007/09/19/meditaciones/</guid>
+      <description> </description>
+    </item>
+  </channel>
+</rss>

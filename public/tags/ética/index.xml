@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ética on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/%C3%A9tica/</link>
+    <description>Recent content in Ética on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%C3%A9tica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monstruos</title>
+      <link>http://localhost:1313/2016/11/09/Monstruos/</link>
+      <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2016/11/09/Monstruos/</guid>
+      <description>&lt;p&gt;Llevo años leyendo de los votantes de Trump, Farage, Le Pen y demás líderes del nuevo fascismo como víctimas. Víctimas de Wall Street, de la globalización, de las &lt;em&gt;élites liberales&lt;/em&gt;&amp;hellip; De lo que sea.&lt;/p&gt;&#xA;&lt;p&gt;No niego que cualquier ser humano merece nuestra compasión, y un esfuerzo por intentar entenderles. Pero muy a menudo se cruza una peligrosa línea, la que separa la compasión de la justificación.&lt;/p&gt;&#xA;&lt;p&gt;No se vota al fascismo porque el sistema te falle. Ni tampoco por ignorancia. Se vota al fascismo por maldad. Se le vota porque, si tu presidente es así, abiertamente racista, machista (y cualquier otro defecto que queramos pensar. Es un monstruo, y ni siquiera se molesta en ocultarlo), te da a ti licencia para sacar lo peor de ti mismo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Virtudes</title>
+      <link>http://localhost:1313/2014/12/10/virtudes/</link>
+      <pubDate>Wed, 10 Dec 2014 11:57:05 +0000</pubDate>
+      <guid>http://localhost:1313/2014/12/10/virtudes/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Zorros</title>
+      <link>http://localhost:1313/2014/10/27/zorros/</link>
+      <pubDate>Mon, 27 Oct 2014 12:52:00 +0000</pubDate>
+      <guid>http://localhost:1313/2014/10/27/zorros/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Del valor del tiempo</title>
+      <link>http://localhost:1313/2013/11/06/del-valor-del-tiempo/</link>
+      <pubDate>Wed, 06 Nov 2013 12:50:05 +0000</pubDate>
+      <guid>http://localhost:1313/2013/11/06/del-valor-del-tiempo/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>What I must do is all that concerns me, not what the people think. This rule, equally arduous in actual and in intellectual life, may serve for the whole distinction between greatness and meanness. It is the harder because you will always find those who think they know what is your duty better than you know it. It is easy in the world to live after the world’s opinion; it is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude.</title>
+      <link>http://localhost:1313/2012/05/29/what-i-must-do-is-all-that-concerns-me-not-what/</link>
+      <pubDate>Tue, 29 May 2012 04:29:02 +0100</pubDate>
+      <guid>http://localhost:1313/2012/05/29/what-i-must-do-is-all-that-concerns-me-not-what/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Elogio de la muerte</title>
+      <link>http://localhost:1313/2012/05/21/elogio-de-la-muerte/</link>
+      <pubDate>Mon, 21 May 2012 21:44:56 +0100</pubDate>
+      <guid>http://localhost:1313/2012/05/21/elogio-de-la-muerte/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>De la mediana edad</title>
+      <link>http://localhost:1313/2012/05/06/de-la-mediana-edad/</link>
+      <pubDate>Sun, 06 May 2012 16:12:55 +0100</pubDate>
+      <guid>http://localhost:1313/2012/05/06/de-la-mediana-edad/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Hay un precio a pagar por todo</title>
+      <link>http://localhost:1313/2012/04/25/hay-un-precio-a-pagar-por-todo/</link>
+      <pubDate>Wed, 25 Apr 2012 14:29:24 +0100</pubDate>
+      <guid>http://localhost:1313/2012/04/25/hay-un-precio-a-pagar-por-todo/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>No todo vale</title>
+      <link>http://localhost:1313/2012/04/24/no-todo-vale/</link>
+      <pubDate>Tue, 24 Apr 2012 11:36:21 +0100</pubDate>
+      <guid>http://localhost:1313/2012/04/24/no-todo-vale/</guid>
+      <description> </description>
+    </item>
+  </channel>
+</rss>

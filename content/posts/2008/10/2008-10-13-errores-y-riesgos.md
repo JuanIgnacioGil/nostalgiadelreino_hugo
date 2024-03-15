@@ -1,0 +1,10 @@
+---
+date: '2008-10-13T12:36:00+01:00'
+tags:
+  - Personal
+title: Errores y riesgos
+tumblr_url: http://nostalgiadelreino.net/post/18785804531/errores-y-riesgos
+url: /2008/10/13/errores-y-riesgos/
+---
+
+<blockquote>Pues nada funciona excepto aquello a lo que entregamos nuestra alma, nada es seguro excepto lo que arriesgamos.</blockquote><br/><br/><strong>Ursula K. Le Guin. Un Pescador del Mar Interior</strong><br/><br/>Recuerdo haber apuntado esa frase hace años, impresionado. <a href="http://es.wikipedia.org/wiki/Ursula_K._Le_Guin">Le Guin</a> ha sido uno de esos autores que me han enseñado a vivir. O, más bien, que podrían haberlo hecho si les hubiera hecho más caso.<br/><br/>Hay un corolario a esa cita que no conocía hasta ahora: vivir de verdad significa entregar el alma a todo, arriesgarlo todo. Yo no lo hice. Durante años, entregué mi alma a única única cosa de todas las que tenía, pasando por las demás casi como un fantasma, pensando que debía centrarme sólo en la más importante de todas, y que no importaba fallar en el resto. <br/>Y sólo me entregué (con fuerzas menguantes, por mi dejadez en todo el resto de mi vida), no arriesgué nada, preferí aferrarme a lo que tenía, aterrorizado por la idea de perderlo. Me atrincheré, me convertí en un espectro, y lo eché todo a perder. Y me eché a perder a mí mismo.<br/><br/>Y llegó, por supuesto, el merecido hundimiento final. Finalmente perdí todo lo que creía tener. Me vi extraviado, caído, desnudo, muerto, vacío, muy cerca del final definitivo.<br/><br/>Ahora he resucitado, y espero no volver a cometer los mismos errores. Esta tercera vida la viviré de verdad, entregándome a todo, arriesgándolo todo, luchando, soñando, respirando. <br/>Ojalá realmente haya aprendido.<div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-5880299777972377460?l=nostalgiadelreino.blogspot.com" alt=""/></div>

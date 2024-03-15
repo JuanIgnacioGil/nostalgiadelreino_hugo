@@ -1,0 +1,9 @@
+---
+date: '2004-09-29T17:21:00+01:00'
+tags: []
+title: no title
+tumblr_url: http://nostalgiadelreino.net/post/18895401484/you-dont-have-to-believe-in-god-but-what-about
+url: /2004/09/29/you-dont-have-to-believe-in-god-but-what-about/
+---
+
+<p><span style="font-style: italic;">-You don&rsquo;t have to believe in God. But what about gods? Eh? The plurality of powers and dominions. The lords and ladies of field and thorn, of asphalt and sewers, gods of telephone and whore, gods of hospital and car-crash?</span><span style="font-style: italic;"><br/><br/>-This is crazy.</span><span style="font-style: italic;"><br/><br/>-There is a madness needed to touch the gods, yes, this is true. Few mortals possess it, the willingness to step away from the protection of sanity. To walk into the wild woods of madness.</span><br/><br/><br/><br/><span style="font-weight: bold;">de <span style="font-style: italic;">The Kindly Ones</span>, de Neil Gaiman</span><br/><br/><br/><br/>Un recuerdo de hace años, y que conté hace un par de días:<br/><br/><br/><br/>Caminaba con un amigo (aquel señor que mencioné en otro escrito que sólo escucha a Queen y Led Zeppelin) por el Paseo del Prado, a altas horas de la madrugada. Y necesitábamos mear. Él decidió usar la fuente de Neptuno para ello. Y yo, que iba a seguirle, no fui capaz. Y no por civismo.<br/><br/>Me di cuenta de que si hubiera meado en la fuente del dios, nunca más me habría acercado con tranquilidad a la orilla del mar, ni a caballos, ni a zonas de terremotos.<br/><br/><br/><br/>(escuchando: Philip Glass: <a href="http://www.glasspages.org/akhnaten.html">Akhnaten</a>. Acto I. Escena 3)<br/><br/><br/><br/><br/><br/></p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-3926665101080456277?l=nostalgiadelreino.blogspot.com" alt=""/></div>

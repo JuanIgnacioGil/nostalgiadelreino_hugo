@@ -1,0 +1,9 @@
+---
+date: '2004-10-02T08:27:00+01:00'
+tags: []
+title: El rapto de Europa
+tumblr_url: http://nostalgiadelreino.net/post/18895402755/el-rapto-de-europa
+url: /2004/10/02/el-rapto-de-europa/
+---
+
+<p>Si estuviera en otro momento de mi vida, quizás haría un alegato de por qué Turquía tiene que entrar en la Unión Europea. De la maravillosa oportunidad que supone, de mostrar que un país musulmán puede estar del todo integrado en Occidente, que pueden compartir nuestros (¿?) ideales democráticos, que la política no tiene nada que ver con quiénes sean tus dioses. Diría que es una magnífica oportunidad para la paz, para que dejamos de ser vistos como enemigos. <br/><br/>Escribiría del pasado, de cómo Turquía ha tenido más importancia, más participación, en nuestra historia, que muchos países que ya están en la Unión Europea (<em>¿quién sabe algo de Estonia?</em>), que llevamos tanto tiempo luchando contra ellos (desde la guerra de Troya) que ya se han convertido en parte de nosotros.<br/><br/><br/><br/>Pero no es ese momento, y lo que voy a contaros es otra cosa:<br/><br/><br/><br/>Sobre uno de mis altavoces tengo puestas como adorno unas cuantas monedas, de lugares que he visitado, o que han caído en mis manos, y me han gustado lo bastante como para dejarlas allí. Una de ellas es la moneda griega de dos euros. Muestra un toro con una chica semidesnuda montada sobre él. Es el rapto de <a href="http://en.wikipedia.org/wiki/Europa_%28mythology%29">Europa</a>, el principio de todo. Nuestros tres mil años de historia comienzan allí: con una princesa de Oriente Medio secuestrada por uno de nuestros dioses, violada y convertida en madre de nuestros reyes. </p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-1343446991086583421?l=nostalgiadelreino.blogspot.com" alt=""/></div>

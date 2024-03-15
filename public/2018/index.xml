@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2018s on My New Hugo Site</title>
+    <link>http://localhost:1313/2018/</link>
+    <description>Recent content in 2018s on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/2018/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chalecos</title>
+      <link>http://localhost:1313/2018/12/12/Chalecos/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2018/12/12/Chalecos/</guid>
+      <description>Copio aquí una larga diatriba que publiqué en Facebook, tras ver con desesperación como mi portada estaba llena de post alabando a los gilets jaunes, y jaleando para que hiciéramos lo mismo en España.&#xA;No suelo hablar de política aquí (para eso es Twitter), pero ha sido abrir esto esta noche y ver montones de gente compartiendo publicaciones sobre los gilets jaunes, y, francamente, no puedo más. No tras lo de Andalucía, y del bochorno que vivimos todos los días en UK.</description>
+    </item>
+    <item>
+      <title>Peligros</title>
+      <link>http://localhost:1313/2018/12/07/Peligros/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2018/12/07/Peligros/</guid>
+      <description>La semana pasada terminó con una noticia terrible: el fin de la excepcionalidad española: ya tenemos un partido fascista con representación parlamentaria, y con un aterrador 11% de los votos.&#xA;Supongo que era inevitable, que no podíamos mantener ese estado de normalidad democrática frente a este enemigo que está atacando en todo el mundo. Una de los comentarios que más se escuchan sobre esto es que es culpa de las elites liberales internacionales, de que en la globalización se está axfisiando al pueblo, y que la izquierda se ha olvidado de la gente normal y ahora se dedica a defender a las minoría (que, parece, no entran dentro de esa categoría de gente), que es un voto protesta, de furia, pero no que no corresponde a la verdadera ideología de sus votantes.</description>
+    </item>
+    <item>
+      <title>¿Dónde está la izquierda?</title>
+      <link>http://localhost:1313/2018/03/25/donde-esta-la-izquierda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2018/03/25/donde-esta-la-izquierda/</guid>
+      <description>De todos las tragedias políticas de los últimos dos años, creo que la que más me ha costado entender y aceptar fue la abstención de Mélenchon en la segunda ronda de las presidenciales francesas, hace ahora casi un año. Se trataba de elegir entre un candidado liberal y una fascista. Cualquier persona de bien, da igual su orientación, debía tener claro a quién votar allí. Yo me he preguntado a veces a quién habría votado en primera ronda (mi candidato natural habría sido Hamon, socialista apoyado por los ecologistas, pero no sé si no habría votado a Macron para evitar tener que elegir en segunda ronda entre una fascista y un ultraconservador.</description>
+    </item>
+    <item>
+      <title>Las películas del 2017</title>
+      <link>http://localhost:1313/2018/01/01/Las%20peliculas%20del%202017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2018/01/01/Las%20peliculas%20del%202017/</guid>
+      <description>El 2017 ha sido un año extraño, y difícil, regresando a Madrid, y pensando de nuevo en dejarlo, uno de esos años de transición que no sabes dónde estás, ni a dónde vas realmente. Por eso dos de las tres películas que cito aquí son en realidad del 2016, aunque yo no las vi hasta regresar a Madrid, en febrero.&#xA;Toni Erdmann, de Maren Ade En su momento, a finales del 2016 (¡qué lejano parece ese finales del 2016!</description>
+    </item>
+    <item>
+      <title>Segundas oportunidades</title>
+      <link>http://localhost:1313/2018/07/25/segundas-oportunidades/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2018/07/25/segundas-oportunidades/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Leía hoy en Twitter a un nacionalista catalán quejándose de quien vivía&#xA;en Cataluña &lt;em&gt;sin emociones&lt;/em&gt;. La absurdez de la idea, es, por supuesto,&#xA;manifiesta: el que es&#xA;imposible vivir en un sitio sin emociones, si eres humano, el que cuando él&#xA;se refiere a emociones se refiere a tus sentimientos por un trapo de colores,&#xA;no por la ciudad donde habitas, y que, aún así, nada tienen que ver&#xA;esas emociones (incluso las que sientas por el trapo) con la organización&#xA;política de tu ciudad (yo me emociono mucho en las Olimpiadas, pero&#xA;eso no influye en nada en mi sueño de ver al estado estañol disolverse en&#xA;una federación europea o mundial).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

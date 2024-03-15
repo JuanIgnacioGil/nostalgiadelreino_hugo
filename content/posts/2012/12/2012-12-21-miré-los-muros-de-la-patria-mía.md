@@ -1,0 +1,16 @@
+---
+date: '2012-12-21T11:28:00+00:00'
+tags:
+  - Madrid
+  - España
+  - arte
+  - historia
+title: Miré los muros de la patria mía
+tumblr_url: http://nostalgiadelreino.net/post/38456265053/miré-los-muros-de-la-patria-mía
+url: /2012/12/21/miré-los-muros-de-la-patria-mía/
+---
+
+<p><span><img alt="image" src="http://66.media.tumblr.com/1b2ddf562150a6305139c2a55e972561/tumblr_inline_mfdmftOuBj1r8a7sj.jpg"/></span></p>
+<p><span><br/></span></p>
+<p><span>Pasé la tarde de ayer en el Prado, pudiendo, por primera vez en bastante tiempo, pasear con cierta calma por las salas de la colección permanente, visitando a mis cuadros favoritos, esquivando a los grandes grupos con sus guías (me perdí al Bosco huyendo de una de esas muchedumbres). Cuando me echaron (literalmente, con una de las vigilantes gritándome “Excuse me!” cuando amagué con pararme de nuevo frente a la Anunciación de Fra Angelico en el camino de salida) salí al Paseo del Prado mareado, completamente sobrepasado, con una frase repitiéndose en mi mente: </span><em>Es demasiado</em><span>.</span><br/><span></span><br/><span></span></p>
+<p><em>Es demasiado</em><span> había sido inicialmente mi reacción ante <em>Las Meninas</em>. Anoche hubo suerte, y la enorme sala donde está el cuadro estaba casi vacía. Pude detenerme con calma, cambiar de posición, acercarme, alejarme, pararme, mirar a cada uno de los personajes, el espejo, los cuadros, el perro. Y es simplemente demasiado. No es esa belleza perfecta de los Leonardos. Es simplemente demasiado. Todo un mundo metido en una pintura.</span><br/><br/><span>Pero después ese </span><em>es demasiado</em><span> comenzó a referirse a todo el museo. No hay una colección así en todo el mundo. ¿Cuántos Velázquez, Tizianos, Rubens, Grecos, Boscos, Dureros, Murillos? Es simplemente abrumador. Y lo sería aún más, de no ser por el fuego. En 1734 se quemó totalmente el Real Alcázar de Madrid, y más de quinientas pinturas desaparecieron para siempre.<em> Las Meninas</em> se salvó gracias a que fue arrojada por la ventana. </span><em>La expulsión de los moriscos</em><span>, la obra que había hecho famoso a Velázquez, se perdió. Y, con ella, cuadros de Rubens, El Greco, El Bosco, Rafael, Leonardo (¡Leonardos! Que nunca veremos ya).</span><br/><br/><span>El Prado es el mejor lugar para entender lo que era ese Madrid imperial de los Austrias. Una siniestra aldea convertida en el verdadero centro del mundo. Casi todos los genios de la época trabajando para la corona española. Un estallido de brillo que duró poco. Ya en la época en que Rubens y Velázquez pintaban, Quevedo escribía ese</span><br/><br/><em>Miré los muros de la patria mía,<br/>si un tiempo fuertes ya desmoronados<br/>de la carrera de la edad cansados<br/>por quien caduca ya su valentía.</em><br/><br/><span>¿Qué quedó, aparte de esa prodigiosa colección? Un país miserable, ignorante, atrasado, devastado por las guerras. Eso es España. La tierra de las oportunidades perdidas, de las explosiones de brillo y el olvido.</span><strong id="internal-source-marker_0.06606139056384563"><br/></strong></p>

@@ -1,0 +1,9 @@
+---
+date: '2006-01-18T07:01:00+00:00'
+tags: []
+title: no title
+tumblr_url: http://nostalgiadelreino.net/post/18842414356/este-blog-existía-por-debilidad-por-vanidad-me
+url: /2006/01/18/este-blog-existía-por-debilidad-por-vanidad-me/
+---
+
+<p>Este blog existía por debilidad, por vanidad. Me engañaba a mí mismo creyendo que lo que pudiera escribir, contar, tenía algún valor. Se convirtió en un repugnante templo a mí mismo. Llegué a llevar una vida falsa en la red (falsa, pues nada de lo que haya en la red puede ser real).<br/>Y mentí, hice daño, me perdí, distraí mi atención del mundo real, ciego, lleno de vanidad y orgullo. Y busqué, porque por mi debilidad lo necesitaba, afecto y admiración en esa vida falsa. Un afecto y una admiración que tampoco valían nada, pues no eran mi verdadera vida, sino un producto de este repugnante blog, que tanto daño ha hecho.<br/><br/><br/>Pero toda esa debilidad, toda esa vanidad, han quedado atrás al fin.<br/>Iwan Manjak desaparece aquí (no muere, pues no puede morir lo que nunca ha vivido). No lo busquéis. No existe. Nunca existió.<br/><br/><br/><br/><br/><br/><br/>¿Mi vida? Mi verdadera vida es Elise, la criatura más bella y maravillosa de este mundo. De cualquier mundo.<br/>Mi amor por ella es absoluto, infinito. Lo llena todo. Moriría por ella. Ahora mismo. Sin dudarlo.<br/>Ella es el aire que respiro, mi sueño, mi reino perdido. No necesito nada más. No deseo nada más.<br/>Y mis palabras, tan torpes como siempre, no dan para expresarlo todo. Nunca podrán reflejar totalmente todo mi amor, la verdadera y única finalidad de mi vida. Por eso no tiene sentido que escriba más. Viviré, a su lado, feliz.</p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-1853096988896200528?l=nostalgiadelreino.blogspot.com" alt=""/></div>

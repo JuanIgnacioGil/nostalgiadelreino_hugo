@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SXIX on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/sxix/</link>
+    <description>Recent content in SXIX on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Nov 2012 14:20:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sxix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Veo hoy, en mi memoria, Grecia</title>
+      <link>http://localhost:1313/2012/11/09/veo-hoy-en-mi-memoria-grecia/</link>
+      <pubDate>Fri, 09 Nov 2012 14:20:00 +0000</pubDate>
+      <guid>http://localhost:1313/2012/11/09/veo-hoy-en-mi-memoria-grecia/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>De aduanas y pasaportes</title>
+      <link>http://localhost:1313/2012/06/29/de-aduanas-y-pasaportes/</link>
+      <pubDate>Fri, 29 Jun 2012 14:42:58 +0100</pubDate>
+      <guid>http://localhost:1313/2012/06/29/de-aduanas-y-pasaportes/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>What I must do is all that concerns me, not what the people think. This rule, equally arduous in actual and in intellectual life, may serve for the whole distinction between greatness and meanness. It is the harder because you will always find those who think they know what is your duty better than you know it. It is easy in the world to live after the world’s opinion; it is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude.</title>
+      <link>http://localhost:1313/2012/05/29/what-i-must-do-is-all-that-concerns-me-not-what/</link>
+      <pubDate>Tue, 29 May 2012 04:29:02 +0100</pubDate>
+      <guid>http://localhost:1313/2012/05/29/what-i-must-do-is-all-that-concerns-me-not-what/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Le Mort joyeux</title>
+      <link>http://localhost:1313/2011/11/21/le-mort-joyeux/</link>
+      <pubDate>Mon, 21 Nov 2011 04:04:00 +0000</pubDate>
+      <guid>http://localhost:1313/2011/11/21/le-mort-joyeux/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Invierno en Walden</title>
+      <link>http://localhost:1313/2007/06/09/invierno-en-walden/</link>
+      <pubDate>Sat, 09 Jun 2007 20:32:00 +0100</pubDate>
+      <guid>http://localhost:1313/2007/06/09/invierno-en-walden/</guid>
+      <description> </description>
+    </item>
+  </channel>
+</rss>

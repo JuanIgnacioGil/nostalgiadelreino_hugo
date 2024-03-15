@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cartago on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/cartago/</link>
+    <description>Recent content in Cartago on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Apr 2008 19:32:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cartago/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atlantis Púnica</title>
+      <link>http://localhost:1313/2008/04/15/atlantis-p%C3%BAnica/</link>
+      <pubDate>Tue, 15 Apr 2008 19:32:00 +0100</pubDate>
+      <guid>http://localhost:1313/2008/04/15/atlantis-p%C3%BAnica/</guid>
+      <description> </description>
+    </item>
+  </channel>
+</rss>

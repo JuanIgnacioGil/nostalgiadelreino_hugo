@@ -1,0 +1,9 @@
+---
+date: '2004-07-22T15:40:00+01:00'
+tags: []
+title: no title
+tumblr_url: http://nostalgiadelreino.net/post/18941129344/no-podré-publicar-esto-hasta-el-jueves-por-la
+url: /2004/07/22/no-podré-publicar-esto-hasta-el-jueves-por-la/
+---
+
+<p>No podré publicar esto hasta el jueves por la noche, pero ahora, cuando escribo, es martes, y estoy en una sala de espera de Barajas. Quería terminar lo antes posible la narración de mi viaje a Santiago, mientras aún está del todo vivo. Así que, por una vez, mi iBook me acompaña en uno de estos absurdos viajes corporativos.<br/><br/><br/><br/>Quizás deba una explicación, del porqué de toda esta larga historia de un viaje. Por qué tras todos escritos tan introspectivos aparezco de repente con algo así. Pero este fin de semana hecho cambiar mi punto de vista sobre muchas cosas, sobre cómo es posible cambiar las cosas,  El episodio de la maleta, que más tarde narraré, y que puede parecer solamente una anécdota curiosa, encerró para mí un simbolismo enorme.<br/><br/><br/><br/>Y por eso es necesario esta larga crónica de mi viaje. Porque en algunos aspectos, me ha hecho cambiar. Y ese, creo, es uno de los temas recurrentes en este blog. Probablemente &ldquo;cambio&rdquo; y &ldquo;evolución&rdquo; sean algunas de las palabras que más he usado a lo largo de todos estos meses.<br/><br/><br/><br/>También, creo, el propio blog me está cambiando, haciéndome reflexionar sobre cosas que siempre habían estado rondando por aquí, pero a las que nunca había prestado demasiada atención. <br/><br/><br/><br/></p><blockquote><em> I told him that there was always freedom. Even the ultimate freedom: the freedom to leave</em></blockquote><br/><br/><br/><br/><strong>de <em>The Kindly Ones</em>, de Neil Gaiman</strong><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-3008530106599803673?l=nostalgiadelreino.blogspot.com" alt=""/></div>

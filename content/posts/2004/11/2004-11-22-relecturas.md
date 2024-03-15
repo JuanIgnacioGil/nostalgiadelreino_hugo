@@ -1,0 +1,9 @@
+---
+date: '2004-11-22T02:46:00+00:00'
+tags: []
+title: Relecturas
+tumblr_url: http://nostalgiadelreino.net/post/18895419796/relecturas
+url: /2004/11/22/relecturas/
+---
+
+<p>No me gustó El Quijote la primera vez que lo leí, en mi adolescencia. Supongo que, en gran parte, se debía a que fue una lectura obligada, en el instituto. Difícilmente puedes disfrutar de algo así.<br/><br/>Pero había otras razones: me parecía tan desagradable, tan bajo&hellip; La historia de dos locos que vagabundeaban por España vomitando y recibiendo palizas. Yo era diferente en esos tiempos, creía que el mundo podía ser cambiado, domado, que podía amoldarse a mis altas expectativas, que realmente había sitio en él para mí, y que , de no haberlo, lo crearía.<br/><br/><br/><br/>En parte, añoro a aquel chico, a cuando podía pensar así.<br/><br/><br/><br/>Ahora sé que, si deseas un sitio en este mundo, tienes que cambiar, someterte, para tenerlo. O aceptar que no lo hay, vivir en un margen, tratar de buscar la felicidad en rincones, en fronteras, en sueños y lugares inexistentes.<br/><br/>Ahora sé cuán vulnerables podemos llegar a ser, lo solos que podemos llegar a sentirnos.<br/><br/>Ahora sé que, aunque una venta no pueda satisfacernos, es casi imposible encontrar castillos. Pero que seguimos necesitándolos, y que no podemos perder la esperanza. Que sin nuestros sueños de castillos y princesas no somos nada.<br/><br/><br/><br/><br/><br/>Por eso, en estos días, en mi primera relectura del Quijote, todo ha cambiado, y puedo al fin disfrutar inmensamente de esta obra. Y leer con verdadero amor las desventuras del más grande caballero de La Mancha. Y desear que pudiera haber castillos y princesas para él. Para todos nosotros.</p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-853943970169882558?l=nostalgiadelreino.blogspot.com" alt=""/></div>

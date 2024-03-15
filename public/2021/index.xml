@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2021s on My New Hugo Site</title>
+    <link>http://localhost:1313/2021/</link>
+    <description>Recent content in 2021s on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Las Películas del 2020</title>
+      <link>http://localhost:1313/2021/01/02/Las-Peliculas-del-2020/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2021/01/02/Las-Peliculas-del-2020/</guid>
+      <description>Un año sin cine, sin ese ritual de la sala a oscuras, la pantalla grande, el silencio, la imposibilidad de parar lo que sucede en la pantalla para charlar o mirar tu móvil.&#xA;La mayoría del cine que vi este año ha sido en pantalla pequeña, la televisión, o, en la más pequeña aún, el iPad durante los dos meses que pasé en el hospital (pensaba que escribiría y escribiría sobre ello en cuanto saliese, de la leucemia, la incertidumbre de si vas a vivir, de la necesidad de cambiar mi vida para siempre con esta segunda oportunidad, de cómo en 2020 lo perdí todo, para luego ganarlo todo de nuevo, y la responsabilidad que ello implica, pero creo que aún no soy capaz, que aún estoy intentando entender lo sucedido)</description>
+    </item>
+  </channel>
+</rss>

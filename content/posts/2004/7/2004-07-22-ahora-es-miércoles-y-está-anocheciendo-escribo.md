@@ -1,0 +1,9 @@
+---
+date: '2004-07-22T15:41:00+01:00'
+tags: []
+title: no title
+tumblr_url: http://nostalgiadelreino.net/post/18941129745/ahora-es-miércoles-y-está-anocheciendo-escribo
+url: /2004/07/22/ahora-es-miércoles-y-está-anocheciendo-escribo/
+---
+
+<p>Ahora es miércoles, y está anocheciendo. Escribo desde el balcón de mi habitación, en un hotel de Lanzarote. Frente a mí, las olas rompen contra la costa, y ese, junto con el de mis dedos tecleando, es el único sonido que escucho. Incluso el Lovesong de The Cure, la canción que en los últimos días se repite constantemente en mi mente, ha decidido concederme una tregua.<br/><br/>A mi lado, sobre la mesa, hay una pequeña roca negra, lava solidificada, ligera y porosa. La recogí hace unas horas, cerca del Timanfaya. Esa roca cubre la mitad de la isla, creando un paisaje que hace que te sientas en otro mundo: llanuras de roca negra, que  se detienen para dar lugar a conos volcánicos, cubiertos de arena negra, marrón y roja.<br/><br/><br/><br/>Y Santiago comienza a alejarse del primer plano de mi mente. Todo lo que viví allí comienza a convertirse en recuerdos, en maravillosos recuerdos, y esa sensación de salvaje alegría, empieza a remitir. Aquí, frente al mar, viendo anochecer, escuchando las olas, es difícil sentir nada que no sea paz, tranquilidad, esa suave saudade de los portugueses.<br/><br/><br/><br/>Por eso he de terminar pronto mi narración, mientras aún quede algo de ella viva. </p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-6474870857137488704?l=nostalgiadelreino.blogspot.com" alt=""/></div>

@@ -1,0 +1,15 @@
+---
+date: '2009-03-09T14:21:00+00:00'
+tags:
+  - vivir
+  - estoicismo
+  - filosofía
+  - citas
+  - antigüedad
+  - Roma
+title: De Seneca, el deseo y la necesidad
+tumblr_url: http://nostalgiadelreino.net/post/18785834816/de-seneca-el-deseo-y-la-necesidad
+url: /2009/03/09/de-seneca-el-deseo-y-la-necesidad/
+---
+
+<p><img src="http://nostalgiadelreino.net/blog/wp-content/uploads/2009/03/seneca-243x300.jpg" alt="Séneca" title="Séneca" width="243" height="300" class="alignleft size-medium wp-image-527"/><br/><br/></p><blockquote><em>¿Qué nos impide, en efecto, decir que la felicidad de la vida consiste en un alma libre, levantada, intrépida y constante, inaccesible al miedo y a la codicia, para quien el único bien sea la virtud, el único mal la vileza, y lo demás un montón de cosas sin valor, que no quitan ni añaden nada a la felicidad de la vida, ya que vienen y se van sin aumentar ni diminuir el sumo bien? A este principio así fundado tiene que seguir quiera o no, una alegría constante y un gozo profundo que viene desde lo hondo, pues se alegra de lo suyo propio y no desea bienes mayores que los privados. ¿Porqué no han de compensar bien estas cosas los movimientos mezquinos, frívolos e inconstantes de nuestro cuerpo flaco?. El día que lo domine el placer, lo dominará también el dolor.</em> </blockquote><br/><br/><strong><a href="http://es.wikipedia.org/wiki/S%C3%A9neca">Lucius Annæus Seneca</a>, <em><a href="http://es.wikipedia.org/wiki/De_la_felicidad">De la Felicidad</a></em></strong><br/><br/><br/>No debe tratarse de renunciar al deseo. Son los deseos, los sueños, lo que de verdad nos mueven, lo que nos da la posibilidad de brillar. Se trata de servirnos de nuestros deseos, en lugar de servirles a ellos. De no necesitar nada salvo a nosotros mismos. De no dar nada por supuesto en nuestras vidas.<br/>Nada que necesites te puede dar la felicidad. La necesidad crea un vacío en ti, y cubrir esa necesidad no hace sino llenar ese vacío. Cuando no necesitas nada, y no existe ningún vacío que llenar, es cuando comienzas a estar preparado para ser realmente feliz, para disfrutar de todo lo que la vida nos da. <br/><br/>Séneca dedica gran parte de la segunda mitad del &ldquo;De la Felicidad&rdquo; a excusarse por su vida, por su prosperidad, sus riquezas. Tanto él como otros de sus colegas estoicos eran muy atacados por no vivir como predicaban (y en la vida de Séneca, su afán de poder y riqueza, y su servilismo hacia el despotismo de Nerón hay poco del ideal estoico). De todas las excusas, la que me resulta más válida es a la que quizás dedica menos atención: a la falta de necesidad. <em>Para mí</em>, dice,  <em>las riquezas, si se pierden, no me quitarán más que a sí mismas; tú te quedarás pasmado, y te parecerá que estás abandonado de ti mismo si se alejan de ti; en mí las riquezas tienen algún lugar; en ti el más alto; en suma, las riquezas son mías, tú eres de las riquezas. </em><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-7920263941897013853?l=nostalgiadelreino.blogspot.com" alt=""/></div>

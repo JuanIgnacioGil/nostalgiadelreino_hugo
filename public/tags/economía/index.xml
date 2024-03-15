@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economía on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/econom%C3%ADa/</link>
+    <description>Recent content in Economía on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/econom%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daniel Blake</title>
+      <link>http://localhost:1313/2016/10/23/Daniel-Blake/</link>
+      <pubDate>Sun, 23 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2016/10/23/Daniel-Blake/</guid>
+      <description>Vi anoche la magnífica I, Daniel Blake, de Ken Loach. Al salir del cine, el terrible contraste del Londres de cada día estaba más presente que nunca: el lujo, las multitudes bien vestidas, bien alimentadas, que salen a gastar cantidades absurdas de dinero en entretenerse (entre los que nos contábamos), y la otra multitud, la invisible, la de los mendigos durmiendo en la calle, muchos más que en otras grandes ciudades europeas, y muchos de ellos jóvenes, muy jóvenes.</description>
+    </item>
+    <item>
+      <title>newyorker cartoon by tom toro for</title>
+      <link>http://localhost:1313/2012/11/21/newyorker-cartoon-by-tom-toro-for/</link>
+      <pubDate>Wed, 21 Nov 2012 08:31:05 +0000</pubDate>
+      <guid>http://localhost:1313/2012/11/21/newyorker-cartoon-by-tom-toro-for/</guid>
+      <description>newyorker:</description>
+    </item>
+    <item>
+      <title>De mineros</title>
+      <link>http://localhost:1313/2012/06/01/de-mineros/</link>
+      <pubDate>Fri, 01 Jun 2012 09:56:26 +0100</pubDate>
+      <guid>http://localhost:1313/2012/06/01/de-mineros/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Dos notas breves en una mañana de cabreo</title>
+      <link>http://localhost:1313/2011/08/04/dos-notas-breves-en-una-ma%C3%B1ana-de-cabreo/</link>
+      <pubDate>Thu, 04 Aug 2011 03:44:00 +0100</pubDate>
+      <guid>http://localhost:1313/2011/08/04/dos-notas-breves-en-una-ma%C3%B1ana-de-cabreo/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>La autorregulación de la economía (II)</title>
+      <link>http://localhost:1313/2009/08/23/la-autorregulaci%C3%B3n-de-la-econom%C3%ADa-ii/</link>
+      <pubDate>Sun, 23 Aug 2009 07:01:00 +0100</pubDate>
+      <guid>http://localhost:1313/2009/08/23/la-autorregulaci%C3%B3n-de-la-econom%C3%ADa-ii/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>La autorregulación de la economía</title>
+      <link>http://localhost:1313/2009/08/12/la-autorregulaci%C3%B3n-de-la-econom%C3%ADa/</link>
+      <pubDate>Wed, 12 Aug 2009 06:53:00 +0100</pubDate>
+      <guid>http://localhost:1313/2009/08/12/la-autorregulaci%C3%B3n-de-la-econom%C3%ADa/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Dos pequeños interludios</title>
+      <link>http://localhost:1313/2009/01/26/dos-peque%C3%B1os-interludios/</link>
+      <pubDate>Mon, 26 Jan 2009 11:35:00 +0000</pubDate>
+      <guid>http://localhost:1313/2009/01/26/dos-peque%C3%B1os-interludios/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Crisis</title>
+      <link>http://localhost:1313/2008/10/09/crisis/</link>
+      <pubDate>Thu, 09 Oct 2008 12:10:00 +0100</pubDate>
+      <guid>http://localhost:1313/2008/10/09/crisis/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>¿Qué hacer con los camioneros y los pescadores?</title>
+      <link>http://localhost:1313/2008/06/10/qu%C3%A9-hacer-con-los-camioneros-y-los-pescadores/</link>
+      <pubDate>Tue, 10 Jun 2008 18:35:00 +0100</pubDate>
+      <guid>http://localhost:1313/2008/06/10/qu%C3%A9-hacer-con-los-camioneros-y-los-pescadores/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>La catástrofe malthusiana</title>
+      <link>http://localhost:1313/2008/05/12/la-cat%C3%A1strofe-malthusiana/</link>
+      <pubDate>Mon, 12 May 2008 12:20:00 +0100</pubDate>
+      <guid>http://localhost:1313/2008/05/12/la-cat%C3%A1strofe-malthusiana/</guid>
+      <description> </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,9 @@
+---
+date: '2004-10-04T15:28:00+01:00'
+tags: []
+title: no title
+tumblr_url: http://nostalgiadelreino.net/post/18895403426/recuerdo-este-cibercafé-estuve-aquí-hace-dos
+url: /2004/10/04/recuerdo-este-cibercafé-estuve-aquí-hace-dos/
+---
+
+<p>Recuerdo este cibercafé&hellip; Estuve aquí hace dos semanas, tras visitar dos islas en un día, abrumado por sueños, por temores&hellip;<br/><br/>Ahora he vuelto, aquí, junto a la Plaza de Santa Catalina, tras el despertar. Es un día gris en Las Palmas. En realidad casi todos los días que recuerdo en esta ciudad lo son. Me han dicho que el sur de la isla es muy diferente, todo sol y calor. Pero la capital, pese a sus casas de colores, es una ciudad gris.<br/><br/><br/><br/>Muchas, muchas cosas han cambiado desde mi última visita a esta isla, desde que me vistéis caer, desde que me diera cuenta después de cuánto de pose tenía esa misma caída. Ahora regreso, aún envuelto sueños, algunos de ellos incluso nuevos (<em>un gran gran viaje en el horizonte&hellip; todavía demasiado lejano para saber si será real&hellip;</em>). Y en recuerdos (<em>Suena Boys Don&rsquo;t Cry&hellip; E. chilla, y bailamos&hellip;</em>).<br/><br/><br/><br/>¿Sólo hace dos semanas que estuve aquí? Parece tan lejano&hellip; Y no es por el precipitarse de los acontecimientos. Hace años que me sucede. Mi sentido del tiempo quedó destrozado en algún momento a principios de este siglo, y desde entonces el tiempo pasa tan despacio&hellip; los acontecimientos de dos semanas atrás siempre me parecen un remoto pasado.<br/><br/><br/><br/><br/><br/>Os dejo. Se hace de noche en las islas, y me espera un paseo por la playa de las Canteras&hellip;</p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-1744571567985194489?l=nostalgiadelreino.blogspot.com" alt=""/></div>

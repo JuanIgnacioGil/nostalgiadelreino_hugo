@@ -1,0 +1,13 @@
+---
+date: '2010-04-14T06:29:00+01:00'
+tags:
+  - España
+  - política
+  - siglo xx
+  - historia
+title: En apoyo de Garzón
+tumblr_url: http://nostalgiadelreino.net/post/18785846840/en-apoyo-de-garzón
+url: /2010/04/14/en-apoyo-de-garzón/
+---
+
+<p>Ya mencioné en <a href="http://nostalgiadelreino.net/2009/11/de-politicos-profesionales/">un escrito anterior</a> a mi jefe, y su ideal de un país gobernado por registradores de la propiedad. Me es útil discutir con él (y en su favor debo remarcar que no es fácil encontrar a alguien con quien discutir de política sin terminar en una pelea barriobajera), para entender cómo piensan los conservadores, el porqué de sus actitudes. Me preguntaba hace poco si me estaba influyendo en algo, si no me centraba su influencia. Yo le expliqué que desde que discuto con él cada vez soy más de izquierdas. Ahora conozco más la alternativa, los sueños de la derecha, y cada vez me parecen más terribles.<br/><br/>En otra discusión reciente me convenció del todo (aunque pretendiera lo contrario) de que hay que investigar el fascismo. <em>¿Cuándo aceptaréis</em>, me dijo <em>que la guerra terminó y la perdisteis?</em>. Ahí está el quid de la cuestión: se habla mucho desde la derecha de que la guerra civil es una página de la historia que hemos de pasar, de cerrar las heridas, terminar con las dos Españas, etc, pero siempre, por supuesto, que quede claro quiénes fueron los vencedores y quiénes los vencidos, y que nadie intente salirse de su lugar (eso, el que nadie quiera salirse de su lugar, es a fin de cuentas el ideal de la derecha).<br/><br/>Pero si de verdad queremos salir adelante y cerrar esas heridas, debe ser desde un punto de igualdad, y eso no es posible mientras nuestro estado sea heredero directo de una dictadura fascista, mientras no se haya condenado a los culpables de tantos asesinatos e injusticias, mientras tantos miles de muertos sigan en fosas comunes en las cunetas de las carreteras.<br/>No quiero que ningún anciano octogenario vaya a la cárcel, no le veo ningún sentido tras tantas décadas, por muy asesino de masas fascista que haya podido ser, pero sí que se investigue, se juzgue, se condene. Y sólo entonces, desde esa condena, se podrá perdonar de verdad, pasar página, y seguir de una vez adelante, hacia, espero, un futuro mejor y limpio.</p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-8622048206628029282?l=nostalgiadelreino.blogspot.com" alt=""/></div>

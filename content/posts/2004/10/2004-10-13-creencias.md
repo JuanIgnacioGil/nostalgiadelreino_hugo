@@ -1,0 +1,9 @@
+---
+date: '2004-10-13T13:20:00+01:00'
+tags: []
+title: Creencias
+tumblr_url: http://nostalgiadelreino.net/post/18895406751/creencias
+url: /2004/10/13/creencias/
+---
+
+<p>Me ordenaron hoy en el trabajo que escribiera de una vez un informe que llevaba postergando desde hacía meses. Me dan mucha pereza ese tipo de labores.<br/><br/><br/><br/>Y, cuando me puse a ello, no encontraba las notas que necesitaba para redactarlo. Busqué y busqué, en todos los lugares, físicos y electrónicos, donde podían estar, y no aparecieron. Acabé buscando incluso en dos pequeños cuadernos que suelo llevar siempre conmigo, y cuya función nada tiene que ver con planes de vuelo, ni pistas radar, pero que a veces, como solución de emergencia, acaban contaminados por ellas.<br/><br/><br/><br/>No encontré esas anotaciones que buscaba, pero sí muchas otras cosas, entre ellas, este párrafo de <a href="http://www.ursulakleguin.com/">Ursula K. LeGuin</a>, que creo que copié para enviar en un correo electrónico. No recuerdo a qué libro pertenece:<br/><br/></p><blockquote><em><br/><br/>Aprender una creencia sin creérsela es como una canción sin melodía. El sometimiento, la obediencia, la voluntad de aceptar estas notas como las notas correctas, esta pauta como la verdadera pauta, es el gesto esencial de la interpretación, la traslación y la comprensión. El gesto no ha de ser permanente, una postura inamovible de la mente o el corazón, pero no puede ser falso. Es más que la suspensión del escepticismo necesaria para observar un juego, pero menos que la conversión. Es una posición, una postura en la danza.</em></blockquote><br/><br/><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-2766521029472409746?l=nostalgiadelreino.blogspot.com" alt=""/></div>

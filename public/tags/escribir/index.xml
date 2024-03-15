@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Escribir on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/escribir/</link>
+    <description>Recent content in Escribir on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jun 2012 10:42:53 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/escribir/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stendhal a dit quelque part ceci, ou à peu près: J’écris pour une dizaine d’âmes que je ne verrai peut-être jamais, mais que j’adore, sans les avoir vues.</title>
+      <link>http://localhost:1313/2012/06/20/stendhal-a-dit-quelque-part-ceci-ou-%C3%A0-peu-pr%C3%A8s/</link>
+      <pubDate>Wed, 20 Jun 2012 10:42:53 +0100</pubDate>
+      <guid>http://localhost:1313/2012/06/20/stendhal-a-dit-quelque-part-ceci-ou-%C3%A0-peu-pr%C3%A8s/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Una vida absurda produce desvaríos</title>
+      <link>http://localhost:1313/2009/01/30/una-vida-absurda-produce-desvar%C3%ADos/</link>
+      <pubDate>Fri, 30 Jan 2009 09:34:00 +0000</pubDate>
+      <guid>http://localhost:1313/2009/01/30/una-vida-absurda-produce-desvar%C3%ADos/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Escribir (otra vez)</title>
+      <link>http://localhost:1313/2007/05/12/escribir-otra-vez/</link>
+      <pubDate>Sat, 12 May 2007 06:37:00 +0100</pubDate>
+      <guid>http://localhost:1313/2007/05/12/escribir-otra-vez/</guid>
+      <description> </description>
+    </item>
+  </channel>
+</rss>

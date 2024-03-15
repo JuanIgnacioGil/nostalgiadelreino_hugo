@@ -1,0 +1,11 @@
+---
+date: '2008-06-10T18:35:00+01:00'
+tags:
+  - ecología
+  - economía
+title: ¿Qué hacer con los camioneros y los pescadores?
+tumblr_url: http://nostalgiadelreino.net/post/18842419867/qué-hacer-con-los-camioneros-y-los-pescadores
+url: /2008/06/10/qué-hacer-con-los-camioneros-y-los-pescadores/
+---
+
+<p>¿Qué hacer con los camioneros y los pescadores? Aunque siento el estado en que están, y creo que hay ayudarles de alguna manera, esa ayuda no puede de ningún modo pasar por subvencionarles el combustible, ni por eliminar los impuestos por la polución.<br/><br/>Los precios del petróleo no son algo temporal, no se trata de una crisis pasajera de la que saldremos en un par de años, sino de cambio profundo en la economía, una transición definitiva entre dos estados. El precio del petróleo no va a bajar, y ya no podemos transportar cantidades inmensas de productos a base de quemarlo. <br/><br/>Tenemos que ver esto no sólo como un problema, sino también como una gran oportunidad, como el impulso que necesitamos para dejar de depender tan absolutamente de un petróleo que tanto está dañando el planeta. A los camioneros habrá que darles subvenciones para que monten otro tipo de empresas, o para que compren <a href="http://www.foro-industrial.com/2008/04/camiones-volvo-con-motor-hibrido-en-2009/">camiones con motores híbridos</a> (que, aunque en proyecto, aún no se comercializan). Y el transporte de mercancías debe volver a usar masivamente el tren. Y los pescadores tendrán que utilizar barcos solares y veleros. Y nuestra civilización tiene que cambiar: no podemos depender de tantos productos traídos de tan lejos. Los alimentos deben volver a producirse cerca de donde se consumen, como se ha hecho siempre. ¿Que en las ciudades grandes no es posible esto? Es que quizás eso también ha de cambiar. Quizás una ciudad de millones de habitantes no es sostenible.</p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-2365993898681209957?l=nostalgiadelreino.blogspot.com" alt=""/></div>

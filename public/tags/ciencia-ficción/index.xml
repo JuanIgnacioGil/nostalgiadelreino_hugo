@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ciencia Ficción on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/ciencia-ficci%C3%B3n/</link>
+    <description>Recent content in Ciencia Ficción on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ciencia-ficci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>To boldly go</title>
+      <link>http://localhost:1313/2019/05/14/utopias/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2019/05/14/utopias/</guid>
+      <description>Siempre he sido más fan de Star Star Wars que de Star Trek. El que creo que es mi primer recuerdo es estar en el cine, viendo maravillado las escenas de la batalla de Hoth en El Imperio Contrataca. Y una tradición que mi madre y yo mantuvimos durante muchos años es ver la Trilogía en Navidad (y a menudo en un solo día).&#xA;Pero en los últimos años me dedico a ver lentamente todas las series de Star Trek, concretamente desde el 2016, el año de Trump y el Brexit.</description>
+    </item>
+    <item>
+      <title>Arrival</title>
+      <link>http://localhost:1313/2016/11/13/Arrival/</link>
+      <pubDate>Sun, 13 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2016/11/13/Arrival/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.imdb.com/title/tt2543164/&#34;&gt;Arrival&lt;/a&gt;, del canadiense &lt;a href=&#34;http://www.imdb.com/name/nm0898288/?ref_=tt_ov_dr&#34;&gt;Denis Villeneuve&lt;/a&gt;, me ha sorprendido por su complejidad, su profundidad. Donde esperaba una buena película de ciencia ficción sobre uno de mis temas, el Primer Contacto, he encontrado una reflexión sobre la humanidad, sobre el tiempo, sobre (no entraré en más detalles por no destripar la película) el valor de la vida, que triunfa sobre el dolor y las desgracias.&lt;/p&gt;&#xA;&lt;p&gt;![Arrival]({{ site.url }}/images/arrival.jpg)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2013</title>
+      <link>http://localhost:1313/2013/07/31/2013/</link>
+      <pubDate>Wed, 31 Jul 2013 15:07:12 +0100</pubDate>
+      <guid>http://localhost:1313/2013/07/31/2013/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Futuros</title>
+      <link>http://localhost:1313/2017/01/14/Futuros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2017/01/14/Futuros/</guid>
+      <description>&lt;p&gt;Leí, en los 90&amp;rsquo;s, varias novelas de &lt;a href=&#34;https://en.wikipedia.org/wiki/William_Gibson&#34;&gt;William Gibson&lt;/a&gt;. Me parecía entonces un escritor, con una calidad en la prosa que no abunda en el género de la ciencia ficción, pero cuya obra no acababa de engancharme, no lograba, sobre todo, que conectara con sus personajes, que me importara lo que pasaba.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

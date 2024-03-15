@@ -1,0 +1,9 @@
+---
+date: '2004-11-05T02:40:00+00:00'
+tags: []
+title: Sally Anne
+tumblr_url: http://nostalgiadelreino.net/post/18895413956/sally-anne
+url: /2004/11/05/sally-anne/
+---
+
+<p>Me acompaña desde ayer, constantemente, la misma canción de <a href="http://www.nataliemerchant.com/">Natalie Merchant</a>, una melodía terriblemente hermosa, acariciándome, repitiéndose casi constantemente en mi mente.<br/><br/><br/><br/>Puedo dejar de dormir, de comer, de beber. Si las cosas fueran realmente mal, podría dejar hasta de leer. Pero, ¿la música?<br/><br/><br/><br/></p><blockquote style="font-style: italic;">A woman of beauty<br/><br/>A woman of pain<br/><br/>In France or Jakarta<br/><br/>Her shadow’s the same<br/><br/>You go home with Sally Ann<br/><br/>You go home with Sally Ann<br/><br/>You go home<br/><br/><br/><br/>A woman of kindness<br/><br/>With bracelets of jade<br/><br/>In China, in Japan<br/><br/>Choices are made<br/><br/>You go home with Sally Ann<br/><br/>You go home with Sally Ann<br/><br/>You go home<br/><br/><br/><br/>A woman of chances<br/><br/>With no family or friends<br/><br/>In Argentina<br/><br/>She knows only men<br/><br/>You go home with Sally Ann<br/><br/>You go home with Sally Ann<br/><br/>You go home<br/><br/><br/><br/>A woman of color<br/><br/>With debts to be paid<br/><br/>In Trenton or Detroit<br/><br/>She lives by the blade<br/><br/>You go home with Sally Ann<br/><br/>You go home with Sally Ann<br/><br/>You go home</blockquote><br/><br/><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-3755725799735346926?l=nostalgiadelreino.blogspot.com" alt=""/></div>

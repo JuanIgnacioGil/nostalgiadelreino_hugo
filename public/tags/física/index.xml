@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Física on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/f%C3%ADsica/</link>
+    <description>Recent content in Física on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Nov 2015 19:50:18 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/f%C3%ADsica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>esta mañana visité en el cementerio central de</title>
+      <link>http://localhost:1313/2015/11/14/esta-ma%C3%B1ana-visit%C3%A9-en-el-cementerio-central-de/</link>
+      <pubDate>Sat, 14 Nov 2015 19:50:18 +0000</pubDate>
+      <guid>http://localhost:1313/2015/11/14/esta-ma%C3%B1ana-visit%C3%A9-en-el-cementerio-central-de/</guid>
+      <description>Esta mañana visité en el Cementerio Central de Viena, el Zentralfriedhof, las tumbas de Beethoven y Boltzmann. Hace tan sólo seis meses desde la última vez que escribí aquí, pero parecen siglos. Hace seis meses vivía en ese Madrid, que, tras veinte años paseando por sus calles, era ya claramente mi ciudad. Hace seis meses mi madre aún vivía. En la tumba de Boltzmann, está escrito, como epitafio, una de sus ecuaciones, ese S=k log W.</description>
+    </item>
+    <item>
+      <title>El Rey. Los marcianos.</title>
+      <link>http://localhost:1313/2012/12/04/el-rey-los-marcianos/</link>
+      <pubDate>Tue, 04 Dec 2012 11:37:17 +0000</pubDate>
+      <guid>http://localhost:1313/2012/12/04/el-rey-los-marcianos/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>La Estrella de la Mañana</title>
+      <link>http://localhost:1313/2012/10/11/la-estrella-de-la-ma%C3%B1ana/</link>
+      <pubDate>Thu, 11 Oct 2012 09:45:00 +0100</pubDate>
+      <guid>http://localhost:1313/2012/10/11/la-estrella-de-la-ma%C3%B1ana/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Mar de Cristal</title>
+      <link>http://localhost:1313/2012/08/11/mar-de-cristal/</link>
+      <pubDate>Sat, 11 Aug 2012 04:28:43 +0100</pubDate>
+      <guid>http://localhost:1313/2012/08/11/mar-de-cristal/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Civilizaciones productivas</title>
+      <link>http://localhost:1313/2010/11/10/civilizaciones-productivas/</link>
+      <pubDate>Wed, 10 Nov 2010 10:06:00 +0000</pubDate>
+      <guid>http://localhost:1313/2010/11/10/civilizaciones-productivas/</guid>
+      <description>En estos días leo “The Evolution of Civilizations”, de Carroll Quigley, un intento de aplicar el método científico a la historia, en especial a la civilización como sujeto de estudio. En una de las primeras páginas, Quigley distingue entre “civilizaciones parásitas”, las que no crean nueva riqueza y se mantienen consumiendo lo que hay en su entorno, y “civilizaciones productivas”, que sí crean riqueza. Para Quigley son parásitas las primtivas civilizaciones de cazadores-recolectores, y productivas las que han llegado a descubrir la agricultura y la ganadería.</description>
+    </item>
+    <item>
+      <title>El Teorema Central del Límite</title>
+      <link>http://localhost:1313/2010/01/28/el-teorema-central-del-l%C3%ADmite/</link>
+      <pubDate>Thu, 28 Jan 2010 07:24:00 +0000</pubDate>
+      <guid>http://localhost:1313/2010/01/28/el-teorema-central-del-l%C3%ADmite/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>La autorregulación de la economía (II)</title>
+      <link>http://localhost:1313/2009/08/23/la-autorregulaci%C3%B3n-de-la-econom%C3%ADa-ii/</link>
+      <pubDate>Sun, 23 Aug 2009 07:01:00 +0100</pubDate>
+      <guid>http://localhost:1313/2009/08/23/la-autorregulaci%C3%B3n-de-la-econom%C3%ADa-ii/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>La autorregulación de la economía</title>
+      <link>http://localhost:1313/2009/08/12/la-autorregulaci%C3%B3n-de-la-econom%C3%ADa/</link>
+      <pubDate>Wed, 12 Aug 2009 06:53:00 +0100</pubDate>
+      <guid>http://localhost:1313/2009/08/12/la-autorregulaci%C3%B3n-de-la-econom%C3%ADa/</guid>
+      <description> </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,12 @@
+---
+date: '2008-09-15T21:04:00+01:00'
+tags:
+  - arte
+  - política
+  - cine
+title: Las uvas de la ira
+tumblr_url: http://nostalgiadelreino.net/post/18785802133/las-uvas-de-la-ira
+url: /2008/09/15/las-uvas-de-la-ira/
+---
+
+<p><img src="http://nostalgiadelreino.net/blog/wp-content/uploads/2008/09/grapes-of-wrath.jpg" alt="Tom Joad y su madre" title="Las uvas de la ira" class="aligncenter size-full wp-image-33"/><br/><br/>El mismo día en que, tras siglo y medio, <a href="http://en.wikipedia.org/wiki/Lehman_Brothers">Lehman</a> cayó en la <a href="http://afp.google.com/article/ALeqM5gujkPqj81q8KDAowrmeW70yHtK-g">bancarrota</a>, y también el día en que <a href="http://www.rtve.es/noticias/20080915/sos-racismo-critica-rajoy-por-sus-declaraciones-sobre-los-trabajadores-inmigrantes/157285.shtml">Rajoy</a> se quejaba de que los inmigrantes cobraran el paro, he visto  <a href="http://www.imdb.com/title/tt0032551/">&ldquo;Las Uvas de la Ira&rdquo;</a>, una más de las muchas obras maestras de John Ford. Una historia épica, poética, de hace setenta años, pero más actual que todo el cine de este siglo XXI. Campesinos hambrientos que cruzan desiertos en busca de trabajo, perdiendo seres queridos en el camino, cruzando fronteras que no deberían estar allí, para llegar a una tierra donde el trabajo que se les da es a sueldos miserables (otros lo harán por incluso menos si ellos no lo quieren),  y a quien protesta se le trata como un alboratador, un criminal.<br/><br/>A finales del siglo XX, <a href="http://es.wikipedia.org/wiki/Francis_Fukuyama">Fukuyama</a>, en su delirio neoconservador, hablaba de como la historia había terminado, de como el capitalismo había terminado para siempre con la lucha de clases, de como el libre mercado nos haría libres y prósperos a todos. Pero la historia que no termina es la de la miseria y la explotación. <br/>Lloré con la familia Joad (<em>¿cómo lograba Ford esas miradas en sus actores? Esas miradas que les convierten en auténticos arquetipos de la humanidad</em>), los campesinos de Oklahoma, sabiendo que esa historia sucede ahora.</p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-5360066787435926921?l=nostalgiadelreino.blogspot.com" alt=""/></div>

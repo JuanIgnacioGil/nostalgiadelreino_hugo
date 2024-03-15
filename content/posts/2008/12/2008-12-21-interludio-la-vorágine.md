@@ -1,0 +1,10 @@
+---
+date: '2008-12-21T18:06:00+00:00'
+tags:
+  - Personal
+title: 'Interludio: La Vorágine'
+tumblr_url: http://nostalgiadelreino.net/post/18785808263/interludio-la-vorágine
+url: /2008/12/21/interludio-la-vorágine/
+---
+
+<p>Hace mucho escribí en un viejo diario:<br/><br/><em>Mad 5-6 de abril 2001<br/><br/>Una chica de filosofía me ha hablado hoy, con esa seguridad en la Verdad que ellas tienen, de la Vorágine, y me ha preguntado si sabía lo que era. Yo asentí.<br/></em><br/><br/>La nota continúa hablando de mi vorágine personal de esos días, de despertar en una isla, volar, tumbarme en cesped del parque de ciencias, regresar a casa caminando de madrugada por las vacías calles de Madrid, para descubrir que tu casero, un nazi psicópata, había cambiado las llaves (recuerdo que fue también por esas fechas cuando mis padres me llamaron para decirme que habían cambiado la llave de casa. Mi vida siempre ha estado llena de esas sincronicidades. Todas las vidas deben estarlo, si sus vividores se fijan).<br/><br/>Y la Vorágine sigue y sigue y sigue. Intento buscar una época larga (un año, medio año) de mi vida de verdadera paz, y no la hay. Intento seguir los pasos de Marco Aurelio, esa magnífica tranquilidad estoica, y el segundo de los mandatos de Delfos, ese μηδὲν ἄγαν, nada en exceso.  Y me queda tanto camino por recorrer.<br/><br/>En la vieja nota del diario también hablo con orgullo de que esa es mi forma de vivir, la única que conozco, aunque me me pierda. Ahora, más mayor, y quiero pensar que más sabio, quizás querría hayar al fin la paz, sentir más mío a Bach que a Beethoven. Quizás algún día lo logre.</p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-3868817396966419553?l=nostalgiadelreino.blogspot.com" alt=""/></div>

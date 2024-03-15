@@ -1,0 +1,9 @@
+---
+date: '2004-10-09T10:19:00+01:00'
+tags: []
+title: no title
+tumblr_url: http://nostalgiadelreino.net/post/18895404506/he-vuelto-a-madrid-en-uno-de-esos-días-de-vértigo
+url: /2004/10/09/he-vuelto-a-madrid-en-uno-de-esos-días-de-vértigo/
+---
+
+<p>He vuelto a Madrid. En uno de esos días de vértigo que adoro, en el que todo se encadena, en el que no eres capaz de predecir qué pasará un instante después, lleno de momentos tan distintos que parece difícil creer que fuera el mismo día:<br/><br/><br/><br/></p><ul><br/><br/><li>En el trabajo, al principio del día, con todo saliendo mal, con mi jefe diciéndome cómodamente desde Madrid que me quedara más días, que trabajara el fin de semana si era necesario.</li><br/><br/><li>En Arinaga, ya tranquilo, comiendo el mejor (y más caro) arroz que he probado en muchísimo tiempo. Saliendo luego a la costa, bajo ese sol casi siempre presente en el sur de la isla.</li><br/><br/><li>Desesperando, en el aeropuerto, viendo como mi vuelo se retrasa, no sabiendo cuándo podría llegar a Madrid.</li><br/><br/><li>Tumbado en un asiento de business de un avión, durmiendo, arropado bajo una manta azul.</li><br/><br/><li>En Barajas, pidiéndole al taxista que me lleve unos instantes a mi casa, lo justo para dejar mi maleta, y seguir hacia el centro.</li><br/><br/><li>Una discoteca completamente vacía. Bailando con E. en el centro de una gran pista, sin nadie a nuestro alrededor.</li><br/><br/></ul><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-5845307560811852515?l=nostalgiadelreino.blogspot.com" alt=""/></div>

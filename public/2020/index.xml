@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2020s on My New Hugo Site</title>
+    <link>http://localhost:1313/2020/</link>
+    <description>Recent content in 2020s on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/2020/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Las Películas del 2019</title>
+      <link>http://localhost:1313/2020/01/02/Las-Peliculas-del-2019/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2020/01/02/Las-Peliculas-del-2019/</guid>
+      <description>Un año más, repaso mis películas favoritas del pasado año. Por primera vez desde el 2014, he terminado el año en el mismo país donde lo comencé, este cruel Reino Unido en proceso de repetir errores del siglo XX. No tengo, por tanto, excusa para perderme buen cine (aún no he visto &amp;ldquo;Parásitos&amp;rdquo;, ni &amp;ldquo;El Irlandés&amp;rdquo;), pero casi con certeza estas tres no serán las mejores del año, simplemente las que yo más disfruté en salas.</description>
+    </item>
+  </channel>
+</rss>

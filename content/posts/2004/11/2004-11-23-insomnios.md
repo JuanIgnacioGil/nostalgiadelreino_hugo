@@ -1,0 +1,9 @@
+---
+date: '2004-11-23T16:40:00+00:00'
+tags: []
+title: Insomnios
+tumblr_url: http://nostalgiadelreino.net/post/18895420440/insomnios
+url: /2004/11/23/insomnios/
+---
+
+<p><em><blockquote>ALL NIGHT LONG, your thoughts are on the air.<br/><br/>Am I sleeping? Have I slept at all? This is the insomnia.<br/><br/>Try to relax a little more with every breath out, but your heart&rsquo;s still racing and your thoughts tornado in your head.</blockquote></em><br/><br/><br/><br/><em>de  <strong>Fight Club</strong>, de <strong><a href="http://en.wikipedia.org/wiki/Chuck_Palahniuk">Chuck Palahniuk</a></strong></em><br/><br/><br/><br/><br/><br/><br/><br/>Acompañé a Eu. hasta la estación, en Nuevos Ministerios. Al despedirnos me preguntó: <em>¿Cómo duermes?</em>.<br/><br/><br/><br/>Se lo dije.<br/><br/><br/><br/>No duermo. O muy poco. Siempre, toda mi vida, he dormido mal. Mi mente tiende a entrar en ebullición en esos momentos, cuando las luces se apagan, y siempre me ha costado mucho ahuyentar todos esos pensamientos, rendirme al sueño.<br/><br/><br/><br/>Y en estos días es aún peor. Despierto a mitad de la noche, y permanezco insomne durante demasiado tiempo. Y casi todos los días el despertar definitivo llega antes de la hora esperada, antes de que el sonido de la radio comience a hablarme de este mundo que se hunde.<br/><br/><br/><br/>Es de noche cuando más la echo de menos, cuando la soledad se hace más tangible. Y más física. Cuando más extraño su tacto, sus labios, su abrazo, su voz en la oscuridad, su rostro al llegar el día.</p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-7414119301914043315?l=nostalgiadelreino.blogspot.com" alt=""/></div>

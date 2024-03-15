@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2024s on My New Hugo Site</title>
+    <link>http://localhost:1313/2024/</link>
+    <description>Recent content in 2024s on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/2024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Star Trek y el infantilismo colectivo</title>
+      <link>http://localhost:1313/2024/02/20/Star_Trek_y_el%20infantilismo_colectivo/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/02/20/Star_Trek_y_el%20infantilismo_colectivo/</guid>
+      <description>Llevo meses viendo de nuevo Star Trek: La Nueva Generación. Mis recuerdos eran un poco borrosos. Recordaba momentos épicos, la guerra contra los Borg, los conflictos entre los Klingon, algunos episodios individuales, como aquel en que Picard vive una vida entera en un breve tiempo y aprende a tocar la flauta, o la raza cuyo lenguaje estaba basado en analogías con leyendas.&#xA;La mayoría de los episodios son lentos, centrándose en dilemas filosóficos o morales; la violencia es inexistente o muy escasa.</description>
+    </item>
+    <item>
+      <title>Las Películas del 2023</title>
+      <link>http://localhost:1313/2024/01/13/Las-Peliculas-del-2023/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/01/13/Las-Peliculas-del-2023/</guid>
+      <description>Otro año de leucemia, hospitales, aislamiento. Apenas sin ir a las salas. Y, en cualquier caso, el cine tampoco parece acompañar.&#xA;Alcarràs, de Carla Simón Un milagro. La mejor nueva película que he tenido el placer de ver en años. Carla Simón, consigue, con actores no profesionales, captar la vida misma, la frustración humana ante el cambio.&#xA;The Fabelmans, de Steven Spielberg Mi cita anual con Spielberg. Una autobiografía llena de amor por el cine, con una Michelle Williams en estado de gracia.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,9 @@
+---
+date: '2005-01-04T11:38:00+00:00'
+tags: []
+title: Maravillas
+tumblr_url: http://nostalgiadelreino.net/post/18842392201/maravillas
+url: /2005/01/04/maravillas/
+---
+
+<p><em>La chica, que no recordaba más que la isla, magia, hechizos, espíritus, descubrió de repente algo nuevo, y <a href="http://www-tech.mit.edu/Shakespeare/tempest/full.html">exclamó</a>: &ldquo;O, wonder! How many goodly creatures are there here! How beauteous mankind is! O brave new world, that has such people in&rsquo;t!&rdquo;<br/><br/></em><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>No, no me gusta este mundo&hellip; pero a veces esos ataques de pesimismo, de melancolía, me ciegan.<br/><br/><br/><br/>Es, por ejemplo, el mundo donde Maria Callas cantó las óperas de Puccini. Es a quien que escuchaba hace un minuto. Ahora ha sido sustituida por Bob Dylan.<br/><br/><br/><br/>Y, si miro atrás, contemplo maravillas. Muchas. Escondidas, a veces, en márgenes, en momentos extraños. A veces en viajes, en aventuras. A veces no, a veces a la luz del día, o en una noche en la calle. Están allí.<br/><br/><br/><br/>(<em>Una interrupción: Mi hermano entró de repente en mi cuarto, con unas gafas de sol a las que les faltaba un cristal, una expresión seria&hellip; y comenzó a bailar. Y nos echamos a reir.</em>)<br/><br/><br/><br/>Hay maravillas aquí. Pese a todo. Pese a quienes deseen encadenarnos, convertirnos en hombrecillos grises, tristes, <br/><br/><br/><br/>Y es, por encima de todo, el mundo donde ella vive. Y eso ya lo convierte en un lugar inmensamente hermoso, valioso.</p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-5144617160062098085?l=nostalgiadelreino.blogspot.com" alt=""/></div>

@@ -1,0 +1,9 @@
+---
+date: '2004-11-10T04:25:00+00:00'
+tags: []
+title: Irrealidades
+tumblr_url: http://nostalgiadelreino.net/post/18895416007/irrealidades
+url: /2004/11/10/irrealidades/
+---
+
+<p>Por la noche, en casa de Eu., <a href="http://finitud.blogspot.com">Wyan</a> defendió en una pizarra la <a href="http://en.wikipedia.org/wiki/Quantum_field_theory">Teoría Cuántica de Campos</a>, nos dio una visión admisible de la <a href="http://en.wikipedia.org/wiki/Renormalization">renormalización</a>, hizo una exposición del <a href="http://en.wikipedia.org/wiki/Standard_Model">modelo standar</a>. Fue agradable descubrir que, pese a todos estos años tan lejos de la ciencia, todavía no lo he olvidado todo, que aún soy capaz de entender todo eso, que esas viejas ecuaciones, <a href="http://en.wikipedia.org/wiki/Lagrangian">lagrangianos</a>, <a href="http://en.wikipedia.org/wiki/Feynman_diagram">diagramas de Feynman</a>, no se han convertido del todo en extraños para mí.<br/><br/><br/><br/>Después, en su coche, de vuelta a Madrid, una extraña conversación sobre percepción y realidad, y los peligros de no tener un suelo donde pisar. <em>Aquello que llamamos Realidad</em>, le dije,<em> no es sino un convenio de percepciones compartidas.</em><br/><br/><br/><br/><br/><br/>Pero esta mañana he despertado con su recuerdo, con el deseo de que el sueño continue, estremecido, poseído. Al lado de eso, todo parece irreal.<br/><br/><br/><br/><br/><br/><br/><br/></p><div class="blogger-post-footer"><img width="1" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-8085668533822716007?l=nostalgiadelreino.blogspot.com" alt=""/></div>

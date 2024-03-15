@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bob Dylan on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/bob-dylan/</link>
+    <description>Recent content in Bob Dylan on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Aug 2013 10:45:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bob-dylan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>no title</title>
+      <link>http://localhost:1313/2013/08/16/y-de-qu%C3%A9-sirven-trenes-o-ipads-si-no-somos/</link>
+      <pubDate>Fri, 16 Aug 2013 10:45:00 +0100</pubDate>
+      <guid>http://localhost:1313/2013/08/16/y-de-qu%C3%A9-sirven-trenes-o-ipads-si-no-somos/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>De carceleros y presos</title>
+      <link>http://localhost:1313/2009/11/03/de-carceleros-y-presos/</link>
+      <pubDate>Tue, 03 Nov 2009 07:34:00 +0000</pubDate>
+      <guid>http://localhost:1313/2009/11/03/de-carceleros-y-presos/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>When the Ship Comes In</title>
+      <link>http://localhost:1313/2009/05/24/when-the-ship-comes-in/</link>
+      <pubDate>Sun, 24 May 2009 09:23:00 +0100</pubDate>
+      <guid>http://localhost:1313/2009/05/24/when-the-ship-comes-in/</guid>
+      <description>Esta es la canción que más escucho en los últimos tiempos. La escribió Dylan en el 64, después de que, según Joan Baez, le negaran la entrada a un hotel por su aspecto desastrado. Parece que Dylan leía mucho a Brecht en esa época, y que la letra está muy influenciada por “Jenny la novia del Pirata”, una de las canciones de “La Ópera de los Tres Centavos” (otra obra basada en esta canción es Dogville, la película de Lars Von Trier, y también Alan Moore usó la imagen del Velero Negro en su Watchmen).</description>
+    </item>
+  </channel>
+</rss>

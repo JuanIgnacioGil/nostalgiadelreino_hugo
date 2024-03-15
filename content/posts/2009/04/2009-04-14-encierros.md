@@ -1,0 +1,15 @@
+---
+date: '2009-04-14T08:33:00+01:00'
+tags:
+  - vivir
+  - Personal
+  - tarot
+title: Encierros
+tumblr_url: http://nostalgiadelreino.net/post/18785836059/encierros
+url: /2009/04/14/encierros/
+---
+
+<p><a href="http://en.wikipedia.org/wiki/The_Hermit"><img alt="image" src="http://66.media.tumblr.com/4d4f3fea23098bcbc0374eee07a8cb40/tumblr_inline_nfc4u9w7Im1r8a7sj.jpg"/></a></p>
+
+<p><br/><br/>A los doce años me encerré. Había llevado una infancia normal (salvo por los cambios de ciudad: vivía en esos tiempos en Hellín, un pueblo del sur de Albacete, y era ya mi cuarta residencia, tras haber pasado por Cataluña, Aragón y Valencia), pero algo en mí hizo que decidiera escapar, esconderme. Abandoné a todos mis amigos con los que había pasado años jugando al escondite y a la rayuela (infernáculo: qué poderoso, qué resonancias tiene ese nombre) en la calle y me oculté en mis libros, entre mis fantasías. Mis únicos amigos eran ya tres chicos del barrio con los que iba dos días a la semana a los entrenamientos de baloncesto. A los catorce años, sin saber bien por qué, dejé también el baloncesto, y los abandoné a ellos. A los dieciséis nos volvimos a mudar, a Albacete, mi ciudad natal, y me encerré aún más. Fui un par de días a clase, y me puse enfermo. Dos semanas con una faringitis, débil, sin ser capaz de ir a clase: hasta mi cuerpo colaboraba ya en mi huida.<br/><br/>Pasé esos años oculto tras mis libros, protegido por mis fantasías, y me salté la adolescencia. Aprendí sobre los emperadores romanos, sobre todos los mitos griegos, sobre planetas, sobre elfos y anillos. Aprendí los árboles genealógicos de los Césares y los dioses y héroes de esa Grecia que ya entoneces llevaba en el corazón, aprendí cómo era cada planeta y satélite de nuestro Sistema Solar. Pero no aprendí nada de la vida.<br/><br/>A los dieciocho años me presenté en Madrid para convertirme en físico, sin saber absolutamente nada de cómo vivir. Y esa ignorancia ha sido un lastre terrible durante todos estos años, abriéndome heridas que nunca llegaban a cerrar. Y no aprendía a vivir, no lo suficiente. Y me rompía una y otra vez contra el muro, y cada vez se quedaban más piezas en el camino. Perdido, deseando hacerlo bien, ser feliz. Viendo como los demás lo lograban, y sin entender qué fallaba en mí.<br/><br/>Ahora, con treinta y dos años, ya no debería haber excusa. He vivido lo suficiente para haber aprendido algo. Y, sobre todo, pude ver el camino. Lo vi en Grecia, tras ascender todo el Camino Sagrado hasta el templo de Apolo Pythio. Aprendí allí cómo se debe vivir, venciendo a toda esta oscuridad. Y, sin embargo, no lo consigo. No venzo a mis miedos, a mi debilidad, las heridas no se cierran, el muro no cae.</p>
+<div class="blogger-post-footer"><img alt="" height="1" src="https://blogger.googleusercontent.com/tracker/1180118427259117074-1939755190410169778?l=nostalgiadelreino.blogspot.com" width="1"/></div>
