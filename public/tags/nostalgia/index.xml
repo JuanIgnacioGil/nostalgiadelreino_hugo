@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Nostalgia on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/nostalgia/</link>
-    <description>Recent content in Nostalgia on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 21 Dec 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/nostalgia/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fernweh</title>
-      <link>http://localhost:1313/2019/12/21/%20Fernweh%20/</link>
-      <pubDate>Sat, 21 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2019/12/21/%20Fernweh%20/</guid>
-      <description>La palabra que expresa uno de los deseos humanos más lacerantes, la nostalgia, parece de origen griego, pero en realidad no lo es. Nostalgia se ha formado a partir de los términos griegos νόστος, «el regreso», y ἄλγος, «el dolor», «la tristeza», y expresa el deseo melancólico de volver a casa, a los lugares en los que se ha pasado la niñez y en los que se encuentran las personas y los objetos que más se quieren, pero es una palabra completamente ajena al mundo griego.</description>
-    </item>
-  </channel>
+    <channel>
+        <title>Nostalgia on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/nostalgia/</link>
+        <description>Recent content in Nostalgia on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Sat, 21 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/nostalgia/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Fernweh</title>
+        <link>http://localhost:1313/2019/12/21/%20Fernweh%20/</link>
+        <pubDate>Sat, 21 Dec 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2019/12/21/%20Fernweh%20/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;La palabra que expresa uno de los deseos humanos más lacerantes, la nostalgia, parece de origen griego,
+pero en realidad no lo es. Nostalgia se ha formado a partir de los términos griegos νόστος, «el regreso»,
+y ἄλγος, «el dolor», «la tristeza», y expresa el deseo melancólico de volver a casa,
+a los lugares en los que se ha pasado la niñez y en los que se encuentran las personas y los objetos que más se quieren,
+pero es una palabra completamente ajena al mundo griego.
+La palabra fue acuñada en 1688 por un estudiante de medicina alsaciano, Johannes Hofer,
+que se licenció en la Universidad de Basilea con una tesis titulada Disertación médica sobre la nostalgia.
+Durante años el joven se había dedicado al estudio médico del desconcierto emotivo experimentado por los mercenarios
+suizos al servicio del rey de Francia Luis XIV, obligados a permanecer durante años lejos
+de los valles y de las montañas de su patria y a menudo aquejados de un mal indefinido
+que los empujaba a la muerte si no volvían a casa. Desde entonces,
+el neologismo griego nostalgia se difundió en las demás lenguas europeas para expresar el sentimiento de
+tristeza y lejanía de la tierra que se ama, melancolía que en francés se llama mal du pays,
+y en alemán Heimweh. Además, el alemán tiene una palabra hermosísima que no posee nuestro idioma;
+hermosísima para quien sabe comprender esa extraña añoranza. La palabra en cuestión es Fernweh,
+compuesta de «dolor» y «lejos», e indica la nostalgia por los lugares en los que uno no ha estado nunca,
+pero a los que le gustaría mucho ir. Nostoi (Νόστοι), «los regresos», es también el título de un conjunto
+de poemas épicos griegos dedicados al regreso a la patria de los héroes aqueos al término de la guerra de Troya.
+El autor de esos poemas está envuelto en las sombras de la leyenda; según unos, se trataría de un tal Eumelo de
+Corinto, según otros de Agias de Trezén. Precedidos de las Ciprias o Cantos chipriotas, de la Etiópide, de
+la Pequeña Ilíada y de la Iliupersis o Saco de Troya, y seguidos de la Telegonía, los Nostoi formaban parte del
+denominado ciclo troyano: una colección de poemas épicos que contaban todas las peripecias de la guerra de
+Troya además de la Ilíada y la Odisea, nunca mencionadas en esta saga, y que representan, por tanto, una especie
+de versión de la historia alternativa a la que nos proporciona Homero.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;Andrea Marcolongo&lt;/em&gt;, &lt;em&gt;&amp;ldquo;La lengua de los dioses: Nueve razones para
+amar el griego&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

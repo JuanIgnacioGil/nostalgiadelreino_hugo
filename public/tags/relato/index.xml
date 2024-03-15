@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Relato on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/relato/</link>
-    <description>Recent content in Relato on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 27 Apr 2012 04:22:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/relato/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>no title</title>
-      <link>http://localhost:1313/2012/04/27/son-dijo-la-voz-sint%C3%A9tica-del-autob%C3%BAs-las/</link>
-      <pubDate>Fri, 27 Apr 2012 04:22:00 +0100</pubDate>
-      <guid>http://localhost:1313/2012/04/27/son-dijo-la-voz-sint%C3%A9tica-del-autob%C3%BAs-las/</guid>
-      <description> </description>
-    </item>
-  </channel>
+    <channel>
+        <title>Relato on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/relato/</link>
+        <description>Recent content in Relato on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Fri, 27 Apr 2012 04:22:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/relato/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>no title</title>
+        <link>http://localhost:1313/2012/04/27/son-dijo-la-voz-sint%C3%A9tica-del-autob%C3%BAs-las/</link>
+        <pubDate>Fri, 27 Apr 2012 04:22:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2012/04/27/son-dijo-la-voz-sint%C3%A9tica-del-autob%C3%BAs-las/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

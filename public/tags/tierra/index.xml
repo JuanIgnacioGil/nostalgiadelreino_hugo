@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tierra on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/tierra/</link>
-    <description>Recent content in Tierra on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 13 Jul 2010 05:10:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tierra/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Del Hogar roto</title>
-      <link>http://localhost:1313/2010/07/13/del-hogar-roto/</link>
-      <pubDate>Tue, 13 Jul 2010 05:10:00 +0100</pubDate>
-      <guid>http://localhost:1313/2010/07/13/del-hogar-roto/</guid>
-      <description> </description>
-    </item>
-  </channel>
+    <channel>
+        <title>Tierra on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/tierra/</link>
+        <description>Recent content in Tierra on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Tue, 13 Jul 2010 05:10:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/tierra/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Del Hogar roto</title>
+        <link>http://localhost:1313/2010/07/13/del-hogar-roto/</link>
+        <pubDate>Tue, 13 Jul 2010 05:10:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2010/07/13/del-hogar-roto/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

@@ -1,43 +1,106 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Poesía on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/poes%C3%ADa/</link>
-    <description>Recent content in Poesía on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 25 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/poes%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Love is all there is</title>
-      <link>http://localhost:1313/2023/11/25/Love_is_all_there_is/</link>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2023/11/25/Love_is_all_there_is/</guid>
-      <description>That Love is all there is,&#xA;Is all we know of Love;&#xA;It is enough, the freight should be&#xA;Proportioned to the groove.&#xA;Emily Dickinson</description>
-    </item>
-    <item>
-      <title>Nobody tells you</title>
-      <link>http://localhost:1313/2019/12/15/nobody-tells-you/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2019/12/15/nobody-tells-you/</guid>
-      <description>Que la vida iba en serio&#xA;uno lo empieza a comprender más tarde&#xA;-como todos los jóvenes, yo vine&#xA;a llevarme la vida por delante.&#xA;Dejar huella quería&#xA;y marcharme entre aplausos&#xA;-envejecer, morir, eran tan solo&#xA;las dimensiones del teatro.&#xA;Pero ha pasado el tiempo&#xA;y la verdad desagradable asoma:&#xA;envejecer, morir,&#xA;es el único argumento de la obra.&#xA;Jaime Gil de Biedma, &amp;ldquo;No volveré a ser joven&amp;rdquo; (Poemas póstumos, 1968)</description>
-    </item>
-    <item>
-      <title>Elegías</title>
-      <link>http://localhost:1313/2017/10/27/Elegia/</link>
-      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/10/27/Elegia/</guid>
-      <description>Und so drängen wir uns und wollen es leisten, wollens enthalten in unsern einfachen Händen, im überfüllteren Blick und im sprachlosen Herzen. [&amp;hellip;] Sind wir vielleicht hier, um zu sagen: Haus, *Brücke, Brunnen, Tor, Krug, Obstbaum, Fenster, - * höchstens: Säule, Turm&amp;hellip;&#xA;Y así nosotros nos apresuramos y queremos lograrlo, queremos abarcarlo con nuestras simples manos, con los ojos henchidos y el corazón sin voz. [&amp;hellip;] Quizás estemos aquí sólo para decir: casa, puente, manantial, puerta, cántaro, árbol frutal, ventana, todo lo más: columna, torre&amp;hellip;</description>
-    </item>
-    <item>
-      <title>A las Parcas</title>
-      <link>http://localhost:1313/2014/10/30/a-las-parcas/</link>
-      <pubDate>Thu, 30 Oct 2014 04:30:35 +0000</pubDate>
-      <guid>http://localhost:1313/2014/10/30/a-las-parcas/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Let’s go
+    <channel>
+        <title>Poesía on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/poes%C3%ADa/</link>
+        <description>Recent content in Poesía on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Sat, 25 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/poes%C3%ADa/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Love is all there is</title>
+        <link>http://localhost:1313/2023/11/25/Love_is_all_there_is/</link>
+        <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2023/11/25/Love_is_all_there_is/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;That Love is all there is,&lt;br&gt;
+Is all we know of Love;&lt;br&gt;
+It is enough, the freight should be&lt;br&gt;
+Proportioned to the groove.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Emily Dickinson&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Nobody tells you</title>
+        <link>http://localhost:1313/2019/12/15/nobody-tells-you/</link>
+        <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2019/12/15/nobody-tells-you/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;Que la vida iba en serio&lt;br&gt;
+uno lo empieza a comprender más tarde&lt;br&gt;
+-como todos los jóvenes, yo vine&lt;br&gt;
+a llevarme la vida por delante.&lt;/p&gt;
+&lt;p&gt;Dejar huella quería&lt;br&gt;
+y marcharme entre aplausos&lt;br&gt;
+-envejecer, morir, eran tan solo&lt;br&gt;
+las dimensiones del teatro.&lt;/p&gt;
+&lt;p&gt;Pero ha pasado el tiempo&lt;br&gt;
+y la verdad desagradable asoma:&lt;br&gt;
+envejecer, morir,&lt;br&gt;
+es el único argumento de la obra.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;Jaime Gil de Biedma, &amp;ldquo;No volveré a ser joven&amp;rdquo; (Poemas póstumos, 1968)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;En una conversación con una compañera de trabajo, unos días atrás:
+&lt;em&gt;Nobody tell you about this, that life is going to be so hard&lt;/em&gt;, me dijo.
+&lt;em&gt;Yes&lt;/em&gt;, respondí yo. &lt;em&gt;Parents should teach children about all this,
+so that they are prepared&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Esto es, imagino, la mítica crisis de la mediana edad. Cuando te
+das cuenta de que el tiempo que te queda por vivir es, con suerte,
+el mismo que el que ya has vivido. Que estás ahora en el descanso
+del partido. Que vas perdiendo, y que lo más probable es que ya no
+puedas remontar. Y que, si hay algo más, es un absoluto misterio.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Elegías</title>
+        <link>http://localhost:1313/2017/10/27/Elegia/</link>
+        <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2017/10/27/Elegia/</guid>
+        <description>&lt;p&gt;&lt;em&gt;Und so drängen wir uns und wollen es leisten,&lt;/em&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;em&gt;wollens enthalten in unsern einfachen Händen,&lt;/em&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;em&gt;im überfüllteren Blick und im sprachlosen Herzen.&lt;/em&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;em&gt;[&amp;hellip;]&lt;/em&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;em&gt;Sind wir vielleicht hier, um zu sagen: Haus,&lt;/em&gt;
+&lt;!-- raw HTML omitted --&gt;
+*Brücke, Brunnen, Tor, Krug, Obstbaum, Fenster, - *
+&lt;!-- raw HTML omitted --&gt;
+&lt;em&gt;höchstens: Säule, Turm&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Y así nosotros nos apresuramos y queremos lograrlo,
+&lt;!-- raw HTML omitted --&gt;
+queremos abarcarlo con nuestras simples manos,
+&lt;!-- raw HTML omitted --&gt;
+con los ojos henchidos y el corazón sin voz.
+&lt;!-- raw HTML omitted --&gt;
+[&amp;hellip;]
+&lt;!-- raw HTML omitted --&gt;
+Quizás estemos aquí sólo para decir: casa, puente,
+&lt;!-- raw HTML omitted --&gt;
+manantial, puerta, cántaro, árbol frutal, ventana,
+&lt;!-- raw HTML omitted --&gt;
+todo lo más: columna, torre&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;De &amp;ldquo;Elegías del Duino&amp;rdquo;, &lt;a class=&#34;link&#34; href=&#34;https://es.wikipedia.org/wiki/Rainer_Maria_Rilke&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Rainer Maria Rilke&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>A las Parcas</title>
+        <link>http://localhost:1313/2014/10/30/a-las-parcas/</link>
+        <pubDate>Thu, 30 Oct 2014 04:30:35 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2014/10/30/a-las-parcas/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Let’s go
 
 Come on
 
@@ -58,101 +121,278 @@ Old cigarette papers
 stuck to our pants
 
 leaves in our hair.</title>
-      <link>http://localhost:1313/2012/09/10/lets-go-come-on-lets-go-empty-our/</link>
-      <pubDate>Mon, 10 Sep 2012 09:35:51 +0100</pubDate>
-      <guid>http://localhost:1313/2012/09/10/lets-go-come-on-lets-go-empty-our/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Contra la Literatura</title>
-      <link>http://localhost:1313/2012/06/26/contra-la-literatura/</link>
-      <pubDate>Tue, 26 Jun 2012 13:05:52 +0100</pubDate>
-      <guid>http://localhost:1313/2012/06/26/contra-la-literatura/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>SESION HORIZONTAL 2.0</title>
-      <link>http://localhost:1313/2012/03/17/sesion-horizontal-20/</link>
-      <pubDate>Sat, 17 Mar 2012 14:37:39 +0000</pubDate>
-      <guid>http://localhost:1313/2012/03/17/sesion-horizontal-20/</guid>
-      <description>SESION HORIZONTAL 2.0Esta tarde, en Usera</description>
-    </item>
-    <item>
-      <title>La noche</title>
-      <link>http://localhost:1313/2012/03/17/la-noche/</link>
-      <pubDate>Sat, 17 Mar 2012 04:37:06 +0000</pubDate>
-      <guid>http://localhost:1313/2012/03/17/la-noche/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Le Mort joyeux</title>
-      <link>http://localhost:1313/2011/11/21/le-mort-joyeux/</link>
-      <pubDate>Mon, 21 Nov 2011 04:04:00 +0000</pubDate>
-      <guid>http://localhost:1313/2011/11/21/le-mort-joyeux/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>The Masque of Anarchy</title>
-      <link>http://localhost:1313/2009/12/11/the-masque-of-anarchy/</link>
-      <pubDate>Fri, 11 Dec 2009 12:10:00 +0000</pubDate>
-      <guid>http://localhost:1313/2009/12/11/the-masque-of-anarchy/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>no title</title>
-      <link>http://localhost:1313/2009/07/23/le%C3%ADa-anoche-en-un-gord%C3%ADsimo-volumen-con-las-obras/</link>
-      <pubDate>Thu, 23 Jul 2009 18:38:00 +0100</pubDate>
-      <guid>http://localhost:1313/2009/07/23/le%C3%ADa-anoche-en-un-gord%C3%ADsimo-volumen-con-las-obras/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Versos Órficos</title>
-      <link>http://localhost:1313/2009/02/06/versos-%C3%B3rficos/</link>
-      <pubDate>Fri, 06 Feb 2009 05:09:00 +0000</pubDate>
-      <guid>http://localhost:1313/2009/02/06/versos-%C3%B3rficos/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Desde Ítaca</title>
-      <link>http://localhost:1313/2008/11/03/desde-%C3%ADtaca/</link>
-      <pubDate>Mon, 03 Nov 2008 18:28:00 +0000</pubDate>
-      <guid>http://localhost:1313/2008/11/03/desde-%C3%ADtaca/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>To see a world in a grain of sand</title>
-      <link>http://localhost:1313/2008/10/16/to-see-a-world-in-a-grain-of-sand/</link>
-      <pubDate>Thu, 16 Oct 2008 11:31:00 +0100</pubDate>
-      <guid>http://localhost:1313/2008/10/16/to-see-a-world-in-a-grain-of-sand/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Con Ginsberg</title>
-      <link>http://localhost:1313/2008/10/16/con-ginsberg/</link>
-      <pubDate>Thu, 16 Oct 2008 08:52:00 +0100</pubDate>
-      <guid>http://localhost:1313/2008/10/16/con-ginsberg/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>γνῶθι σεαυτόν</title>
-      <link>http://localhost:1313/2008/09/29/%CE%B3%CE%BD%E1%BF%B6%CE%B8%CE%B9-%CF%83%CE%B5%CE%B1%CF%85%CF%84%CF%8C%CE%BD/</link>
-      <pubDate>Mon, 29 Sep 2008 21:01:00 +0100</pubDate>
-      <guid>http://localhost:1313/2008/09/29/%CE%B3%CE%BD%E1%BF%B6%CE%B8%CE%B9-%CF%83%CE%B5%CE%B1%CF%85%CF%84%CF%8C%CE%BD/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>no title</title>
-      <link>http://localhost:1313/2005/05/08/un-poema-de-jos%C3%A9-hierro-un-regalo-beethoven/</link>
-      <pubDate>Sun, 08 May 2005 05:14:00 +0100</pubDate>
-      <guid>http://localhost:1313/2005/05/08/un-poema-de-jos%C3%A9-hierro-un-regalo-beethoven/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>I am waiting</title>
-      <link>http://localhost:1313/2012/04/21/I-am-waiting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2012/04/21/I-am-waiting/</guid>
-      <description>I am waiting for my case to come up&#xA;and I am waiting&#xA;for a rebirth of wonder&#xA;and I am waiting for someone&#xA;to really discover America&#xA;and wail and I am waiting for the discovery of a new symbolic western frontier and I am waiting for the American Eagle to really spread its wings and straighten up and fly right and I am waiting for the Age of Anxiety to drop dead and I am waiting for the war to be fought which will make the world safe for anarchy and I am waiting for the final withering away of all governments and I am perpetually awaiting a rebirth of wonder</description>
-    </item>
-  </channel>
+        <link>http://localhost:1313/2012/09/10/lets-go-come-on-lets-go-empty-our/</link>
+        <pubDate>Mon, 10 Sep 2012 09:35:51 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2012/09/10/lets-go-come-on-lets-go-empty-our/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Contra la Literatura</title>
+        <link>http://localhost:1313/2012/06/26/contra-la-literatura/</link>
+        <pubDate>Tue, 26 Jun 2012 13:05:52 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2012/06/26/contra-la-literatura/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>SESION HORIZONTAL 2.0</title>
+        <link>http://localhost:1313/2012/03/17/sesion-horizontal-20/</link>
+        <pubDate>Sat, 17 Mar 2012 14:37:39 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2012/03/17/sesion-horizontal-20/</guid>
+        <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;SESION HORIZONTAL 2.0&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Esta tarde, en Usera&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>La noche</title>
+        <link>http://localhost:1313/2012/03/17/la-noche/</link>
+        <pubDate>Sat, 17 Mar 2012 04:37:06 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2012/03/17/la-noche/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Le Mort joyeux</title>
+        <link>http://localhost:1313/2011/11/21/le-mort-joyeux/</link>
+        <pubDate>Mon, 21 Nov 2011 04:04:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2011/11/21/le-mort-joyeux/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>The Masque of Anarchy</title>
+        <link>http://localhost:1313/2009/12/11/the-masque-of-anarchy/</link>
+        <pubDate>Fri, 11 Dec 2009 12:10:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2009/12/11/the-masque-of-anarchy/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>no title</title>
+        <link>http://localhost:1313/2009/07/23/le%C3%ADa-anoche-en-un-gord%C3%ADsimo-volumen-con-las-obras/</link>
+        <pubDate>Thu, 23 Jul 2009 18:38:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2009/07/23/le%C3%ADa-anoche-en-un-gord%C3%ADsimo-volumen-con-las-obras/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Versos Órficos</title>
+        <link>http://localhost:1313/2009/02/06/versos-%C3%B3rficos/</link>
+        <pubDate>Fri, 06 Feb 2009 05:09:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2009/02/06/versos-%C3%B3rficos/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Desde Ítaca</title>
+        <link>http://localhost:1313/2008/11/03/desde-%C3%ADtaca/</link>
+        <pubDate>Mon, 03 Nov 2008 18:28:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2008/11/03/desde-%C3%ADtaca/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>To see a world in a grain of sand</title>
+        <link>http://localhost:1313/2008/10/16/to-see-a-world-in-a-grain-of-sand/</link>
+        <pubDate>Thu, 16 Oct 2008 11:31:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2008/10/16/to-see-a-world-in-a-grain-of-sand/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Con Ginsberg</title>
+        <link>http://localhost:1313/2008/10/16/con-ginsberg/</link>
+        <pubDate>Thu, 16 Oct 2008 08:52:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2008/10/16/con-ginsberg/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>γνῶθι σεαυτόν</title>
+        <link>http://localhost:1313/2008/09/29/%CE%B3%CE%BD%E1%BF%B6%CE%B8%CE%B9-%CF%83%CE%B5%CE%B1%CF%85%CF%84%CF%8C%CE%BD/</link>
+        <pubDate>Mon, 29 Sep 2008 21:01:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2008/09/29/%CE%B3%CE%BD%E1%BF%B6%CE%B8%CE%B9-%CF%83%CE%B5%CE%B1%CF%85%CF%84%CF%8C%CE%BD/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>no title</title>
+        <link>http://localhost:1313/2005/05/08/un-poema-de-jos%C3%A9-hierro-un-regalo-beethoven/</link>
+        <pubDate>Sun, 08 May 2005 05:14:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2005/05/08/un-poema-de-jos%C3%A9-hierro-un-regalo-beethoven/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>I am waiting</title>
+        <link>http://localhost:1313/2012/04/21/I-am-waiting/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2012/04/21/I-am-waiting/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;I am waiting for my case to come up&lt;br&gt;
+and I am waiting&lt;br&gt;
+for a rebirth of wonder&lt;br&gt;
+and I am waiting for someone&lt;br&gt;
+to really discover America&lt;br&gt;
+and wail&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the discovery&lt;!-- raw HTML omitted --&gt;
+of a new symbolic western frontier&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the American Eagle&lt;!-- raw HTML omitted --&gt;
+to really spread its wings&lt;!-- raw HTML omitted --&gt;
+and straighten up and fly right&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the Age of Anxiety&lt;!-- raw HTML omitted --&gt;
+to drop dead&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the war to be fought&lt;!-- raw HTML omitted --&gt;
+which will make the world safe&lt;!-- raw HTML omitted --&gt;
+for anarchy&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the final withering away&lt;!-- raw HTML omitted --&gt;
+of all governments&lt;!-- raw HTML omitted --&gt;
+and I am perpetually awaiting&lt;!-- raw HTML omitted --&gt;
+a rebirth of wonder&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I am waiting for the Second Coming&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for a religious revival&lt;!-- raw HTML omitted --&gt;
+to sweep thru the state of Arizona&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the Grapes of Wrath to be stored&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for them to prove&lt;!-- raw HTML omitted --&gt;
+that God is really American&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+to see God on television&lt;!-- raw HTML omitted --&gt;
+piped onto church altars&lt;!-- raw HTML omitted --&gt;
+if only they can find&lt;!-- raw HTML omitted --&gt;
+the right channel&lt;!-- raw HTML omitted --&gt;
+to tune in on&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the Last Supper to be served again&lt;!-- raw HTML omitted --&gt;
+with a strange new appetizer&lt;!-- raw HTML omitted --&gt;
+and I am perpetually awaiting&lt;!-- raw HTML omitted --&gt;
+a rebirth of wonder&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I am waiting for my number to be called&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the Salvation Army to take over&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the meek to be blessed&lt;!-- raw HTML omitted --&gt;
+and inherit the earth&lt;!-- raw HTML omitted --&gt;
+without taxes&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for forests and animals&lt;!-- raw HTML omitted --&gt;
+to reclaim the earth as theirs&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for a way to be devised&lt;!-- raw HTML omitted --&gt;
+to destroy all nationalisms&lt;!-- raw HTML omitted --&gt;
+without killing anybody&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for linnets and planets to fall like rain&lt;!-- raw HTML omitted --&gt;
+and I am waiting for lovers and weepers&lt;!-- raw HTML omitted --&gt;
+to lie down together again&lt;!-- raw HTML omitted --&gt;
+in a new rebirth of wonder&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I am waiting for the Great Divide to be crossed&lt;!-- raw HTML omitted --&gt;
+and I am anxiously waiting&lt;!-- raw HTML omitted --&gt;
+for the secret of eternal life to be discovered&lt;!-- raw HTML omitted --&gt;
+by an obscure general practitioner&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the storms of life&lt;!-- raw HTML omitted --&gt;
+to be over&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+to set sail for happiness&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for a reconstructed Mayflower&lt;!-- raw HTML omitted --&gt;
+to reach America&lt;!-- raw HTML omitted --&gt;
+with its picture story and tv rights&lt;!-- raw HTML omitted --&gt;
+sold in advance to the natives&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the lost music to sound again&lt;!-- raw HTML omitted --&gt;
+in the Lost Continent&lt;!-- raw HTML omitted --&gt;
+in a new rebirth of wonder&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I am waiting for the day&lt;!-- raw HTML omitted --&gt;
+that maketh all things clear&lt;!-- raw HTML omitted --&gt;
+and I am awaiting retribution&lt;!-- raw HTML omitted --&gt;
+for what America did&lt;!-- raw HTML omitted --&gt;
+to Tom Sawyer&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for Alice in Wonderland&lt;!-- raw HTML omitted --&gt;
+to retransmit to me&lt;!-- raw HTML omitted --&gt;
+her total dream of innocence&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for Childe Roland to come&lt;!-- raw HTML omitted --&gt;
+to the final darkest tower&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for Aphrodite&lt;!-- raw HTML omitted --&gt;
+to grow live arms&lt;!-- raw HTML omitted --&gt;
+at a final disarmament conference&lt;!-- raw HTML omitted --&gt;
+in a new rebirth of wonder&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I am waiting&lt;!-- raw HTML omitted --&gt;
+to get some intimations&lt;!-- raw HTML omitted --&gt;
+of immortality&lt;!-- raw HTML omitted --&gt;
+by recollecting my early childhood&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the green mornings to come again&lt;!-- raw HTML omitted --&gt;
+youth’s dumb green fields come back again&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for some strains of unpremeditated art&lt;!-- raw HTML omitted --&gt;
+to shake my typewriter&lt;!-- raw HTML omitted --&gt;
+and I am waiting to write&lt;!-- raw HTML omitted --&gt;
+the great indelible poem&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the last long careless rapture&lt;!-- raw HTML omitted --&gt;
+and I am perpetually waiting&lt;!-- raw HTML omitted --&gt;
+for the fleeing lovers on the Grecian Urn&lt;!-- raw HTML omitted --&gt;
+to catch each other up at last&lt;!-- raw HTML omitted --&gt;
+and embrace&lt;!-- raw HTML omitted --&gt;
+and I am awaiting&lt;!-- raw HTML omitted --&gt;
+perpetually and forever&lt;!-- raw HTML omitted --&gt;
+a renaissance of wonder&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://en.wikipedia.org/wiki/Lawrence_Ferlinghetti&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Lawrence Ferlinghetti&lt;/a&gt;,  &lt;em&gt;A Coney Island of the Mind&lt;/em&gt;.&lt;br&gt;
+&lt;em&gt;Copyright © 1958 by Lawrence Ferlinghetti.&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

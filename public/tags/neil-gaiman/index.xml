@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Neil Gaiman on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/neil-gaiman/</link>
-    <description>Recent content in Neil Gaiman on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 24 Oct 2014 14:45:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/neil-gaiman/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Preguntas</title>
-      <link>http://localhost:1313/2014/10/24/preguntas/</link>
-      <pubDate>Fri, 24 Oct 2014 14:45:00 +0100</pubDate>
-      <guid>http://localhost:1313/2014/10/24/preguntas/</guid>
-      <description> </description>
-    </item>
-  </channel>
+    <channel>
+        <title>Neil Gaiman on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/neil-gaiman/</link>
+        <description>Recent content in Neil Gaiman on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Fri, 24 Oct 2014 14:45:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/neil-gaiman/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Preguntas</title>
+        <link>http://localhost:1313/2014/10/24/preguntas/</link>
+        <pubDate>Fri, 24 Oct 2014 14:45:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2014/10/24/preguntas/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

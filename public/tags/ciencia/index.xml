@@ -1,82 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ciencia on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/ciencia/</link>
-    <description>Recent content in Ciencia on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 31 Jul 2013 15:07:12 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ciencia/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2013</title>
-      <link>http://localhost:1313/2013/07/31/2013/</link>
-      <pubDate>Wed, 31 Jul 2013 15:07:12 +0100</pubDate>
-      <guid>http://localhost:1313/2013/07/31/2013/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>la tierra fotografiada por los astronautas del</title>
-      <link>http://localhost:1313/2012/09/01/la-tierra-fotografiada-por-los-astronautas-del/</link>
-      <pubDate>Sat, 01 Sep 2012 16:04:31 +0100</pubDate>
-      <guid>http://localhost:1313/2012/09/01/la-tierra-fotografiada-por-los-astronautas-del/</guid>
-      <description>La Tierra, fotografiada por los astronautas del Apollo XI mientras sobrevolaban la Luna</description>
-    </item>
-    <item>
-      <title>Crear una teoría no es como destruir un viejo establo para erigir un rascacielos en su lugar. Se parece más a escalar una montaña cuando se alcanzan vistas nuevas y más amplias y se descubren relaciones inesperadas entre el punto de partida y su rico entorno. Pero el punto de partida continúa existiendo y lo podemos divisar, aunque parece más pequeño y forma una pequeña parte del panorama que se abre a nuestros ojos, más ancho ahora tras haber vencido los obstáculos de nuestra arriesgada ascensión.</title>
-      <link>http://localhost:1313/2012/03/25/crear-una-teor%C3%ADa-no-es-como-destruir-un-viejo/</link>
-      <pubDate>Sun, 25 Mar 2012 22:02:54 +0100</pubDate>
-      <guid>http://localhost:1313/2012/03/25/crear-una-teor%C3%ADa-no-es-como-destruir-un-viejo/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Civilizaciones productivas</title>
-      <link>http://localhost:1313/2010/11/10/civilizaciones-productivas/</link>
-      <pubDate>Wed, 10 Nov 2010 10:06:00 +0000</pubDate>
-      <guid>http://localhost:1313/2010/11/10/civilizaciones-productivas/</guid>
-      <description>En estos días leo “The Evolution of Civilizations”, de Carroll Quigley, un intento de aplicar el método científico a la historia, en especial a la civilización como sujeto de estudio. En una de las primeras páginas, Quigley distingue entre “civilizaciones parásitas”, las que no crean nueva riqueza y se mantienen consumiendo lo que hay en su entorno, y “civilizaciones productivas”, que sí crean riqueza. Para Quigley son parásitas las primtivas civilizaciones de cazadores-recolectores, y productivas las que han llegado a descubrir la agricultura y la ganadería.</description>
-    </item>
-    <item>
-      <title>De los límites de la ciencia</title>
-      <link>http://localhost:1313/2010/05/19/de-los-l%C3%ADmites-de-la-ciencia/</link>
-      <pubDate>Wed, 19 May 2010 07:39:00 +0100</pubDate>
-      <guid>http://localhost:1313/2010/05/19/de-los-l%C3%ADmites-de-la-ciencia/</guid>
-      <description>Soy, como buen físico, escéptico. No acepto nada sin pruebas, y aún con pruebas, creo en la necesidad de poner siempre, constantemente en duda, de todo lo que consideramos seguro, de atacar el conocimiento para, a través de encontrar sus puntos débiles, reforzarlo. Y creo firmemente en las bondades del método científico.Es este compromiso el que hace que me disgusten actitudes que cada vez con más frecuencia veo a mi alrededor, el considerar la ciencia como la Verdad Única y Absoluta, el despreciar cualquier otra cosa.</description>
-    </item>
-    <item>
-      <title>El Teorema Central del Límite</title>
-      <link>http://localhost:1313/2010/01/28/el-teorema-central-del-l%C3%ADmite/</link>
-      <pubDate>Thu, 28 Jan 2010 07:24:00 +0000</pubDate>
-      <guid>http://localhost:1313/2010/01/28/el-teorema-central-del-l%C3%ADmite/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>La autorregulación de la economía (II)</title>
-      <link>http://localhost:1313/2009/08/23/la-autorregulaci%C3%B3n-de-la-econom%C3%ADa-ii/</link>
-      <pubDate>Sun, 23 Aug 2009 07:01:00 +0100</pubDate>
-      <guid>http://localhost:1313/2009/08/23/la-autorregulaci%C3%B3n-de-la-econom%C3%ADa-ii/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>La autorregulación de la economía</title>
-      <link>http://localhost:1313/2009/08/12/la-autorregulaci%C3%B3n-de-la-econom%C3%ADa/</link>
-      <pubDate>Wed, 12 Aug 2009 06:53:00 +0100</pubDate>
-      <guid>http://localhost:1313/2009/08/12/la-autorregulaci%C3%B3n-de-la-econom%C3%ADa/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>La catástrofe malthusiana</title>
-      <link>http://localhost:1313/2008/05/12/la-cat%C3%A1strofe-malthusiana/</link>
-      <pubDate>Mon, 12 May 2008 12:20:00 +0100</pubDate>
-      <guid>http://localhost:1313/2008/05/12/la-cat%C3%A1strofe-malthusiana/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>De dioses y ciencia</title>
-      <link>http://localhost:1313/2007/07/26/de-dioses-y-ciencia/</link>
-      <pubDate>Thu, 26 Jul 2007 07:17:00 +0100</pubDate>
-      <guid>http://localhost:1313/2007/07/26/de-dioses-y-ciencia/</guid>
-      <description> </description>
-    </item>
-  </channel>
+    <channel>
+        <title>Ciencia on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/ciencia/</link>
+        <description>Recent content in Ciencia on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Wed, 31 Jul 2013 15:07:12 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/ciencia/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>2013</title>
+        <link>http://localhost:1313/2013/07/31/2013/</link>
+        <pubDate>Wed, 31 Jul 2013 15:07:12 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2013/07/31/2013/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>la tierra fotografiada por los astronautas del</title>
+        <link>http://localhost:1313/2012/09/01/la-tierra-fotografiada-por-los-astronautas-del/</link>
+        <pubDate>Sat, 01 Sep 2012 16:04:31 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2012/09/01/la-tierra-fotografiada-por-los-astronautas-del/</guid>
+        <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;La Tierra, fotografiada por los astronautas del Apollo XI mientras sobrevolaban la Luna&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Crear una teoría no es como destruir un viejo establo para erigir un rascacielos en su lugar. Se parece más a escalar una montaña cuando se alcanzan vistas nuevas y más amplias y se descubren relaciones inesperadas entre el punto de partida y su rico entorno. Pero el punto de partida continúa existiendo y lo podemos divisar, aunque parece más pequeño y forma una pequeña parte del panorama que se abre a nuestros ojos, más ancho ahora tras haber vencido los obstáculos de nuestra arriesgada ascensión.</title>
+        <link>http://localhost:1313/2012/03/25/crear-una-teor%C3%ADa-no-es-como-destruir-un-viejo/</link>
+        <pubDate>Sun, 25 Mar 2012 22:02:54 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2012/03/25/crear-una-teor%C3%ADa-no-es-como-destruir-un-viejo/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Civilizaciones productivas</title>
+        <link>http://localhost:1313/2010/11/10/civilizaciones-productivas/</link>
+        <pubDate>Wed, 10 Nov 2010 10:06:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2010/11/10/civilizaciones-productivas/</guid>
+        <description>&lt;p&gt;En estos días leo “The Evolution of Civilizations”, de &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Carroll Quigley&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;, un intento de aplicar el método científico a la historia, en especial a la civilización como sujeto de estudio.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;En una de las primeras páginas, Quigley distingue entre “civilizaciones parásitas”, las que no crean nueva riqueza y se mantienen consumiendo lo que hay en su entorno, y “civilizaciones productivas”, que sí crean riqueza. Para Quigley son parásitas las primtivas civilizaciones de cazadores-recolectores, y productivas las que han llegado a descubrir la agricultura y la ganadería. Aquí se demuestra que Quigley era un hombre de su época (el libro es de 1961), del apogeo final de la Revolución Industrial.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;¿De verdad, visto con ojos de hoy, podemos considerar que nuestra civilización “crea riqueza”, que no debe ser definida como una civilización parásita? Hemos demostrado ser los más ávidos en el consumo de recursos, hasta el punto de dejar exhausto nuestro propio (y único, a día de hoy) planeta. Y es que, en realidad, lo que Quigley llama “civilización productiva” es una civilización que vive a crédito. Puede ser un crédito pequeño, sostenible, como el de una sociedad primitiva de población pequeña y constante, que cuyo impacto apenas se nota, o un crédito masivo como el nuestro, de una civilización al borde de la bancarrota planetaria, y su posterior embargo final.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Si logramos dominar la fusión nuclear en las próximas décadas, y lo acompañamos con un decrecimiento de la población, y nuestra civilización logra así salvarse del colapso, eso no significará que la deuda desaparezca. Incluso la fusión nuclear (y, de paso, todas las energías que llamamos “renovables”) requiere de combustible no renovable, aunque desde una escala humana parezca infinito. Si nuestra especie llegara a prosperar y prolongarse en el tiempo,  quizás millones de años después hubiera que pagar de nuevo la deuda por el consumo de hidrógeno.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;La realidad es que no existe la creación de riqueza. Ni siquiera el consumo cero. La &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Segunda Ley de la Termodinámica&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; lo impide, y mientras estemos sujetos a ella, mientras no consigamos un &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;móvil perpetuo&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; (y muy equivocado tendría que estar nuestro conocimiento de la Naturaleza para que eso fuera posible) lo más que podemos hacer es ser conscientes de que vivimos a crédito, y actuar en consecuencia, vivir con moderación, y renunciar a crecimientos que siempre acaban pasando factura.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>De los límites de la ciencia</title>
+        <link>http://localhost:1313/2010/05/19/de-los-l%C3%ADmites-de-la-ciencia/</link>
+        <pubDate>Wed, 19 May 2010 07:39:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2010/05/19/de-los-l%C3%ADmites-de-la-ciencia/</guid>
+        <description>&lt;p&gt;Soy, como buen físico, escéptico. No acepto nada sin pruebas, y aún con pruebas, creo en la necesidad de poner siempre, constantemente en duda, de todo lo que consideramos seguro, de atacar el conocimiento para, a través de encontrar sus puntos débiles, reforzarlo. Y creo firmemente en las bondades del &lt;!-- raw HTML omitted --&gt;método científico&lt;!-- raw HTML omitted --&gt;.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Es este compromiso el que hace que me disgusten actitudes que cada vez con más frecuencia veo a mi alrededor, el considerar la ciencia como la Verdad Única y Absoluta, el despreciar cualquier otra cosa. &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;¿Cómo define la RAE &lt;!-- raw HTML omitted --&gt;“escepticismo”&lt;!-- raw HTML omitted --&gt;?:&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;escepticismo&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;(De &lt;!-- raw HTML omitted --&gt;escéptico&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; e &lt;!-- raw HTML omitted --&gt;-ismo&lt;!-- raw HTML omitted --&gt;).&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;1. &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;m.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; Desconfianza o duda de la verdad o eficacia de algo.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;2. &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;m.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; Doctrina de ciertos filósofos antiguos y modernos, que consiste en afirmar que la verdad no existe, o que, si existe, el hombre es incapaz de conocerla.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Eso es en lo que yo creo, y no me gusta nada ese escepticismo mal entendido que lleva a hacer de la religión una ciencia, y a despreciar todo lo demás. Discutía hace poco con un amigo sobre &lt;!-- raw HTML omitted --&gt;Homeopatía&lt;!-- raw HTML omitted --&gt;, y sobre una peculiar experiencia (positiva) que tuve con un producto contra la alergia. La Homeopatía es, casi con seguridad, poco más que un efecto placebo. Ningún experimento serio ha demostrado que sea realmente efectiva, y el efecto memoria del agua en el que se basa es bastante dudoso, y más dudoso aún el que, de existir, pudiera usarse con resultado beneficioso, y aislar las memorias deseadas de todo el ruido. Sin embargo, la sensación que la mayoría de los seguidores de este escepticismo mal entendido me dan es de rechazarla porque suena extraña, porque no parece (ni es, de hecho) ciencia. &lt;!-- raw HTML omitted --&gt;Mi amigo decía que esa noción de la memoria del agua estaba en contradicción con la Mecánica Cuántica: ahí está el error. No se puede descartar algo porque esté en contradicción con ninguna teoría establecida. Se descarta algo cuando, tras suficientes estudios, se demuestra su falsedad, independientemente de lo que cualquier teoría diga. Y si algún estudio serio ofreciera dudas sobre esta falsedad, quien se vería en problemas sería la propia Mecánica Cuántica. Si no, si antepones la seguridad de una teoría conocida, a la realidad que esta intenta describir, no estás adoptando una postura científica, no estás siguiendo ese escepticismo que dices defender.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Estos seguidores del escepticismo mal defendido cometen, a mi entender, una serie de errores que les hacen alejarse de una verdadera postura escéptica, y defender el dogmatismo que dicen combatir:&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Equiparar &lt;!-- raw HTML omitted --&gt;Conocimento Científico&lt;!-- raw HTML omitted --&gt; con &lt;!-- raw HTML omitted --&gt;Conocimiento Verdadero&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;. El psicoanálisis recibe muchos ataques por ello. &lt;!-- raw HTML omitted --&gt;No es científico, no permite ser falsado, no sigue el Método. &lt;!-- raw HTML omitted --&gt;Y es cierto, desde luego. Pero no ser científico significa eso, no ser científico. Hace mil años no había ningún conocimiento que pudiéramos llamar científico con los patrones actuales, y eso no hacía a la gente ajena a toda verdad. Y muchos de los conocimientos científicos actuales se demostrarán algún día falsos. Así ha sido siempre, y nada indica que las cosas vayan a cambiar. El conocimiento científico tiene la ventaja de unos mecanismos muy bien establecidos para sustituir un conocimiento que se demuestra erróneo por su sucesor, mientras que en otros tipos de conocimiento, más basados en la autoridad, en la propaganda, o en la transmisión  de un conocimiento supuestamente antiguo, se hace mucho más complicado cualquier tipo de transición acertada.Tampoco el conocimiento científico está libre de esta autoridad o propaganda. Pero los trabajos de &lt;!-- raw HTML omitted --&gt;Kuhn&lt;!-- raw HTML omitted --&gt; o &lt;!-- raw HTML omitted --&gt;Feyerabend&lt;!-- raw HTML omitted --&gt; parecen estar cayendo en el olvido.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Creer en la infalibilidad y omnipotencia del método científico&lt;!-- raw HTML omitted --&gt;. En esta misma línea se tiende a creer que el método científico permite llegar a cualquier lugar, resolver cualquier problema, que no existe rincón alguno de la realidad que no admita ser descrita por la ciencia. El baño de humildad que &lt;!-- raw HTML omitted --&gt;Gödel&lt;!-- raw HTML omitted --&gt; impuso a las Matemáticas no ha llegado a la Física y demás ciencias experimentales. Se cree, por ejemplo, que el método científico no requiere de ningún elemento a priori, pero la validez del propio método ya es uno de sus muchos a priori (la respuesta que te dan ante esto es que no es así: que la validez del método científico se muestra en su utilización, es decir que el método es validado por el propio método sin darse cuenta de que, en el afán de escapar de la necesaria suposición idemostrable se entra en un razonamiento circular mucho peor). No hay nada que nos indique que no hayan límites que el método científico no pueda traspasar, que no haya conocimiento que esté vedado con estas herramientas. &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Olvidar que la ciencia no ofrece certezas. &lt;!-- raw HTML omitted --&gt;La ciencia bien hecha jamás ofrece certezas. Un experimento adecuado jamás da por respuesta un SÍ o un NO. Tan sólo un “dentro de estos límites hay un 99% posibilidades”. La primera parte, el “dentro de estos límites”, se olvida con demasiada facilidad. Mejor, desde luego, esta afirmación probabilística que la falsa certeza que, por ejemplo, una religión pretende ofrecer. Pero si nos olvidamos de ello, estamos privando a la ciencia de lo que, aunque pueda parecer una debilidad, es una de sus ventajas más poderosas.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Confundir modelo con realidad&lt;!-- raw HTML omitted --&gt;. La ciencia sólo puede hacer dos cosas: o intentar describir nuestras percepciones, o bien intentar modelizarlas para hacer predicciones de percepciones futuras. Esos modelos no son la realidad, sino herramientas que utilizamos para poder acercarnos a ella, o simplemente utilizarla para nuestros fines. No podemos esperar que realmente una partícula se comporte como una nube de probabilidad que colapsa a una &lt;!-- raw HTML omitted --&gt;delta de Dirac&lt;!-- raw HTML omitted --&gt; cuando alguien mide sus propiedades. Es simplemente la mejor descripción consistente con los experimentos que hemos encontrado. La realidad (si existe y es consistente y predecible) es otra cosa, no un modelo matemático.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Confundir percepción con la realidad. &lt;!-- raw HTML omitted --&gt;¿Qué sabemos de la realidad? En realidad nada. Lo que a efectos prácticos llamamos “realidad” no es más que un convenio de percepciones compartidas. Y no sabemos que estas percepciones sean realmente compartidas, que lo que mi vecino está midiendo sea lo mismo que lo que mido yo. Todo parece indicar que sí, pero, una vez más, no existe ningún tipo de certeza. Tampoco podemos tomarnos demasiado en serio la presunta facilidad con la que la realidad se deja describir con un formalismo matemático. Las matemáticas son una creación de la mente humana. Esa realidad que creemos matemática es, en el mejor de los casos, una versión filtrada por nuestra mente. Ambas, por tanto, proceden de nosotros: es normal que sean compatibles.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Dar por hecho que la realidad es regular. &lt;!-- raw HTML omitted --&gt;Quizás lo sea. O quizás no. Una de las bases del método científico (y de todo el conocimiento humano, en realidad) es creer en la causalidad, y en la regularidad de la realidad. Si de A siempre que lo hemos medido se sigue B, pensamos que, en las mismas condiciones (que en realidad jamás se vuelven a dar realmente, pero eso es otra cuestión) de A siempre se ha seguido y seguirá B. ¿Por qué? No hay nada, más allá de la experiencia, que nos permita afirmar esto. Por supuesto, resultaría muy difícil vivir con esta duda, pero no podemos asegurarlo. De modo más concreto, no podemos asegurar que realmente la realidad siga unas leyes concretas. Nuestras percepciones parecen seguirlas, pero ¿cómo sabemos si esto se corresponde con una realidad externa o es simplemente un mecanismo evolutivo, una solución para favorecer conductas que permitan la supervivencia? ¿Dónde termina la simple relación estadística y comienza la verdadera ley, si esta existe?&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;El tema de la percepción, de hasta que punto nuestra percepción de la realidad se corresponde con esta, es algo que me persigue desde hace muchos años. ¿No está también sujeta la percepción a los mecanismos evolutivos? ¿No tenderá también esta a asegurar la supervivencia de la especie, a favorecer la propagación de su ADN, aunque sea a costa de alejarse de la realidad? Si la percepción no es sino una herramienta, la ciencia queda como una herramienta al servicio de una herramienta. Demasiadas dudas, para la seguridad en una Sagrada Verdad Científica que muchos poseen.&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>El Teorema Central del Límite</title>
+        <link>http://localhost:1313/2010/01/28/el-teorema-central-del-l%C3%ADmite/</link>
+        <pubDate>Thu, 28 Jan 2010 07:24:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2010/01/28/el-teorema-central-del-l%C3%ADmite/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>La autorregulación de la economía (II)</title>
+        <link>http://localhost:1313/2009/08/23/la-autorregulaci%C3%B3n-de-la-econom%C3%ADa-ii/</link>
+        <pubDate>Sun, 23 Aug 2009 07:01:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2009/08/23/la-autorregulaci%C3%B3n-de-la-econom%C3%ADa-ii/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>La autorregulación de la economía</title>
+        <link>http://localhost:1313/2009/08/12/la-autorregulaci%C3%B3n-de-la-econom%C3%ADa/</link>
+        <pubDate>Wed, 12 Aug 2009 06:53:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2009/08/12/la-autorregulaci%C3%B3n-de-la-econom%C3%ADa/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>La catástrofe malthusiana</title>
+        <link>http://localhost:1313/2008/05/12/la-cat%C3%A1strofe-malthusiana/</link>
+        <pubDate>Mon, 12 May 2008 12:20:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2008/05/12/la-cat%C3%A1strofe-malthusiana/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>De dioses y ciencia</title>
+        <link>http://localhost:1313/2007/07/26/de-dioses-y-ciencia/</link>
+        <pubDate>Thu, 26 Jul 2007 07:17:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2007/07/26/de-dioses-y-ciencia/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

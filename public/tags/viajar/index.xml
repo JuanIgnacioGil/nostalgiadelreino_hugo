@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Viajar on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/viajar/</link>
-    <description>Recent content in Viajar on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 16 May 2015 21:40:13 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/viajar/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Road goes ever on and on
+    <channel>
+        <title>Viajar on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/viajar/</link>
+        <description>Recent content in Viajar on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Sat, 16 May 2015 21:40:13 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/viajar/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>The Road goes ever on and on
 Down from the door where it began.
 Now far ahead the Road has gone,
 And I must follow, if I can,
@@ -17,10 +15,13 @@ Pursuing it with eager feet,
 Until it joins some larger way,
 Where many paths and errands meet.
 And whither then? I cannot say.</title>
-      <link>http://localhost:1313/2015/05/16/the-road-goes-ever-on-and-on-down-from-the-door/</link>
-      <pubDate>Sat, 16 May 2015 21:40:13 +0100</pubDate>
-      <guid>http://localhost:1313/2015/05/16/the-road-goes-ever-on-and-on-down-from-the-door/</guid>
-      <description> </description>
-    </item>
-  </channel>
+        <link>http://localhost:1313/2015/05/16/the-road-goes-ever-on-and-on-down-from-the-door/</link>
+        <pubDate>Sat, 16 May 2015 21:40:13 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2015/05/16/the-road-goes-ever-on-and-on-down-from-the-door/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

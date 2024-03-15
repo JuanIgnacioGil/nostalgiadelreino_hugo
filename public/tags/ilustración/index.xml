@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ilustración on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/ilustraci%C3%B3n/</link>
-    <description>Recent content in Ilustración on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2009 07:53:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ilustraci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>La vejez de Rousseau</title>
-      <link>http://localhost:1313/2009/04/11/la-vejez-de-rousseau/</link>
-      <pubDate>Sat, 11 Apr 2009 07:53:00 +0100</pubDate>
-      <guid>http://localhost:1313/2009/04/11/la-vejez-de-rousseau/</guid>
-      <description> </description>
-    </item>
-  </channel>
+    <channel>
+        <title>Ilustración on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/ilustraci%C3%B3n/</link>
+        <description>Recent content in Ilustración on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Sat, 11 Apr 2009 07:53:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/ilustraci%C3%B3n/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>La vejez de Rousseau</title>
+        <link>http://localhost:1313/2009/04/11/la-vejez-de-rousseau/</link>
+        <pubDate>Sat, 11 Apr 2009 07:53:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2009/04/11/la-vejez-de-rousseau/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

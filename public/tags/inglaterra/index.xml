@@ -1,47 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Inglaterra on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/inglaterra/</link>
-    <description>Recent content in Inglaterra on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 18 Dec 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/inglaterra/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Horizontes (II)</title>
-      <link>http://localhost:1313/2016/12/18/Horizontes%20%28II%29/</link>
-      <pubDate>Sun, 18 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2016/12/18/Horizontes%20%28II%29/</guid>
-      <description>&lt;p&gt;![Saint James Park]({{ site.url }}/images/St-James.png)&lt;/p&gt;&#xA;&lt;p&gt;Escribía hace poco de qué tal vez algunos sueños no estén para ser cumplidos, que hay horizontes que quizás no hay que alcanzar. Un triste presentimiento, porque ha sido. Londres, mi ciudad soñada desde hacía tantos años, me ha roto el corazón.&lt;/p&gt;&#xA;&lt;p&gt;No sé qué ha sucedido. Quizás yo he cambiado. Quizás la ciudad ha cambiado. Quizás ambos. Quizás esta es mi condena por haber abandonado, por una mezcla de miedo y ambición, la maravillosa Viena (el Reino Perdido, no una metáfora, sino uno tangible).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sueños:Londres y estrellas de rock</title>
-      <link>http://localhost:1313/2010/10/22/sue%C3%B1oslondres-y-estrellas-de-rock/</link>
-      <pubDate>Fri, 22 Oct 2010 08:40:00 +0100</pubDate>
-      <guid>http://localhost:1313/2010/10/22/sue%C3%B1oslondres-y-estrellas-de-rock/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Del sistema electoral</title>
-      <link>http://localhost:1313/2010/05/25/del-sistema-electoral/</link>
-      <pubDate>Tue, 25 May 2010 10:31:00 +0100</pubDate>
-      <guid>http://localhost:1313/2010/05/25/del-sistema-electoral/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>The Masque of Anarchy</title>
-      <link>http://localhost:1313/2009/12/11/the-masque-of-anarchy/</link>
-      <pubDate>Fri, 11 Dec 2009 12:10:00 +0000</pubDate>
-      <guid>http://localhost:1313/2009/12/11/the-masque-of-anarchy/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Los mitos homérico y órfico de la creación</title>
-      <link>http://localhost:1313/2009/08/24/los-mitos-hom%C3%A9rico-y-%C3%B3rfico-de-la-creaci%C3%B3n/</link>
-      <pubDate>Mon, 24 Aug 2009 16:27:00 +0100</pubDate>
-      <guid>http://localhost:1313/2009/08/24/los-mitos-hom%C3%A9rico-y-%C3%B3rfico-de-la-creaci%C3%B3n/</guid>
-      <description> </description>
-    </item>
-  </channel>
+    <channel>
+        <title>Inglaterra on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/inglaterra/</link>
+        <description>Recent content in Inglaterra on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Sun, 18 Dec 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/inglaterra/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Horizontes (II)</title>
+        <link>http://localhost:1313/2016/12/18/Horizontes%20%28II%29/</link>
+        <pubDate>Sun, 18 Dec 2016 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2016/12/18/Horizontes%20%28II%29/</guid>
+        <description>&lt;p&gt;![Saint James Park]({{ site.url }}/images/St-James.png)&lt;/p&gt;
+&lt;p&gt;Escribía hace poco de qué tal vez algunos sueños no estén para ser cumplidos, que hay horizontes que quizás no hay que alcanzar. Un triste presentimiento, porque ha sido. Londres, mi ciudad soñada desde hacía tantos años, me ha roto el corazón.&lt;/p&gt;
+&lt;p&gt;No sé qué ha sucedido. Quizás yo he cambiado. Quizás la ciudad ha cambiado. Quizás ambos. Quizás esta es mi condena por haber abandonado, por una mezcla de miedo y ambición, la maravillosa Viena (el Reino Perdido, no una metáfora, sino uno tangible).&lt;/p&gt;
+&lt;p&gt;Todo comenzó, claro, el 23 de junio, cuando yo ya había aceptado la oferta que me trajó aquí, que me tentó a abandonar mi paraíso vienés. Daba por hecho que el Reino Unido seguiría ese supuesto pragmatismo por el que era famoso y votaría por la permanencia en el proyecto europeo. Y tenía miedo de que mis vecinos austriacos volvieran a repetir viejos horrores y a caer de nuevo en la pesadilla del fascismo. Al final fue, claro, al revés.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A finales de agosto llegué a un país que no me quería. Me esperaba un carísimo y miserable apartamento en el nordeste de la ciudad, donde pasaría el primer mes hasta encontrar algo definitivo.&lt;/p&gt;
+&lt;p&gt;En el 2001, la primera vez que vine a esta ciudad, caí rendido en cuanto salí del metro en Camden Town. Amor a primera vista. Quince años después, saldría de la estación de Finsbury Park, y mi corazón se rompió. No sé qué fue. Quizás los mendigos. Quizás la fealdad. Quizás el saber que había encontrado mi lugar y lo había abandonado. Voluntariamente. Estúpidamente. Quizás que el mundo se estaba desmoronando mientras yo viajaba sin rumbo, imitando tal vez los errores de mi padre.&lt;/p&gt;
+&lt;p&gt;La tarde siguiente viajé al centro (&lt;em&gt;viajé&lt;/em&gt; es, sí, la palabra correcta, con las inmensas distancias de esta ciudad), me reuní con A. (&lt;em&gt;quien aparece con otra letra en los remotos orígenes de este blog&lt;/em&gt;), y todo pareció volver a la normalidad. Pasear por las calles de Bloomsbury y el Soho pareció calmarme, y me engañé pensando que sólo había sido el nerviosismo normal en un cambio tan grande.&lt;/p&gt;
+&lt;p&gt;Tres meses después, justo antes de abandonar la ciudad, A. me diría &lt;em&gt;Me gusta Londres, pero tienes la sensación de ir siempre cuesta arriba&lt;/em&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Había, claro, muchos más, pero recuerdo claramente a tres de los mendigos de Finsbury Park. Una chica rubia, torturada, que a menudo lloraba con rabia. A ella la vi ese primer día en Finsbury Park. Fue tal vez mi primer indicio de que algo estaba roto, y que este no era mi sitio, que no lo había sido nunca, que me había estado engañando.&lt;/p&gt;
+&lt;p&gt;Un chico, quizás el más joven de todos, que lloraba desolado, mientras alguien intentaba consolarle.&lt;/p&gt;
+&lt;p&gt;Con la tercera de ellas, otra chica muy joven, que debía llevar poco tiempo en la calle, llegaría a hablar E., y supimos su nombre y parte de su historia. Pierdes el trabajo, y la casa, acabas en la calle. Y ya no puedes salir. Nadie te da trabajo si no tienes una dirección. Y no puedes conseguir una dirección si no tienes un trabajo para pagarla.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Y el mundo hundiéndose. Trump venciendo en Estados Unidos. La prensa británica recuperando el viejo término de &lt;em&gt;enemigo del pueblo&lt;/em&gt; a quienes criticaran la política nacionalista del gobierno. El horror en Francia, donde todo indica que habrá que elegir entre el fascismo puro, o un retrógrado integrismo religioso.&lt;/p&gt;
+&lt;p&gt;Contemplaba aterrorizado la situación, y preguntándome si no estaba volviéndome loco, obsesionado, como esas personas que llenan sus paredes de recortes de periódico.&lt;/p&gt;
+&lt;p&gt;Y el horror de saber que mi trabajo contribuía a ello, la desesperación de estar en el lugar equivocado.&lt;/p&gt;
+&lt;p&gt;Tres meses después perdería mi trabajo. Hasta que punto fue uno más de la multitud de despidos de esos días en mi empresa, o si fue causado por una infelicidad más obvia de lo que pensaba, no lo sabré nunca. Poco importa ya. Fue, eso lo sé, aunque duela, una bendición.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Llegó E., y abandomos el horrible Finsbury Park para venir al plácido Pimlico, un barrio tranquilo, hasta bonito, a un apartamento desde el que vemos todo el cielo londinense. Y todo fue mejor. Pero ya no queda en mí amor por esta ciudad.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;También en Pimlico hay mendigos, mayores que en Finsbury Park, más maltratados por los años y el alcohol. Es una sociedad tan cruel. Me pregunto hasta qué punto es obra de Margaret Tatcher, su &lt;em&gt;there
+is no such thing as society&lt;/em&gt;, y su mensaje de crueldad y egoísmo, o hasta que punto ha sido siempre así, y ella sólo sacó a flote lo peor de su gente (y es triste, porque también hay tanto de admirable en esta gente).&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;¿Y ahora? Quizás me marche pronto. De vuelva a Madrid, al que, ahora lo sé, es mi verdadero hogar. O quizás a otro lugar, que todavía no soy capaz de ver. O quizás permanezca, y logre reconciliarme con este viejo amor.&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>Sueños:Londres y estrellas de rock</title>
+        <link>http://localhost:1313/2010/10/22/sue%C3%B1oslondres-y-estrellas-de-rock/</link>
+        <pubDate>Fri, 22 Oct 2010 08:40:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2010/10/22/sue%C3%B1oslondres-y-estrellas-de-rock/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Del sistema electoral</title>
+        <link>http://localhost:1313/2010/05/25/del-sistema-electoral/</link>
+        <pubDate>Tue, 25 May 2010 10:31:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2010/05/25/del-sistema-electoral/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>The Masque of Anarchy</title>
+        <link>http://localhost:1313/2009/12/11/the-masque-of-anarchy/</link>
+        <pubDate>Fri, 11 Dec 2009 12:10:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2009/12/11/the-masque-of-anarchy/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Los mitos homérico y órfico de la creación</title>
+        <link>http://localhost:1313/2009/08/24/los-mitos-hom%C3%A9rico-y-%C3%B3rfico-de-la-creaci%C3%B3n/</link>
+        <pubDate>Mon, 24 Aug 2009 16:27:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2009/08/24/los-mitos-hom%C3%A9rico-y-%C3%B3rfico-de-la-creaci%C3%B3n/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

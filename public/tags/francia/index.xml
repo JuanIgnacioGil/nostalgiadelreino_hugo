@@ -1,61 +1,119 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Francia on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/francia/</link>
-    <description>Recent content in Francia on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/francia/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Chalecos</title>
-      <link>http://localhost:1313/2018/12/12/Chalecos/</link>
-      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2018/12/12/Chalecos/</guid>
-      <description>Copio aquí una larga diatriba que publiqué en Facebook, tras ver con desesperación como mi portada estaba llena de post alabando a los gilets jaunes, y jaleando para que hiciéramos lo mismo en España.&#xA;No suelo hablar de política aquí (para eso es Twitter), pero ha sido abrir esto esta noche y ver montones de gente compartiendo publicaciones sobre los gilets jaunes, y, francamente, no puedo más. No tras lo de Andalucía, y del bochorno que vivimos todos los días en UK.</description>
-    </item>
-    <item>
-      <title>Veo hoy, en mi memoria, Grecia</title>
-      <link>http://localhost:1313/2012/11/09/veo-hoy-en-mi-memoria-grecia/</link>
-      <pubDate>Fri, 09 Nov 2012 14:20:00 +0000</pubDate>
-      <guid>http://localhost:1313/2012/11/09/veo-hoy-en-mi-memoria-grecia/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Chateaubriand en América</title>
-      <link>http://localhost:1313/2012/09/09/chateaubriand-en-am%C3%A9rica/</link>
-      <pubDate>Sun, 09 Sep 2012 13:50:02 +0100</pubDate>
-      <guid>http://localhost:1313/2012/09/09/chateaubriand-en-am%C3%A9rica/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Stendhal a dit quelque part ceci, ou à peu près: J’écris pour une dizaine d’âmes que je ne verrai peut-être jamais, mais que j’adore, sans les avoir vues.</title>
-      <link>http://localhost:1313/2012/06/20/stendhal-a-dit-quelque-part-ceci-ou-%C3%A0-peu-pr%C3%A8s/</link>
-      <pubDate>Wed, 20 Jun 2012 10:42:53 +0100</pubDate>
-      <guid>http://localhost:1313/2012/06/20/stendhal-a-dit-quelque-part-ceci-ou-%C3%A0-peu-pr%C3%A8s/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Le Mort joyeux</title>
-      <link>http://localhost:1313/2011/11/21/le-mort-joyeux/</link>
-      <pubDate>Mon, 21 Nov 2011 04:04:00 +0000</pubDate>
-      <guid>http://localhost:1313/2011/11/21/le-mort-joyeux/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Tout va Bien</title>
-      <link>http://localhost:1313/2009/05/24/tout-va-bien/</link>
-      <pubDate>Sun, 24 May 2009 09:33:00 +0100</pubDate>
-      <guid>http://localhost:1313/2009/05/24/tout-va-bien/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>La vejez de Rousseau</title>
-      <link>http://localhost:1313/2009/04/11/la-vejez-de-rousseau/</link>
-      <pubDate>Sat, 11 Apr 2009 07:53:00 +0100</pubDate>
-      <guid>http://localhost:1313/2009/04/11/la-vejez-de-rousseau/</guid>
-      <description> </description>
-    </item>
-  </channel>
+    <channel>
+        <title>Francia on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/francia/</link>
+        <description>Recent content in Francia on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/francia/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Chalecos</title>
+        <link>http://localhost:1313/2018/12/12/Chalecos/</link>
+        <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2018/12/12/Chalecos/</guid>
+        <description>&lt;p&gt;Copio aquí una larga diatriba que publiqué en Facebook, tras
+ver con desesperación como mi portada estaba llena de post alabando
+a los gilets jaunes, y jaleando para que hiciéramos lo mismo en
+España.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;No suelo hablar de política aquí (para eso es Twitter), pero ha
+sido abrir esto esta noche y ver montones de gente compartiendo
+publicaciones sobre los gilets jaunes, y, francamente, no puedo más.
+No tras lo de Andalucía, y del bochorno que vivimos todos los días
+en UK. Y no voy a ir contestando a la gente uno por uno, y acabando
+envuelto en mil broncas individuales.
+
+Los gilets jaunes, si hay que situarlos políticamente en algún lugar,
+ son Italia. Esa alianza enfermiza del fascismo tradicional de
+ Mussolini (o de Pétain, en Francia) , el populismo moderno de
+ O&amp;#39;Bannon, y la izquierda retrógrada y llena de odio de Mélenchon
+ o Corbyn. ¿De verdad queréis estar ahí? ¿Habéis mirado quién les
+ apoya?: Lepen, Trump, Salvini, O&amp;#39;Bannon. ¿En serio que esa es la
+ compañía que queréis?
+
+¿Habéis leído sus propuestas? Expulsiones de extranjeros,
+supremacismo cultural... Esa fantasía de la idílica aldea gala,
+que es graciosa sólo hasta que alguien se la toma en serio.
+Luego la típica fantasía de bajar impuestos y subir las
+prestaciones sociales (ambas cosas son legítimas, pero tienes que
+  elegir o una, o la otra [yo, por si alguien tiene alguna duda,
+  prefiero con mucho la segunda]). Si alguien os vende que podéis
+  tener las dos, os está mintiendo.
+
+Y otra propuesta maravillosa: la combinación de alargar el mandato
+(¿reinado?) del presidente a siete años, suprimir el senado, y
+hacer referendums constantes. Eso ya lo hemos visto en Hungría,
+Turquía o Venezuela. Sabemos cómo acaba.
+
+Y, por último, lo que empezó todo: las gasolinas. El transporte
+por carretera es el mayor causante del calentamiento global. Y
+estamos, entendedlo de una vez, en un estado de emergencia real.
+Cualquier cosa que quite coches de las carreteras es buena. Y no
+hay ningún &amp;#34;pero&amp;#34; posible. Muchos tenéis hijos. Y probablemente
+querréis que tengan un mundo habitable donde vivir. Subir los
+impuestos a la gasolina no es que sea bueno para ellos, es que es
+absolutamente imprescindible.
+
+Así que, no, por favor. Y, si de verdad os vais a dejar engañar
+por esa gente, no vengáis luego fingiendo sorpresa.
+&lt;/code&gt;&lt;/pre&gt;</description>
+        </item>
+        <item>
+        <title>Veo hoy, en mi memoria, Grecia</title>
+        <link>http://localhost:1313/2012/11/09/veo-hoy-en-mi-memoria-grecia/</link>
+        <pubDate>Fri, 09 Nov 2012 14:20:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2012/11/09/veo-hoy-en-mi-memoria-grecia/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Chateaubriand en América</title>
+        <link>http://localhost:1313/2012/09/09/chateaubriand-en-am%C3%A9rica/</link>
+        <pubDate>Sun, 09 Sep 2012 13:50:02 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2012/09/09/chateaubriand-en-am%C3%A9rica/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Stendhal a dit quelque part ceci, ou à peu près: J’écris pour une dizaine d’âmes que je ne verrai peut-être jamais, mais que j’adore, sans les avoir vues.</title>
+        <link>http://localhost:1313/2012/06/20/stendhal-a-dit-quelque-part-ceci-ou-%C3%A0-peu-pr%C3%A8s/</link>
+        <pubDate>Wed, 20 Jun 2012 10:42:53 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2012/06/20/stendhal-a-dit-quelque-part-ceci-ou-%C3%A0-peu-pr%C3%A8s/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Le Mort joyeux</title>
+        <link>http://localhost:1313/2011/11/21/le-mort-joyeux/</link>
+        <pubDate>Mon, 21 Nov 2011 04:04:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2011/11/21/le-mort-joyeux/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Tout va Bien</title>
+        <link>http://localhost:1313/2009/05/24/tout-va-bien/</link>
+        <pubDate>Sun, 24 May 2009 09:33:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2009/05/24/tout-va-bien/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>La vejez de Rousseau</title>
+        <link>http://localhost:1313/2009/04/11/la-vejez-de-rousseau/</link>
+        <pubDate>Sat, 11 Apr 2009 07:53:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2009/04/11/la-vejez-de-rousseau/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>
