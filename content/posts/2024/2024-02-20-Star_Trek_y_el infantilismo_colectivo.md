@@ -14,8 +14,7 @@ Llevo meses viendo de nuevo *Star Trek: La Nueva Generación*. Mis recuerdos era
 
 La mayoría de los episodios son lentos, centrándose en dilemas filosóficos o morales; la violencia es inexistente o muy escasa. Las escenas de combate son, diría, incluso menos que en la serie original.
 
-<a href="https://imgur.com/a/xXMfizn"><img src="https://i.imgur.com/11AjAxP.jpg"
-title="source: imgur.com" /></a>
+![Inner Light](/images/2024/02/inner_light.jpg)
 
 Sin embargo, las nuevas series son series de acción, con ritmo frenético, llenas de violencia, donde un episodio sin combate es inimimaginable. Incluso la mejor de todas, *Strange New Worlds*, la que tiene un espíritu más cercano a la original, está centrada en combates y violencia. Un descubrimiento que en *La Nueva Generación* habría dado para un capítulo perfecto, la habilidad de crear hologramas de gente muerta con su personalidad, habilidades y recuerdos, es sólo usado en *Picard* como una forma de traer de vuelta un personaje que pelea muy bien.
 
