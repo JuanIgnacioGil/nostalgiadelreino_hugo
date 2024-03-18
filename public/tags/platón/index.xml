@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Platón on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/plat%C3%B3n/</link>
-    <description>Recent content in Platón on Nostalgia del Reino</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Sat, 06 Apr 2013 19:43:24 +0100</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/plat%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>De Platón y Nietzsche</title>
-      <link>https://nostalgiadelreino.net/2013/04/06/de-plat%C3%B3n-y-nietzsche/</link>
-      <pubDate>Sat, 06 Apr 2013 19:43:24 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2013/04/06/de-plat%C3%B3n-y-nietzsche/</guid>
-      <description> </description>
-    </item>
-  </channel>
+    <channel>
+        <title>Platón on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/plat%C3%B3n/</link>
+        <description>Recent content in Platón on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Sat, 06 Apr 2013 19:43:24 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/plat%C3%B3n/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>De Platón y Nietzsche</title>
+        <link>http://localhost:1313/2013/04/06/de-plat%C3%B3n-y-nietzsche/</link>
+        <pubDate>Sat, 06 Apr 2013 19:43:24 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2013/04/06/de-plat%C3%B3n-y-nietzsche/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

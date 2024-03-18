@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>William Gibson on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/william-gibson/</link>
-    <description>Recent content in William Gibson on Nostalgia del Reino</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <atom:link href="https://nostalgiadelreino.net/tags/william-gibson/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Futuros</title>
-      <link>https://nostalgiadelreino.net/2017/01/14/Futuros/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2017/01/14/Futuros/</guid>
-      <description>&lt;p&gt;Leí, en los 90&amp;rsquo;s, varias novelas de &lt;a href=&#34;https://en.wikipedia.org/wiki/William_Gibson&#34;&gt;William Gibson&lt;/a&gt;. Me parecía entonces un escritor, con una calidad en la prosa que no abunda en el género de la ciencia ficción, pero cuya obra no acababa de engancharme, no lograba, sobre todo, que conectara con sus personajes, que me importara lo que pasaba.&lt;/p&gt;</description>
-    </item>
-  </channel>
+    <channel>
+        <title>William Gibson on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/william-gibson/</link>
+        <description>Recent content in William Gibson on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language><atom:link href="http://localhost:1313/tags/william-gibson/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Futuros</title>
+        <link>http://localhost:1313/2017/01/14/Futuros/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2017/01/14/Futuros/</guid>
+        <description>&lt;p&gt;Leí, en los 90&amp;rsquo;s, varias novelas de &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/William_Gibson&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;William Gibson&lt;/a&gt;. Me parecía entonces un escritor, con una calidad en la prosa que no abunda en el género de la ciencia ficción, pero cuya obra no acababa de engancharme, no lograba, sobre todo, que conectara con sus personajes, que me importara lo que pasaba.&lt;/p&gt;
+&lt;p&gt;No pensaba entonces que ese futuro que Gibson imaginaba, de estados cada vez más débiles, casi invisibles, de la omnipresencia de internet, de las guerras invisibles que se librarían en ella, era realmente el futuro que me iba a tocar vivir.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;El otro día, en un centro comercial de Madrid, escuchaba por megafonía una voz hablando durantes bastantes minutos en chino (&lt;em&gt;¿anunciando las rebajas, tal vez?&lt;/em&gt;), y recordándome que, sí, que estamos ya en el futuro. Que ha llegado sin darnos cuenta, pero que este 2017, si lo hubiera podido presenciar en mi ya lejana niñez, en los 80&amp;rsquo;s, sin duda lo reconocería como lo que es, como un escenario futurista, de ciencia ficción. No tan terrible como otros que podría haber imaginado entonces (ruinas, radiactividad, muerte), ni, tristemente, un futuro utópico con una humanidad unida y feliz, explorando el espacio. El futuro que tenemos, es ese mundo ciberpunk que Gibson imaginó, de centros comerciales donde se habla chino (era, claro, japonés en sus novelas de los 80&amp;rsquo;s), de sálvese el que pueda, de capitalismo salvaje y armado.&lt;/p&gt;</description>
+        </item>
+        
+    </channel>
 </rss>

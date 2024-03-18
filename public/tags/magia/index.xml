@@ -1,68 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Magia on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/magia/</link>
-    <description>Recent content in Magia on Nostalgia del Reino</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Mon, 12 Dec 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/magia/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Monedas</title>
-      <link>https://nostalgiadelreino.net/2016/12/12/Monedas/</link>
-      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2016/12/12/Monedas/</guid>
-      <description>Cuando uno está perdido acude al oráculo, intentando creer que existe ese patrón, centro de mis dudas en los últimos tiempos. Así pues, busqué tres monedas en mi caja del tesoro, y consulté al I-Ching, sobre qué camino debía tomar en esta encrucijada.&#xA;![T&amp;rsquo;ung jen]({{ site.url }}/images/tung-jen.gif)&#xA;T&amp;rsquo;ung Jen / La Comunidad de los Hombres&#xA;arriba Ch&amp;rsquo;ien, Lo Creativo, el Cielo&#xA;abajo Li, Lo Adherente, la llama&#xA;Comunidad con hombres en lo libre: éxito.</description>
-    </item>
-    <item>
-      <title>de historia de religiones de mircea eliade</title>
-      <link>https://nostalgiadelreino.net/2012/08/06/de-historia-de-religiones-de-mircea-eliade/</link>
-      <pubDate>Mon, 06 Aug 2012 11:49:01 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2012/08/06/de-historia-de-religiones-de-mircea-eliade/</guid>
-      <description>De “Historia de Religiones”, de Mircea Eliade.</description>
-    </item>
-    <item>
-      <title>Naipes</title>
-      <link>https://nostalgiadelreino.net/2012/02/07/naipes/</link>
-      <pubDate>Tue, 07 Feb 2012 04:03:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2012/02/07/naipes/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>To refine the Hydra</title>
-      <link>https://nostalgiadelreino.net/2011/04/30/to-refine-the-hydra/</link>
-      <pubDate>Sat, 30 Apr 2011 19:22:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2011/04/30/to-refine-the-hydra/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Hendrix</title>
-      <link>https://nostalgiadelreino.net/2010/10/23/hendrix/</link>
-      <pubDate>Sat, 23 Oct 2010 14:41:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2010/10/23/hendrix/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Otro sueño: Hoy voy a trabajar</title>
-      <link>https://nostalgiadelreino.net/2010/08/19/otro-sue%C3%B1o-hoy-voy-a-trabajar/</link>
-      <pubDate>Thu, 19 Aug 2010 07:42:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2010/08/19/otro-sue%C3%B1o-hoy-voy-a-trabajar/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Consultando el I Ching</title>
-      <link>https://nostalgiadelreino.net/2009/08/03/consultando-el-i-ching/</link>
-      <pubDate>Mon, 03 Aug 2009 14:17:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2009/08/03/consultando-el-i-ching/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>El Loco pregunta al Oráculo</title>
-      <link>https://nostalgiadelreino.net/2008/10/06/el-loco-pregunta-al-or%C3%A1culo/</link>
-      <pubDate>Mon, 06 Oct 2008 14:16:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2008/10/06/el-loco-pregunta-al-or%C3%A1culo/</guid>
-      <description> </description>
-    </item>
-  </channel>
+    <channel>
+        <title>Magia on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/magia/</link>
+        <description>Recent content in Magia on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Mon, 12 Dec 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/magia/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Monedas</title>
+        <link>http://localhost:1313/2016/12/12/Monedas/</link>
+        <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2016/12/12/Monedas/</guid>
+        <description>&lt;p&gt;Cuando uno está perdido acude al oráculo, intentando creer que existe ese patrón, centro de mis dudas en los últimos tiempos. Así pues, busqué tres monedas en mi caja del tesoro, y consulté al I-Ching, sobre qué camino debía tomar en esta encrucijada.&lt;/p&gt;
+&lt;p&gt;![T&amp;rsquo;ung jen]({{ site.url }}/images/tung-jen.gif)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;T&amp;rsquo;ung Jen / La Comunidad de los Hombres&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;arriba Ch&amp;rsquo;ien, Lo Creativo, el Cielo&lt;/p&gt;
+&lt;p&gt;abajo Li, Lo Adherente, la llama&lt;/p&gt;
+&lt;p&gt;Comunidad con hombres en lo libre: éxito.
+Es propicio atravesar las grandes aguas.
+Propicia es la perseverancia del noble.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;La respuesta es, enconces, obvia. Confiar en los amigos. Cruzar las grandes aguas. La línea partida que obtuve en el segundo lugar significa, entre otras cosas, &lt;em&gt;Humillación&lt;/em&gt;. Veremos si el destino, si existe, da la razón a las monedas y al este viejo oráculo.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>de historia de religiones de mircea eliade</title>
+        <link>http://localhost:1313/2012/08/06/de-historia-de-religiones-de-mircea-eliade/</link>
+        <pubDate>Mon, 06 Aug 2012 11:49:01 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2012/08/06/de-historia-de-religiones-de-mircea-eliade/</guid>
+        <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;De “Historia de Religiones”, de Mircea Eliade.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Naipes</title>
+        <link>http://localhost:1313/2012/02/07/naipes/</link>
+        <pubDate>Tue, 07 Feb 2012 04:03:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2012/02/07/naipes/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>To refine the Hydra</title>
+        <link>http://localhost:1313/2011/04/30/to-refine-the-hydra/</link>
+        <pubDate>Sat, 30 Apr 2011 19:22:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2011/04/30/to-refine-the-hydra/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Hendrix</title>
+        <link>http://localhost:1313/2010/10/23/hendrix/</link>
+        <pubDate>Sat, 23 Oct 2010 14:41:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2010/10/23/hendrix/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Otro sueño: Hoy voy a trabajar</title>
+        <link>http://localhost:1313/2010/08/19/otro-sue%C3%B1o-hoy-voy-a-trabajar/</link>
+        <pubDate>Thu, 19 Aug 2010 07:42:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2010/08/19/otro-sue%C3%B1o-hoy-voy-a-trabajar/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Consultando el I Ching</title>
+        <link>http://localhost:1313/2009/08/03/consultando-el-i-ching/</link>
+        <pubDate>Mon, 03 Aug 2009 14:17:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2009/08/03/consultando-el-i-ching/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>El Loco pregunta al Oráculo</title>
+        <link>http://localhost:1313/2008/10/06/el-loco-pregunta-al-or%C3%A1culo/</link>
+        <pubDate>Mon, 06 Oct 2008 14:16:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2008/10/06/el-loco-pregunta-al-or%C3%A1culo/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

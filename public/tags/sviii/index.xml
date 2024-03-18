@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>SVIII on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/sviii/</link>
-    <description>Recent content in SVIII on Nostalgia del Reino</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Sun, 09 Sep 2012 13:50:02 +0100</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/sviii/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Chateaubriand en América</title>
-      <link>https://nostalgiadelreino.net/2012/09/09/chateaubriand-en-am%C3%A9rica/</link>
-      <pubDate>Sun, 09 Sep 2012 13:50:02 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2012/09/09/chateaubriand-en-am%C3%A9rica/</guid>
-      <description> </description>
-    </item>
-  </channel>
+    <channel>
+        <title>SVIII on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/sviii/</link>
+        <description>Recent content in SVIII on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Sun, 09 Sep 2012 13:50:02 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/sviii/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Chateaubriand en América</title>
+        <link>http://localhost:1313/2012/09/09/chateaubriand-en-am%C3%A9rica/</link>
+        <pubDate>Sun, 09 Sep 2012 13:50:02 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2012/09/09/chateaubriand-en-am%C3%A9rica/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

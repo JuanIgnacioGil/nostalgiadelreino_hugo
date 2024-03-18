@@ -1,47 +1,77 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Viena on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/viena/</link>
-    <description>Recent content in Viena on Nostalgia del Reino</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Wed, 24 Aug 2016 18:58:19 +0100</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/viena/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Horizontes</title>
-      <link>https://nostalgiadelreino.net/2016/08/24/horizontes/</link>
-      <pubDate>Wed, 24 Aug 2016 18:58:19 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2016/08/24/horizontes/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>esta mañana visité en el cementerio central de</title>
-      <link>https://nostalgiadelreino.net/2015/11/14/esta-ma%C3%B1ana-visit%C3%A9-en-el-cementerio-central-de/</link>
-      <pubDate>Sat, 14 Nov 2015 19:50:18 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2015/11/14/esta-ma%C3%B1ana-visit%C3%A9-en-el-cementerio-central-de/</guid>
-      <description>Esta mañana visité en el Cementerio Central de Viena, el Zentralfriedhof, las tumbas de Beethoven y Boltzmann. Hace tan sólo seis meses desde la última vez que escribí aquí, pero parecen siglos. Hace seis meses vivía en ese Madrid, que, tras veinte años paseando por sus calles, era ya claramente mi ciudad. Hace seis meses mi madre aún vivía. En la tumba de Boltzmann, está escrito, como epitafio, una de sus ecuaciones, ese S=k log W.</description>
-    </item>
-    <item>
-      <title>no title</title>
-      <link>https://nostalgiadelreino.net/2015/05/09/en-estos-d%C3%ADas-me-despido-de-madrid-de-este-madrid/</link>
-      <pubDate>Sat, 09 May 2015 19:22:23 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2015/05/09/en-estos-d%C3%ADas-me-despido-de-madrid-de-este-madrid/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Errores</title>
-      <link>https://nostalgiadelreino.net/2017/05/09/Errores/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2017/05/09/Errores/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Nel mezzo del cammin di nostra vita&lt;br&gt;&#xA;mi ritrovai per una selva oscura&lt;br&gt;&#xA;ché la diritta via era smarrita.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Dante, &lt;em&gt;Divina Comedia&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mi padre siempre ha lamentado el haber dejado la Marina. Pasó allí varios años, sin lograr adaptarse a la disciplina militar, y, finalmente, la abandonó por una carrera, en Correos, que nunca le satisfizo. Y esa decisión, el dejar la Marina, es tal vez el gran &lt;em&gt;y si&amp;hellip;&lt;/em&gt; de su vida, la intersección donde cree que tomó el camino equivocado (yo, claro, no acabo de compartirlo: de haber tomado la otra ruta, mis padres nunca se hubieran conocido, y yo no habría nacido. Mi padre me dijo una vez que habría conocido a mi madre de todas formas, y que yo sí habría nacido, sólo que en otro lugar. Lo dudo, pero, en cualquier caso, él está en su derecho a lamentar sus decisiones, aunque el fruto indirecto fuera yo).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Historia de dos ciudades</title>
-      <link>https://nostalgiadelreino.net/2017/01/15/Historia-de-dos-Ciudades/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2017/01/15/Historia-de-dos-Ciudades/</guid>
-      <description>&lt;p&gt;![V. y L.]({{ site.url }}/images/Wien_London.png)&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;(Esta es una historia real. Se puede amar a ciudades, como se ama a personas. Y pueden, al igual que las personas, romperte el corazón.)&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
+    <channel>
+        <title>Viena on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/viena/</link>
+        <description>Recent content in Viena on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Wed, 24 Aug 2016 18:58:19 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/viena/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Horizontes</title>
+        <link>http://localhost:1313/2016/08/24/horizontes/</link>
+        <pubDate>Wed, 24 Aug 2016 18:58:19 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2016/08/24/horizontes/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>esta mañana visité en el cementerio central de</title>
+        <link>http://localhost:1313/2015/11/14/esta-ma%C3%B1ana-visit%C3%A9-en-el-cementerio-central-de/</link>
+        <pubDate>Sat, 14 Nov 2015 19:50:18 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2015/11/14/esta-ma%C3%B1ana-visit%C3%A9-en-el-cementerio-central-de/</guid>
+        <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Esta mañana visité en el Cementerio Central de Viena, el Zentralfriedhof, las tumbas de Beethoven y Boltzmann. &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Hace tan sólo seis meses desde la última vez que escribí aquí, pero parecen siglos. Hace seis meses vivía en ese Madrid, que, tras veinte años paseando por sus calles, era ya claramente mi ciudad. Hace seis meses mi madre aún vivía. &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;En la tumba de Boltzmann, está escrito, como epitafio, una de sus ecuaciones, ese S=k log W. &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;La entropía, al final, nos atrapará a todos.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>no title</title>
+        <link>http://localhost:1313/2015/05/09/en-estos-d%C3%ADas-me-despido-de-madrid-de-este-madrid/</link>
+        <pubDate>Sat, 09 May 2015 19:22:23 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2015/05/09/en-estos-d%C3%ADas-me-despido-de-madrid-de-este-madrid/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Errores</title>
+        <link>http://localhost:1313/2017/05/09/Errores/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2017/05/09/Errores/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Nel mezzo del cammin di nostra vita&lt;br&gt;
+mi ritrovai per una selva oscura&lt;br&gt;
+ché la diritta via era smarrita.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Dante, &lt;em&gt;Divina Comedia&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Mi padre siempre ha lamentado el haber dejado la Marina. Pasó allí varios años, sin lograr adaptarse a la disciplina militar, y, finalmente, la abandonó por una carrera, en Correos, que nunca le satisfizo. Y esa decisión, el dejar la Marina, es tal vez el gran &lt;em&gt;y si&amp;hellip;&lt;/em&gt; de su vida, la intersección donde cree que tomó el camino equivocado (yo, claro, no acabo de compartirlo: de haber tomado la otra ruta, mis padres nunca se hubieran conocido, y yo no habría nacido. Mi padre me dijo una vez que habría conocido a mi madre de todas formas, y que yo sí habría nacido, sólo que en otro lugar. Lo dudo, pero, en cualquier caso, él está en su derecho a lamentar sus decisiones, aunque el fruto indirecto fuera yo).&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Y algo que los seres humanos hacemos es repetir los errores de nuestros padres. Así, yo también tengo ya mi gran &lt;em&gt;y si&amp;hellip;&lt;/em&gt;: el haber dejado Viena. Cada vez que recuerdo el que fue mi hogar durante un año, la culpa aparece y exige que le preste atención. Y mis razones son menos románticas que la rebeldía de mi padre: el momento en que perdí el camino fue por una combinación de miedo y ambición (más ambición que miedo: en realidad, este no era más que la excusa).&lt;/p&gt;
+&lt;p&gt;La pregunta es si lograré remediar ese error, y volver, o compensar por ello triunfando, esta vez sí, en Madrid. O, cuanto menos, perdonarme.&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>Historia de dos ciudades</title>
+        <link>http://localhost:1313/2017/01/15/Historia-de-dos-Ciudades/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2017/01/15/Historia-de-dos-Ciudades/</guid>
+        <description>&lt;p&gt;![V. y L.]({{ site.url }}/images/Wien_London.png)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(Esta es una historia real. Se puede amar a ciudades, como se ama a personas. Y pueden, al igual que las personas, romperte el corazón.)&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Se enamoró de L. desde el momento en que la vio por primera vez, a la salida del metro. Estaba allí, esperando a él y a sus amigos, con los que había quedado. Eran todavía muy jóvenes, recién terminada la Universidad, con toda una vida por delante. Pero, en ese primer momento, supo, o eso creía él, que la amaría siempre.&lt;/p&gt;
+&lt;p&gt;L. era todo lo que siempre había soñado y admirado: hermosa (más elegante que guapa, en realidad), moderna, sofisticada, libre, divertida. Se encontraron muchas veces a lo largo de los años, y él seguía loco por ella. Esos breves momentos que podía pasar a su lado le llenaban de felicidad, y la idea de estar con ella le perseguía, pero el sentimiento no era mutuo. Muchas veces la llamó, pero no habo manera, ni tan siquiera una primera cita. Sabía ya, tras los primeros desengaños de la vida, que muchos sueños no se cumplen nunca, por mucho que te esfuerces. Lo que aún no había aprendido, era que algunos no debían cumplirse.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Con V. había coincidido un par de veces, una de ellas por placer, otra por trabajo. Era una chica bellísima y culta, apasionada por la música, de una familia de la aristocracia de provincias. Él la consideraba anticuada y aburrida. Años después, ya bien entrados en la treintena, fue ella quien le llamó, proponiéndole quedar para cenar. Al principio le sorprendió, pero, ¿por qué no?. Salieron juntos durante unos meses, y se fueron a vivir juntos. Él no dejó de sentirse sorprendido, y no del todo seguro de lo que quería. También le soprendió descubrir que la amaba, que adoraba su delicadeza, su sencillez, su belleza, su carácter tranquilo y alegre, que nunca había sido tan feliz en su vida, que lo que pensaba que sería una relación pasajera podría ser para siempre.&lt;/p&gt;
+&lt;p&gt;Fue entonces, en medio de esa etapa de felicidad, cuando recibió un correo de L. Hacía años que no se veían, le contó que había estado pensando en él, que le echaba de menos, que quería que lo intentaran. Y él enloqueció. Una voz en su interior le decía que era un error, que V. era perfecta, que estaba enamorado de ella, que era feliz con ella, que L. era un sueño del pasado, que se arrepentiría. Pero a veces no se puede hacer nada. Dejó a V., y acudió a la llamada de su imposible amor de juventud. Estaba seguro de que estaban destinados a estar juntos, y de que todos los rodeos que había dado a lo largo de su vida no eran más que pruebas en el camino. A partir de ese momento, todo estaría bien. Echaría, claro, de menos a la adorable V., pero ahora estaría, al fin, con el verdadero amor de su vida, en el lugar al que pertenecía.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Lo suyo se torció casi desde el primer día. Se dio cuenta de que no conocía a L., que la imagen que los demás veían era, sí, real, pero que había mucho más, todos esa parte de la persona que sólo los realmente íntimos conocen. De V. fue precisamente esa parte privada lo que le había hecho amarla. Con L. fue justo lo contrario. Descubrió su dureza, su falta de compasión, su profundo desprecio por los débiles, los pobres, contra todo el que ella consideraba de una clase inferior; su obsesión por el dinero, la necesidad de estar constantemente gastando cantidades absurdas, quizás, pensaba él, porque eso era lo único que calmaba el profundo vacío que debía sentir. Descubrió que esa vida de L. tan intensa, tan glamurosa, le resultaba agotadora, que no era capaz de seguir su ritmo. Sus amigos le resultaban antipáticos e hipócritas. Sus ideas políticas (que ya le disgustaban antes), ahora cada vez más extremas (porque hasta el esto seguía ella, o incluso marcaba, la moda), le resultaban intolerables.&lt;/p&gt;
+&lt;p&gt;Se sentía profundamente infeliz, y se encontraba a menudo pensando que había cometido el mayor error de su vida. Miraba sus viejas fotos con V., añorando su tiempo juntos. En Navidad recordaba la inocente alegría de esta, frente a la obsesión de L. por las compras. A menudo quería llorar.&lt;/p&gt;
+&lt;p&gt;Sabía ya que ya no amaba a L. Que la había admirado sin conocerla, o que ella había cambiado con los años, o que él había cambiado, probablemente todo a la vez. La miraba y sentía ese profundo dolor que queda tras el amor, un vacío que comenzaba a llenarse de desprecio y odio. Y el remordimiento por haber abandonado a V., el darse cuenta de lo feliz que había sido a su lado, de lo estúpido de haber persiguiendo ese sueño de juventud.&lt;/p&gt;
+&lt;p&gt;Fue, sin embargo, L. quien le dejó, con esa dureza suya que tan bien conocía ya: &lt;em&gt;Lo nuestro no funciona. Hemos terminado. Coge tus cosas, y vete.&lt;/em&gt; Al principio se sintió angustiado, frustrado. Después también vino el alivio. Ya estaba hecho. Habían terminado. No tenía que quedarse con ella, no tenía que verla más.&lt;/p&gt;
+&lt;p&gt;Pero tampoco había remedio a su error. Llamó, claro, a V. Sí, ella también le echaba de menos, y siempre le recordaría, pero no se podía volver atrás.&lt;/p&gt;
+&lt;p&gt;Se encontró solo, regresando al hogar familiar, a donde había comenzado. En parte, era como si sus relaciones con V. y L. nunca hubieran sucedido. Volvería a recorrer sus viejos lugares, a ver a sus viejos amigos (aunque estos, ya casados, con familias, apenas tendrían ya tiempo para él). Pero su corazón estaba doblemente roto. La añoranza de V., la certeza de su error. Y el haber perdido el sueño de L., que le había acompañado toda su vida adulta. El no tener ya sueños, sino recuerdos. El sentir que la vida comenzaba a estar más atrás que adelante.&lt;/p&gt;</description>
+        </item>
+        
+    </channel>
 </rss>

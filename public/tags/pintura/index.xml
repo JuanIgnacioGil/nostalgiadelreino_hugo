@@ -1,26 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pintura on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/pintura/</link>
-    <description>Recent content in Pintura on Nostalgia del Reino</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Sat, 28 Jun 2014 17:58:00 +0100</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/pintura/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Jilgueros</title>
-      <link>https://nostalgiadelreino.net/2014/06/28/jilgueros/</link>
-      <pubDate>Sat, 28 Jun 2014 17:58:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2014/06/28/jilgueros/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Bacon y las Eumenides</title>
-      <link>https://nostalgiadelreino.net/2007/06/27/bacon-y-las-eumenides/</link>
-      <pubDate>Wed, 27 Jun 2007 18:56:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2007/06/27/bacon-y-las-eumenides/</guid>
-      <description> </description>
-    </item>
-  </channel>
+    <channel>
+        <title>Pintura on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/pintura/</link>
+        <description>Recent content in Pintura on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Sat, 28 Jun 2014 17:58:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/pintura/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Jilgueros</title>
+        <link>http://localhost:1313/2014/06/28/jilgueros/</link>
+        <pubDate>Sat, 28 Jun 2014 17:58:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2014/06/28/jilgueros/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Bacon y las Eumenides</title>
+        <link>http://localhost:1313/2007/06/27/bacon-y-las-eumenides/</link>
+        <pubDate>Wed, 27 Jun 2007 18:56:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2007/06/27/bacon-y-las-eumenides/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

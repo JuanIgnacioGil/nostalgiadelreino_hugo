@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Otros Mundos on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/otros-mundos/</link>
-    <description>Recent content in Otros Mundos on Nostalgia del Reino</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Sat, 11 Aug 2012 04:28:43 +0100</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/otros-mundos/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Mar de Cristal</title>
-      <link>https://nostalgiadelreino.net/2012/08/11/mar-de-cristal/</link>
-      <pubDate>Sat, 11 Aug 2012 04:28:43 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2012/08/11/mar-de-cristal/</guid>
-      <description> </description>
-    </item>
-  </channel>
+    <channel>
+        <title>Otros Mundos on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/otros-mundos/</link>
+        <description>Recent content in Otros Mundos on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Sat, 11 Aug 2012 04:28:43 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/otros-mundos/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Mar de Cristal</title>
+        <link>http://localhost:1313/2012/08/11/mar-de-cristal/</link>
+        <pubDate>Sat, 11 Aug 2012 04:28:43 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2012/08/11/mar-de-cristal/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

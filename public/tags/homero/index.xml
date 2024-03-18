@@ -1,131 +1,181 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Homero on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/homero/</link>
-    <description>Recent content in Homero on Nostalgia del Reino</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Mon, 08 Sep 2014 15:35:00 +0100</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/homero/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>El castigo por haberse acordado del reino</title>
-      <link>https://nostalgiadelreino.net/2014/09/08/el-castigo-por-haberse-acordado-del-reino/</link>
-      <pubDate>Mon, 08 Sep 2014 15:35:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2014/09/08/el-castigo-por-haberse-acordado-del-reino/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>El Orden del Mundo</title>
-      <link>https://nostalgiadelreino.net/2014/09/02/el-orden-del-mundo/</link>
-      <pubDate>Tue, 02 Sep 2014 15:36:49 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2014/09/02/el-orden-del-mundo/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Buscadores</title>
-      <link>https://nostalgiadelreino.net/2014/08/30/buscadores/</link>
-      <pubDate>Sat, 30 Aug 2014 11:35:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2014/08/30/buscadores/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>De libros que se quedan</title>
-      <link>https://nostalgiadelreino.net/2014/07/05/de-libros-que-se-quedan/</link>
-      <pubDate>Sat, 05 Jul 2014 20:32:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2014/07/05/de-libros-que-se-quedan/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>De Heneke y el cine de acción</title>
-      <link>https://nostalgiadelreino.net/2013/10/24/de-heneke-y-el-cine-de-acci%C3%B3n/</link>
-      <pubDate>Thu, 24 Oct 2013 14:17:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2013/10/24/de-heneke-y-el-cine-de-acci%C3%B3n/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Ford</title>
-      <link>https://nostalgiadelreino.net/2013/04/04/ford/</link>
-      <pubDate>Thu, 04 Apr 2013 12:35:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2013/04/04/ford/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Odiseas</title>
-      <link>https://nostalgiadelreino.net/2012/04/08/odiseas/</link>
-      <pubDate>Sun, 08 Apr 2012 13:25:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2012/04/08/odiseas/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>en la iliada atenea la diosa de la sabiduría de</title>
-      <link>https://nostalgiadelreino.net/2012/03/23/en-la-iliada-atenea-la-diosa-de-la-sabidur%C3%ADa-de/</link>
-      <pubDate>Fri, 23 Mar 2012 09:17:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2012/03/23/en-la-iliada-atenea-la-diosa-de-la-sabidur%C3%ADa-de/</guid>
-      <description>En la Iliada, Atenea, la diosa de la sabiduría, de la técnica y de la guerra, es quizás la más terrible de las divinidades. Atenea Depredadora, se la llama una y otra vez, y con razón.</description>
-    </item>
-    <item>
-      <title>Los mitos homérico y órfico de la creación</title>
-      <link>https://nostalgiadelreino.net/2009/08/24/los-mitos-hom%C3%A9rico-y-%C3%B3rfico-de-la-creaci%C3%B3n/</link>
-      <pubDate>Mon, 24 Aug 2009 16:27:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2009/08/24/los-mitos-hom%C3%A9rico-y-%C3%B3rfico-de-la-creaci%C3%B3n/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Los griegos en la India</title>
-      <link>https://nostalgiadelreino.net/2009/03/04/los-griegos-en-la-india/</link>
-      <pubDate>Wed, 04 Mar 2009 17:54:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2009/03/04/los-griegos-en-la-india/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>no title</title>
-      <link>https://nostalgiadelreino.net/2009/02/16/tras-regresar-a-casa-sin-fuerzas-con-el/</link>
-      <pubDate>Mon, 16 Feb 2009 20:29:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2009/02/16/tras-regresar-a-casa-sin-fuerzas-con-el/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>La isla de los cristianos</title>
-      <link>https://nostalgiadelreino.net/2008/12/30/la-isla-de-los-cristianos/</link>
-      <pubDate>Tue, 30 Dec 2008 09:11:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2008/12/30/la-isla-de-los-cristianos/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Cruzando el mar</title>
-      <link>https://nostalgiadelreino.net/2008/12/23/cruzando-el-mar/</link>
-      <pubDate>Tue, 23 Dec 2008 16:46:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2008/12/23/cruzando-el-mar/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Interludio: Eumeo</title>
-      <link>https://nostalgiadelreino.net/2008/12/17/interludio-eumeo/</link>
-      <pubDate>Wed, 17 Dec 2008 05:51:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2008/12/17/interludio-eumeo/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>El primer viaje</title>
-      <link>https://nostalgiadelreino.net/2008/11/26/el-primer-viaje/</link>
-      <pubDate>Wed, 26 Nov 2008 16:10:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2008/11/26/el-primer-viaje/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Desde Ítaca</title>
-      <link>https://nostalgiadelreino.net/2008/11/03/desde-%C3%ADtaca/</link>
-      <pubDate>Mon, 03 Nov 2008 18:28:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2008/11/03/desde-%C3%ADtaca/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>no title</title>
-      <link>https://nostalgiadelreino.net/2005/04/14/es-normal-que-no-tome-el-camino-m%C3%A1s-corto-para/</link>
-      <pubDate>Thu, 14 Apr 2005 12:32:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2005/04/14/es-normal-que-no-tome-el-camino-m%C3%A1s-corto-para/</guid>
-      <description> </description>
-    </item>
-  </channel>
+    <channel>
+        <title>Homero on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/homero/</link>
+        <description>Recent content in Homero on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Mon, 08 Sep 2014 15:35:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/homero/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>El castigo por haberse acordado del reino</title>
+        <link>http://localhost:1313/2014/09/08/el-castigo-por-haberse-acordado-del-reino/</link>
+        <pubDate>Mon, 08 Sep 2014 15:35:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2014/09/08/el-castigo-por-haberse-acordado-del-reino/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>El Orden del Mundo</title>
+        <link>http://localhost:1313/2014/09/02/el-orden-del-mundo/</link>
+        <pubDate>Tue, 02 Sep 2014 15:36:49 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2014/09/02/el-orden-del-mundo/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Buscadores</title>
+        <link>http://localhost:1313/2014/08/30/buscadores/</link>
+        <pubDate>Sat, 30 Aug 2014 11:35:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2014/08/30/buscadores/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>De libros que se quedan</title>
+        <link>http://localhost:1313/2014/07/05/de-libros-que-se-quedan/</link>
+        <pubDate>Sat, 05 Jul 2014 20:32:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2014/07/05/de-libros-que-se-quedan/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>De Heneke y el cine de acción</title>
+        <link>http://localhost:1313/2013/10/24/de-heneke-y-el-cine-de-acci%C3%B3n/</link>
+        <pubDate>Thu, 24 Oct 2013 14:17:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2013/10/24/de-heneke-y-el-cine-de-acci%C3%B3n/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Ford</title>
+        <link>http://localhost:1313/2013/04/04/ford/</link>
+        <pubDate>Thu, 04 Apr 2013 12:35:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2013/04/04/ford/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Odiseas</title>
+        <link>http://localhost:1313/2012/04/08/odiseas/</link>
+        <pubDate>Sun, 08 Apr 2012 13:25:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2012/04/08/odiseas/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>en la iliada atenea la diosa de la sabiduría de</title>
+        <link>http://localhost:1313/2012/03/23/en-la-iliada-atenea-la-diosa-de-la-sabidur%C3%ADa-de/</link>
+        <pubDate>Fri, 23 Mar 2012 09:17:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2012/03/23/en-la-iliada-atenea-la-diosa-de-la-sabidur%C3%ADa-de/</guid>
+        <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;En la Iliada, Atenea, la diosa de la sabiduría, de la técnica y de la guerra, es quizás la más terrible de las divinidades. &lt;!-- raw HTML omitted --&gt;Atenea Depredadora&lt;!-- raw HTML omitted --&gt;, se la llama una y otra vez, y con razón.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Los mitos homérico y órfico de la creación</title>
+        <link>http://localhost:1313/2009/08/24/los-mitos-hom%C3%A9rico-y-%C3%B3rfico-de-la-creaci%C3%B3n/</link>
+        <pubDate>Mon, 24 Aug 2009 16:27:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2009/08/24/los-mitos-hom%C3%A9rico-y-%C3%B3rfico-de-la-creaci%C3%B3n/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Los griegos en la India</title>
+        <link>http://localhost:1313/2009/03/04/los-griegos-en-la-india/</link>
+        <pubDate>Wed, 04 Mar 2009 17:54:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2009/03/04/los-griegos-en-la-india/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>no title</title>
+        <link>http://localhost:1313/2009/02/16/tras-regresar-a-casa-sin-fuerzas-con-el/</link>
+        <pubDate>Mon, 16 Feb 2009 20:29:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2009/02/16/tras-regresar-a-casa-sin-fuerzas-con-el/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>La isla de los cristianos</title>
+        <link>http://localhost:1313/2008/12/30/la-isla-de-los-cristianos/</link>
+        <pubDate>Tue, 30 Dec 2008 09:11:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2008/12/30/la-isla-de-los-cristianos/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Cruzando el mar</title>
+        <link>http://localhost:1313/2008/12/23/cruzando-el-mar/</link>
+        <pubDate>Tue, 23 Dec 2008 16:46:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2008/12/23/cruzando-el-mar/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Interludio: Eumeo</title>
+        <link>http://localhost:1313/2008/12/17/interludio-eumeo/</link>
+        <pubDate>Wed, 17 Dec 2008 05:51:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2008/12/17/interludio-eumeo/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>El primer viaje</title>
+        <link>http://localhost:1313/2008/11/26/el-primer-viaje/</link>
+        <pubDate>Wed, 26 Nov 2008 16:10:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2008/11/26/el-primer-viaje/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Desde Ítaca</title>
+        <link>http://localhost:1313/2008/11/03/desde-%C3%ADtaca/</link>
+        <pubDate>Mon, 03 Nov 2008 18:28:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2008/11/03/desde-%C3%ADtaca/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>no title</title>
+        <link>http://localhost:1313/2005/04/14/es-normal-que-no-tome-el-camino-m%C3%A1s-corto-para/</link>
+        <pubDate>Thu, 14 Apr 2005 12:32:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2005/04/14/es-normal-que-no-tome-el-camino-m%C3%A1s-corto-para/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

@@ -1,26 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Adivinación on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/adivinaci%C3%B3n/</link>
-    <description>Recent content in Adivinación on Nostalgia del Reino</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Mon, 12 Dec 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/adivinaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Monedas</title>
-      <link>https://nostalgiadelreino.net/2016/12/12/Monedas/</link>
-      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2016/12/12/Monedas/</guid>
-      <description>Cuando uno está perdido acude al oráculo, intentando creer que existe ese patrón, centro de mis dudas en los últimos tiempos. Así pues, busqué tres monedas en mi caja del tesoro, y consulté al I-Ching, sobre qué camino debía tomar en esta encrucijada.&#xA;![T&amp;rsquo;ung jen]({{ site.url }}/images/tung-jen.gif)&#xA;T&amp;rsquo;ung Jen / La Comunidad de los Hombres&#xA;arriba Ch&amp;rsquo;ien, Lo Creativo, el Cielo&#xA;abajo Li, Lo Adherente, la llama&#xA;Comunidad con hombres en lo libre: éxito.</description>
-    </item>
-    <item>
-      <title>Consultando el I Ching</title>
-      <link>https://nostalgiadelreino.net/2009/08/03/consultando-el-i-ching/</link>
-      <pubDate>Mon, 03 Aug 2009 14:17:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2009/08/03/consultando-el-i-ching/</guid>
-      <description> </description>
-    </item>
-  </channel>
+    <channel>
+        <title>Adivinación on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/adivinaci%C3%B3n/</link>
+        <description>Recent content in Adivinación on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Mon, 12 Dec 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/adivinaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Monedas</title>
+        <link>http://localhost:1313/2016/12/12/Monedas/</link>
+        <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2016/12/12/Monedas/</guid>
+        <description>&lt;p&gt;Cuando uno está perdido acude al oráculo, intentando creer que existe ese patrón, centro de mis dudas en los últimos tiempos. Así pues, busqué tres monedas en mi caja del tesoro, y consulté al I-Ching, sobre qué camino debía tomar en esta encrucijada.&lt;/p&gt;
+&lt;p&gt;![T&amp;rsquo;ung jen]({{ site.url }}/images/tung-jen.gif)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;T&amp;rsquo;ung Jen / La Comunidad de los Hombres&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;arriba Ch&amp;rsquo;ien, Lo Creativo, el Cielo&lt;/p&gt;
+&lt;p&gt;abajo Li, Lo Adherente, la llama&lt;/p&gt;
+&lt;p&gt;Comunidad con hombres en lo libre: éxito.
+Es propicio atravesar las grandes aguas.
+Propicia es la perseverancia del noble.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;La respuesta es, enconces, obvia. Confiar en los amigos. Cruzar las grandes aguas. La línea partida que obtuve en el segundo lugar significa, entre otras cosas, &lt;em&gt;Humillación&lt;/em&gt;. Veremos si el destino, si existe, da la razón a las monedas y al este viejo oráculo.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Consultando el I Ching</title>
+        <link>http://localhost:1313/2009/08/03/consultando-el-i-ching/</link>
+        <pubDate>Mon, 03 Aug 2009 14:17:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2009/08/03/consultando-el-i-ching/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

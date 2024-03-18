@@ -1,61 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Estoicismo on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/estoicismo/</link>
-    <description>Recent content in Estoicismo on Nostalgia del Reino</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Tue, 16 Dec 2014 12:17:57 +0000</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/estoicismo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Del Dolor y el Sueño</title>
-      <link>https://nostalgiadelreino.net/2014/12/16/del-dolor-y-el-sue%C3%B1o/</link>
-      <pubDate>Tue, 16 Dec 2014 12:17:57 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2014/12/16/del-dolor-y-el-sue%C3%B1o/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>De aduanas y pasaportes</title>
-      <link>https://nostalgiadelreino.net/2012/06/29/de-aduanas-y-pasaportes/</link>
-      <pubDate>Fri, 29 Jun 2012 14:42:58 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2012/06/29/de-aduanas-y-pasaportes/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Toda la vida se ha de ir estudiando, y lo que más se debe ponderar es que toda ella se ha de gastar en aprender a morir.</title>
-      <link>https://nostalgiadelreino.net/2012/04/26/toda-la-vida-se-ha-de-ir-estudiando-y-lo-que-m%C3%A1s/</link>
-      <pubDate>Thu, 26 Apr 2012 04:31:02 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2012/04/26/toda-la-vida-se-ha-de-ir-estudiando-y-lo-que-m%C3%A1s/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>No todo vale</title>
-      <link>https://nostalgiadelreino.net/2012/04/24/no-todo-vale/</link>
-      <pubDate>Tue, 24 Apr 2012 11:36:21 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2012/04/24/no-todo-vale/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>De estoicismo, Woody Allen, y propósitos de Año Nuevo</title>
-      <link>https://nostalgiadelreino.net/2009/12/29/de-estoicismo-woody-allen-y-prop%C3%B3sitos-de-a%C3%B1o/</link>
-      <pubDate>Tue, 29 Dec 2009 06:19:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2009/12/29/de-estoicismo-woody-allen-y-prop%C3%B3sitos-de-a%C3%B1o/</guid>
-      <description>Dos propósitos para el nuevo año: Primero, llevar aún más a mi vida el compromiso con el planeta que exigía a los políticos en Copenhague, y que tan miserablemente nos negaron a los ciudadanos. Consumir menos, producir la menor basura posible, ahorrar energía y agua, intentar volar lo menos posible.El segundo propósito, mucho más complicado, tiene que ver con el compromiso conmigo: dejar de consumirme, de sufrir, de convertir en una tragedia de dimensiones mitológicas cada pequeña desgracia que me suceda, dejar de sentirme tan axfisiado por esa culpa de origen desconocido que lo llena todo, permitirme más alegría, más ligereza.</description>
-    </item>
-    <item>
-      <title>De Seneca, el deseo y la necesidad</title>
-      <link>https://nostalgiadelreino.net/2009/03/09/de-seneca-el-deseo-y-la-necesidad/</link>
-      <pubDate>Mon, 09 Mar 2009 14:21:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2009/03/09/de-seneca-el-deseo-y-la-necesidad/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Meditaciones</title>
-      <link>https://nostalgiadelreino.net/2007/09/19/meditaciones/</link>
-      <pubDate>Wed, 19 Sep 2007 12:10:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2007/09/19/meditaciones/</guid>
-      <description> </description>
-    </item>
-  </channel>
+    <channel>
+        <title>Estoicismo on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/estoicismo/</link>
+        <description>Recent content in Estoicismo on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Tue, 16 Dec 2014 12:17:57 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/estoicismo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Del Dolor y el Sueño</title>
+        <link>http://localhost:1313/2014/12/16/del-dolor-y-el-sue%C3%B1o/</link>
+        <pubDate>Tue, 16 Dec 2014 12:17:57 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2014/12/16/del-dolor-y-el-sue%C3%B1o/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>De aduanas y pasaportes</title>
+        <link>http://localhost:1313/2012/06/29/de-aduanas-y-pasaportes/</link>
+        <pubDate>Fri, 29 Jun 2012 14:42:58 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2012/06/29/de-aduanas-y-pasaportes/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Toda la vida se ha de ir estudiando, y lo que más se debe ponderar es que toda ella se ha de gastar en aprender a morir.</title>
+        <link>http://localhost:1313/2012/04/26/toda-la-vida-se-ha-de-ir-estudiando-y-lo-que-m%C3%A1s/</link>
+        <pubDate>Thu, 26 Apr 2012 04:31:02 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2012/04/26/toda-la-vida-se-ha-de-ir-estudiando-y-lo-que-m%C3%A1s/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>No todo vale</title>
+        <link>http://localhost:1313/2012/04/24/no-todo-vale/</link>
+        <pubDate>Tue, 24 Apr 2012 11:36:21 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2012/04/24/no-todo-vale/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>De estoicismo, Woody Allen, y propósitos de Año Nuevo</title>
+        <link>http://localhost:1313/2009/12/29/de-estoicismo-woody-allen-y-prop%C3%B3sitos-de-a%C3%B1o/</link>
+        <pubDate>Tue, 29 Dec 2009 06:19:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2009/12/29/de-estoicismo-woody-allen-y-prop%C3%B3sitos-de-a%C3%B1o/</guid>
+        <description>&lt;p&gt;Dos propósitos para el nuevo año: Primero, llevar aún más a mi vida el compromiso con el planeta que exigía a los políticos en Copenhague, y que tan miserablemente nos negaron a los ciudadanos. Consumir menos, producir la menor basura posible, ahorrar energía y agua, intentar volar lo menos posible.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;El segundo propósito, mucho más complicado, tiene que ver con el compromiso conmigo: dejar de consumirme, de sufrir, de convertir en una tragedia de dimensiones mitológicas cada pequeña desgracia que me suceda, dejar de sentirme tan axfisiado por esa culpa de origen desconocido que lo llena todo, permitirme más alegría, más ligereza. En definitiva, seguir de una vez las enseñanzas de los &lt;!-- raw HTML omitted --&gt;estoicos&lt;!-- raw HTML omitted --&gt;.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Pensaba luego en el estoicismo, en la imagen erronea que esta filosofía tiene en la actualidad de hombres severos, rígidos, que se le limitan a aguantar con entereza mil golpes de la vida.&lt;!-- raw HTML omitted --&gt;En realidad, el mejor ejemplo actual de lo que es el estocismo está en la última película de Woody Allen, &lt;!-- raw HTML omitted --&gt;“Whatever Works”&lt;!-- raw HTML omitted --&gt;, una oda, ya desde el mismo título, a disfrutar la vida tal como viene, a dejar de sufrir, y a dejar de hacer sufrir a los demás por nuestras tonterías.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>De Seneca, el deseo y la necesidad</title>
+        <link>http://localhost:1313/2009/03/09/de-seneca-el-deseo-y-la-necesidad/</link>
+        <pubDate>Mon, 09 Mar 2009 14:21:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2009/03/09/de-seneca-el-deseo-y-la-necesidad/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Meditaciones</title>
+        <link>http://localhost:1313/2007/09/19/meditaciones/</link>
+        <pubDate>Wed, 19 Sep 2007 12:10:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2007/09/19/meditaciones/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

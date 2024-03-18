@@ -1,40 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ciencia Ficción on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/ciencia-ficci%C3%B3n/</link>
-    <description>Recent content in Ciencia Ficción on Nostalgia del Reino</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/ciencia-ficci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>To boldly go</title>
-      <link>https://nostalgiadelreino.net/2019/05/14/utopias/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2019/05/14/utopias/</guid>
-      <description>Siempre he sido más fan de Star Star Wars que de Star Trek. El que creo que es mi primer recuerdo es estar en el cine, viendo maravillado las escenas de la batalla de Hoth en El Imperio Contrataca. Y una tradición que mi madre y yo mantuvimos durante muchos años es ver la Trilogía en Navidad (y a menudo en un solo día).&#xA;Pero en los últimos años me dedico a ver lentamente todas las series de Star Trek, concretamente desde el 2016, el año de Trump y el Brexit.</description>
-    </item>
-    <item>
-      <title>Arrival</title>
-      <link>https://nostalgiadelreino.net/2016/11/13/Arrival/</link>
-      <pubDate>Sun, 13 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2016/11/13/Arrival/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.imdb.com/title/tt2543164/&#34;&gt;Arrival&lt;/a&gt;, del canadiense &lt;a href=&#34;http://www.imdb.com/name/nm0898288/?ref_=tt_ov_dr&#34;&gt;Denis Villeneuve&lt;/a&gt;, me ha sorprendido por su complejidad, su profundidad. Donde esperaba una buena película de ciencia ficción sobre uno de mis temas, el Primer Contacto, he encontrado una reflexión sobre la humanidad, sobre el tiempo, sobre (no entraré en más detalles por no destripar la película) el valor de la vida, que triunfa sobre el dolor y las desgracias.&lt;/p&gt;&#xA;&lt;p&gt;![Arrival]({{ site.url }}/images/arrival.jpg)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2013</title>
-      <link>https://nostalgiadelreino.net/2013/07/31/2013/</link>
-      <pubDate>Wed, 31 Jul 2013 15:07:12 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2013/07/31/2013/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Futuros</title>
-      <link>https://nostalgiadelreino.net/2017/01/14/Futuros/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2017/01/14/Futuros/</guid>
-      <description>&lt;p&gt;Leí, en los 90&amp;rsquo;s, varias novelas de &lt;a href=&#34;https://en.wikipedia.org/wiki/William_Gibson&#34;&gt;William Gibson&lt;/a&gt;. Me parecía entonces un escritor, con una calidad en la prosa que no abunda en el género de la ciencia ficción, pero cuya obra no acababa de engancharme, no lograba, sobre todo, que conectara con sus personajes, que me importara lo que pasaba.&lt;/p&gt;</description>
-    </item>
-  </channel>
+    <channel>
+        <title>Ciencia Ficción on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/ciencia-ficci%C3%B3n/</link>
+        <description>Recent content in Ciencia Ficción on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ciencia-ficci%C3%B3n/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>To boldly go</title>
+        <link>http://localhost:1313/2019/05/14/utopias/</link>
+        <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2019/05/14/utopias/</guid>
+        <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Siempre he sido más fan de Star Star Wars que de Star Trek. El que creo que es
+mi primer recuerdo es estar en el cine, viendo maravillado las escenas de la
+batalla de Hoth en &lt;em&gt;El Imperio Contrataca&lt;/em&gt;. Y una tradición que mi madre y yo
+mantuvimos durante muchos años es ver la Trilogía en Navidad (y a menudo en un
+solo día).&lt;/p&gt;
+&lt;p&gt;Pero en los últimos años me dedico a ver lentamente todas las series de Star
+Trek, concretamente desde el 2016, el año de Trump y el Brexit. No lo asocié en
+su momento, pero ahora, tras tres años de ver episodio tras episodio (ando ahora
+con Voyager), y de sufrir los constantes asaltos del fascismo que, en este
+siglo XXI, que se suponía que debía ser &lt;em&gt;el futuro&lt;/em&gt;, se resiste a morir, no
+creo que sea casualidad.&lt;/p&gt;
+&lt;p&gt;La serie original comenzó en 1966, en lo más álgido de la Guerra Fría,
+cuando el mundo podía en cualquier momento, y
+nos dio una utopía, un mundo unido, sin países o froteras, donde las razas no
+importan (ni siquiera si eres humano o no), donde el dinero ha desaparecido,
+donde la paz es posible, y puedes convertir en amigos a tus enemigos. Nos dio
+también, si no &lt;!-- raw HTML omitted --&gt;el
+primer beso interracial en televisión&lt;!-- raw HTML omitted --&gt;, sí el primero que se
+recuerda.&lt;/p&gt;
+&lt;p&gt;En esta época en la que se intenta recuperar lo peor del siglo XX (&lt;em&gt;anoche
+asistía aterrorizado a los discursos post electorales de PP y Ciudadanos,
+con su revanchismo, su odio radical hacia el progresismo, y la voluntad de
+pactar con el fascismo si de esa forma logran volver a su Madrid gris, lleno
+de odio y coches&lt;/em&gt;), en estos tiempos de Trumps y Salvinis, necesitamos ese
+sueño, esa utopía, ese &lt;em&gt;Live long and prosper&lt;/em&gt;, aferrarnos a que el futuro
+puede ser mejor, que la paz, la civilización, y el progreso son posibles.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Arrival</title>
+        <link>http://localhost:1313/2016/11/13/Arrival/</link>
+        <pubDate>Sun, 13 Nov 2016 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2016/11/13/Arrival/</guid>
+        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.imdb.com/title/tt2543164/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Arrival&lt;/a&gt;, del canadiense &lt;a class=&#34;link&#34; href=&#34;http://www.imdb.com/name/nm0898288/?ref_=tt_ov_dr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Denis Villeneuve&lt;/a&gt;, me ha sorprendido por su complejidad, su profundidad. Donde esperaba una buena película de ciencia ficción sobre uno de mis temas, el Primer Contacto, he encontrado una reflexión sobre la humanidad, sobre el tiempo, sobre (no entraré en más detalles por no destripar la película) el valor de la vida, que triunfa sobre el dolor y las desgracias.&lt;/p&gt;
+&lt;p&gt;![Arrival]({{ site.url }}/images/arrival.jpg)&lt;/p&gt;
+&lt;p&gt;Sobre ese Primer Contacto, es algo que me persigue desde que era ese niño que adoraba a Spielberg (lo sigo siendo, supongo). Spielberg ha hecho las dos mejores películas sobre el tema: &lt;a class=&#34;link&#34; href=&#34;http://www.imdb.com/title/tt0083866/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;ET&lt;/em&gt;&lt;/a&gt;, por supuesto (que me parece una obra absoluta, una de las mejores películas de todos los tiempos, y de las más infravaloradas), y también absolutamente magnífica &lt;a class=&#34;link&#34; href=&#34;http://www.imdb.com/title/tt0075860&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;Encuentros en la Tercera Fase&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Una de las cosas que espero de mi vida, antes de morir, es ese Primer Contacto. No espero algo grande, platillos volantes apareciendo sobre las capitales mundiales (&lt;em&gt;aunque, ¿por qué no?&lt;/em&gt;), pero sí algo, una señal de que no estamos solos. Un fósil en Marte. O quizás algún tipo de vida bajo los hielos de &lt;a class=&#34;link&#34; href=&#34;https://es.wikipedia.org/wiki/Europa_%28sat%c3%a9lite%29&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Europa&lt;/a&gt; o &lt;a class=&#34;link&#34; href=&#34;https://es.wikipedia.org/wiki/Tit%c3%a1n_%28sat%c3%a9lite%29&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Titán&lt;/a&gt;. Encontrarla, aunque fuera una bacteria quimiosintética viviendo en un volcán en Titán, sería la noticia más importante de la historia de la Humanidad. El saber que no estamos solos. Que no somos el centro del Universo. Porque la vida no puede existir en dos planetas, sería una casualidad demasiado enorme. Si halláramos vida en algún lugar del Sistema Solar, es que es algo común, tremendamente común, que florece en muchísimos planetas del Universo. Así lo creo yo. O, al menos, lo deseo.&lt;/p&gt;
+&lt;p&gt;Porque la alternativa, el que estemos solos, es demasiado trágica, demasiado aterradora. La Tierra, el Sol, nosotros, no duraremos siempre. ¿Y después? ¿Quién mirará a este Universo? ¿Quién se asombrará de su belleza?&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://es.wikipedia.org/wiki/Lars_von_Trier&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Von Trier&lt;/a&gt;, a quien cada vez soporto menos, expresó, sin embargo, perfectamente ese horror en &lt;a class=&#34;link&#34; href=&#34;https://es.wikipedia.org/wiki/Melancol%C3%ADa_%28pel%C3%ADcula%29&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;Melancolía&lt;/em&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;That I know things. And when I say we&amp;rsquo;re alone, we&amp;rsquo;re alone.
+Life is only on Earth, and not for long.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;En &lt;em&gt;Arrival&lt;/em&gt;, una magnífica &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Amy_Adams&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Amy Adams&lt;/a&gt; interpreta a Louise Banks, linguista a quien se encarga descifrar el lenguaje de los extraterrestres que visitan la Tierra, hasta ser capaz de comunicarse con ellos. En la película, no creo que eso sea una gran revelación, Banks lo logra. ¿Seríamos capaces de algo así los humanos? Aquí soy mucho más pesimista. Aún suponiendo que el lenguaje sea algo universal, y no exclusivo de este planeta, no sé si una vida extraterrestre, con la que no tenemos nada en común tendría lo bastante en común con nosotros como para poder comunicarnos. Las matemáticas, creen muchos, podrían ser ese código universal que nos abriera las puertas del entendimiento. Pero, ¿lo son? ¿son las matemáticas un reflejo inequívoco del Universo, o sólo de nuestra percepción del Universo? Y, sin son lo segundo, ¿no podría ser la percepción de una especie extraterrestre tan alejada de la nuestra que no tuviéramos ningún concepto común? Temo, y ojalá me equivoque, que la realidad de este contacto tuviera más en común con &lt;a class=&#34;link&#34; href=&#34;https://es.wikipedia.org/wiki/La_voz_de_su_amo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;La Voz de su Amo&lt;/em&gt;&lt;/a&gt;, de &lt;a class=&#34;link&#34; href=&#34;https://es.wikipedia.org/wiki/Stanis%c5%82aw_Lem&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Stanisław Lem&lt;/a&gt;, que con el &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Contact_%28novel%29&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Contacto&lt;/a&gt; de mi maestro (&lt;em&gt;maestro&lt;/em&gt; porque fue por él por quién me hice físico, por quien soy mucho de quien soy hoy en día) &lt;a class=&#34;link&#34; href=&#34;https://es.wikipedia.org/wiki/Carl_Sagan&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Sagan&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;En esos días veo, poco a poco, &lt;a class=&#34;link&#34; href=&#34;https://es.wikipedia.org/wiki/Melancol%C3%ADa_%28pel%C3%ADcula%29&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Star Trek: La Nueva Generación&lt;/a&gt;. En mi adolescencia, una vez que el terror de la guerra nuclear, del final del planeta, parecía superado, ese era el futuro prometido: el ser humano en el espacio, en un mundo unido, sin guerras, ni dinero. No sólo un mundo unido, sino una galaxia unida, donde la Humanidad y otras especies vuelan juntos, hermanados. Donde los héroes, aún llevando armas, las usan siempre en modo aturdir.&lt;/p&gt;
+&lt;p&gt;¿Qué nos ha pasado para echar a perder ese sueño? ¿Por qué no nos damos cuenta de una vez de lo absurdas que son nuestras fronteras, nuestras riñas? Esa es, tal vez, mi esperanza. Que si encontrarámos vida, o la vida nos encontrara a nosotros, nos demos cuenta al fin.&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>2013</title>
+        <link>http://localhost:1313/2013/07/31/2013/</link>
+        <pubDate>Wed, 31 Jul 2013 15:07:12 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2013/07/31/2013/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Futuros</title>
+        <link>http://localhost:1313/2017/01/14/Futuros/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2017/01/14/Futuros/</guid>
+        <description>&lt;p&gt;Leí, en los 90&amp;rsquo;s, varias novelas de &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/William_Gibson&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;William Gibson&lt;/a&gt;. Me parecía entonces un escritor, con una calidad en la prosa que no abunda en el género de la ciencia ficción, pero cuya obra no acababa de engancharme, no lograba, sobre todo, que conectara con sus personajes, que me importara lo que pasaba.&lt;/p&gt;
+&lt;p&gt;No pensaba entonces que ese futuro que Gibson imaginaba, de estados cada vez más débiles, casi invisibles, de la omnipresencia de internet, de las guerras invisibles que se librarían en ella, era realmente el futuro que me iba a tocar vivir.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;El otro día, en un centro comercial de Madrid, escuchaba por megafonía una voz hablando durantes bastantes minutos en chino (&lt;em&gt;¿anunciando las rebajas, tal vez?&lt;/em&gt;), y recordándome que, sí, que estamos ya en el futuro. Que ha llegado sin darnos cuenta, pero que este 2017, si lo hubiera podido presenciar en mi ya lejana niñez, en los 80&amp;rsquo;s, sin duda lo reconocería como lo que es, como un escenario futurista, de ciencia ficción. No tan terrible como otros que podría haber imaginado entonces (ruinas, radiactividad, muerte), ni, tristemente, un futuro utópico con una humanidad unida y feliz, explorando el espacio. El futuro que tenemos, es ese mundo ciberpunk que Gibson imaginó, de centros comerciales donde se habla chino (era, claro, japonés en sus novelas de los 80&amp;rsquo;s), de sálvese el que pueda, de capitalismo salvaje y armado.&lt;/p&gt;</description>
+        </item>
+        
+    </channel>
 </rss>

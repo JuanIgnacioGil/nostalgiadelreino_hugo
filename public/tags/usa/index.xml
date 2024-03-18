@@ -1,64 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>USA on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/usa/</link>
-    <description>Recent content in USA on Nostalgia del Reino</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Wed, 09 Nov 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/usa/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Monstruos</title>
-      <link>https://nostalgiadelreino.net/2016/11/09/Monstruos/</link>
-      <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2016/11/09/Monstruos/</guid>
-      <description>&lt;p&gt;Llevo años leyendo de los votantes de Trump, Farage, Le Pen y demás líderes del nuevo fascismo como víctimas. Víctimas de Wall Street, de la globalización, de las &lt;em&gt;élites liberales&lt;/em&gt;&amp;hellip; De lo que sea.&lt;/p&gt;&#xA;&lt;p&gt;No niego que cualquier ser humano merece nuestra compasión, y un esfuerzo por intentar entenderles. Pero muy a menudo se cruza una peligrosa línea, la que separa la compasión de la justificación.&lt;/p&gt;&#xA;&lt;p&gt;No se vota al fascismo porque el sistema te falle. Ni tampoco por ignorancia. Se vota al fascismo por maldad. Se le vota porque, si tu presidente es así, abiertamente racista, machista (y cualquier otro defecto que queramos pensar. Es un monstruo, y ni siquiera se molesta en ocultarlo), te da a ti licencia para sacar lo peor de ti mismo.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bailando en Ford Apache</title>
-      <link>https://nostalgiadelreino.net/2014/02/11/bailando-en-ford-apache/</link>
-      <pubDate>Tue, 11 Feb 2014 14:48:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2014/02/11/bailando-en-ford-apache/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Mis 25 de Dylan</title>
-      <link>https://nostalgiadelreino.net/2014/02/07/mis-25-de-dylan/</link>
-      <pubDate>Fri, 07 Feb 2014 14:43:35 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2014/02/07/mis-25-de-dylan/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>no title</title>
-      <link>https://nostalgiadelreino.net/2013/09/19/veintid%C3%B3s-de-noviembre-de-1963-erich/</link>
-      <pubDate>Thu, 19 Sep 2013 12:37:25 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2013/09/19/veintid%C3%B3s-de-noviembre-de-1963-erich/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>I mind how I said to you once that there is a price for being good the same as for being bad; a cost to pay. And it’s the good men that cant deny the bill when it comes around. They cant deny it for the reason that there aint any way to make them pay it, like a honest man that gambles. The bad men can deny it; that’s why dont anybody expect them to pay on sight or any other time. But the good cant. Maybe it takes longer to pay for being good than for being bad.</title>
-      <link>https://nostalgiadelreino.net/2013/07/01/i-mind-how-i-said-to-you-once-that-there-is-a/</link>
-      <pubDate>Mon, 01 Jul 2013 08:09:17 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2013/07/01/i-mind-how-i-said-to-you-once-that-there-is-a/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>newyorker cartoon by tom toro for</title>
-      <link>https://nostalgiadelreino.net/2012/11/21/newyorker-cartoon-by-tom-toro-for/</link>
-      <pubDate>Wed, 21 Nov 2012 08:31:05 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2012/11/21/newyorker-cartoon-by-tom-toro-for/</guid>
-      <description>newyorker:</description>
-    </item>
-    <item>
-      <title>La Vieja América</title>
-      <link>https://nostalgiadelreino.net/2012/11/08/la-vieja-am%C3%A9rica/</link>
-      <pubDate>Thu, 08 Nov 2012 11:11:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2012/11/08/la-vieja-am%C3%A9rica/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Let’s go
+    <channel>
+        <title>USA on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/usa/</link>
+        <description>Recent content in USA on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Wed, 09 Nov 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/usa/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Monstruos</title>
+        <link>http://localhost:1313/2016/11/09/Monstruos/</link>
+        <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2016/11/09/Monstruos/</guid>
+        <description>&lt;p&gt;Llevo años leyendo de los votantes de Trump, Farage, Le Pen y demás líderes del nuevo fascismo como víctimas. Víctimas de Wall Street, de la globalización, de las &lt;em&gt;élites liberales&lt;/em&gt;&amp;hellip; De lo que sea.&lt;/p&gt;
+&lt;p&gt;No niego que cualquier ser humano merece nuestra compasión, y un esfuerzo por intentar entenderles. Pero muy a menudo se cruza una peligrosa línea, la que separa la compasión de la justificación.&lt;/p&gt;
+&lt;p&gt;No se vota al fascismo porque el sistema te falle. Ni tampoco por ignorancia. Se vota al fascismo por maldad. Se le vota porque, si tu presidente es así, abiertamente racista, machista (y cualquier otro defecto que queramos pensar. Es un monstruo, y ni siquiera se molesta en ocultarlo), te da a ti licencia para sacar lo peor de ti mismo.&lt;/p&gt;
+&lt;p&gt;No podemos decir: &lt;em&gt;No te preocupes, no eres racista, todo está bien, tenías tus razones para votar así, el sistema te ha maltratado&lt;/em&gt;. No es así. Desde el momento en que votas a alguien como Trump, sí eres un racista, y no tienes excusa ni justificación posible. Y si no quieres serlo, debes cambiarte a ti mismo y dejar de actuar como tal. Pero para eso tienes que admitir lo que eres. Y quizás necesites que alguien te lo diga.&lt;/p&gt;
+&lt;p&gt;Tampoco es moralmente válido el intentar aprovechar este voto para llevarlo a tu terreno, como ha hecho parte de la izquierda. Pretender que la gente vota a un candidato fascista porque no le gusta la derecha es una terrible frivolidad. Pretender, como muchos pretenden, que Trump y Clinton eran iguales, es monstruoso. Cuando te importa más el izquierdismo que la democracia, te conviertes en un cómplice del fascismo.&lt;/p&gt;
+&lt;p&gt;La victoria de Trump es una victoria de todo lo que es perverso en la naturaleza humana. No resiste una lectura política de ningún tipo, solamente una ética. Es la victoria de la gente que ha elegido el odio como forma de vida. De ahí que mi estupor sea más terrible que en cualquier otra de las muchas derrotas que he vivido. Contra la política se puede luchar. Contra la parte más oscura de la naturaleza humana, ¿cómo hacerlo?&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>Bailando en Ford Apache</title>
+        <link>http://localhost:1313/2014/02/11/bailando-en-ford-apache/</link>
+        <pubDate>Tue, 11 Feb 2014 14:48:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2014/02/11/bailando-en-ford-apache/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Mis 25 de Dylan</title>
+        <link>http://localhost:1313/2014/02/07/mis-25-de-dylan/</link>
+        <pubDate>Fri, 07 Feb 2014 14:43:35 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2014/02/07/mis-25-de-dylan/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>no title</title>
+        <link>http://localhost:1313/2013/09/19/veintid%C3%B3s-de-noviembre-de-1963-erich/</link>
+        <pubDate>Thu, 19 Sep 2013 12:37:25 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2013/09/19/veintid%C3%B3s-de-noviembre-de-1963-erich/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>I mind how I said to you once that there is a price for being good the same as for being bad; a cost to pay. And it’s the good men that cant deny the bill when it comes around. They cant deny it for the reason that there aint any way to make them pay it, like a honest man that gambles. The bad men can deny it; that’s why dont anybody expect them to pay on sight or any other time. But the good cant. Maybe it takes longer to pay for being good than for being bad.</title>
+        <link>http://localhost:1313/2013/07/01/i-mind-how-i-said-to-you-once-that-there-is-a/</link>
+        <pubDate>Mon, 01 Jul 2013 08:09:17 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2013/07/01/i-mind-how-i-said-to-you-once-that-there-is-a/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>newyorker cartoon by tom toro for</title>
+        <link>http://localhost:1313/2012/11/21/newyorker-cartoon-by-tom-toro-for/</link>
+        <pubDate>Wed, 21 Nov 2012 08:31:05 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2012/11/21/newyorker-cartoon-by-tom-toro-for/</guid>
+        <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;newyorker&lt;!-- raw HTML omitted --&gt;:&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>La Vieja América</title>
+        <link>http://localhost:1313/2012/11/08/la-vieja-am%C3%A9rica/</link>
+        <pubDate>Thu, 08 Nov 2012 11:11:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2012/11/08/la-vieja-am%C3%A9rica/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Let’s go
 
 Come on
 
@@ -79,38 +100,197 @@ Old cigarette papers
 stuck to our pants
 
 leaves in our hair.</title>
-      <link>https://nostalgiadelreino.net/2012/09/10/lets-go-come-on-lets-go-empty-our/</link>
-      <pubDate>Mon, 10 Sep 2012 09:35:51 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2012/09/10/lets-go-come-on-lets-go-empty-our/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Chateaubriand en América</title>
-      <link>https://nostalgiadelreino.net/2012/09/09/chateaubriand-en-am%C3%A9rica/</link>
-      <pubDate>Sun, 09 Sep 2012 13:50:02 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2012/09/09/chateaubriand-en-am%C3%A9rica/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Life, liberty and the pursuit of happiness</title>
-      <link>https://nostalgiadelreino.net/2012/07/17/life-liberty-and-the-pursuit-of-happiness/</link>
-      <pubDate>Tue, 17 Jul 2012 08:33:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2012/07/17/life-liberty-and-the-pursuit-of-happiness/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Invierno en Walden</title>
-      <link>https://nostalgiadelreino.net/2007/06/09/invierno-en-walden/</link>
-      <pubDate>Sat, 09 Jun 2007 20:32:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2007/06/09/invierno-en-walden/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>I am waiting</title>
-      <link>https://nostalgiadelreino.net/2012/04/21/I-am-waiting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2012/04/21/I-am-waiting/</guid>
-      <description>I am waiting for my case to come up&#xA;and I am waiting&#xA;for a rebirth of wonder&#xA;and I am waiting for someone&#xA;to really discover America&#xA;and wail and I am waiting for the discovery of a new symbolic western frontier and I am waiting for the American Eagle to really spread its wings and straighten up and fly right and I am waiting for the Age of Anxiety to drop dead and I am waiting for the war to be fought which will make the world safe for anarchy and I am waiting for the final withering away of all governments and I am perpetually awaiting a rebirth of wonder</description>
-    </item>
-  </channel>
+        <link>http://localhost:1313/2012/09/10/lets-go-come-on-lets-go-empty-our/</link>
+        <pubDate>Mon, 10 Sep 2012 09:35:51 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2012/09/10/lets-go-come-on-lets-go-empty-our/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Chateaubriand en América</title>
+        <link>http://localhost:1313/2012/09/09/chateaubriand-en-am%C3%A9rica/</link>
+        <pubDate>Sun, 09 Sep 2012 13:50:02 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2012/09/09/chateaubriand-en-am%C3%A9rica/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Life, liberty and the pursuit of happiness</title>
+        <link>http://localhost:1313/2012/07/17/life-liberty-and-the-pursuit-of-happiness/</link>
+        <pubDate>Tue, 17 Jul 2012 08:33:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2012/07/17/life-liberty-and-the-pursuit-of-happiness/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Invierno en Walden</title>
+        <link>http://localhost:1313/2007/06/09/invierno-en-walden/</link>
+        <pubDate>Sat, 09 Jun 2007 20:32:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2007/06/09/invierno-en-walden/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>I am waiting</title>
+        <link>http://localhost:1313/2012/04/21/I-am-waiting/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2012/04/21/I-am-waiting/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;I am waiting for my case to come up&lt;br&gt;
+and I am waiting&lt;br&gt;
+for a rebirth of wonder&lt;br&gt;
+and I am waiting for someone&lt;br&gt;
+to really discover America&lt;br&gt;
+and wail&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the discovery&lt;!-- raw HTML omitted --&gt;
+of a new symbolic western frontier&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the American Eagle&lt;!-- raw HTML omitted --&gt;
+to really spread its wings&lt;!-- raw HTML omitted --&gt;
+and straighten up and fly right&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the Age of Anxiety&lt;!-- raw HTML omitted --&gt;
+to drop dead&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the war to be fought&lt;!-- raw HTML omitted --&gt;
+which will make the world safe&lt;!-- raw HTML omitted --&gt;
+for anarchy&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the final withering away&lt;!-- raw HTML omitted --&gt;
+of all governments&lt;!-- raw HTML omitted --&gt;
+and I am perpetually awaiting&lt;!-- raw HTML omitted --&gt;
+a rebirth of wonder&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I am waiting for the Second Coming&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for a religious revival&lt;!-- raw HTML omitted --&gt;
+to sweep thru the state of Arizona&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the Grapes of Wrath to be stored&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for them to prove&lt;!-- raw HTML omitted --&gt;
+that God is really American&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+to see God on television&lt;!-- raw HTML omitted --&gt;
+piped onto church altars&lt;!-- raw HTML omitted --&gt;
+if only they can find&lt;!-- raw HTML omitted --&gt;
+the right channel&lt;!-- raw HTML omitted --&gt;
+to tune in on&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the Last Supper to be served again&lt;!-- raw HTML omitted --&gt;
+with a strange new appetizer&lt;!-- raw HTML omitted --&gt;
+and I am perpetually awaiting&lt;!-- raw HTML omitted --&gt;
+a rebirth of wonder&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I am waiting for my number to be called&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the Salvation Army to take over&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the meek to be blessed&lt;!-- raw HTML omitted --&gt;
+and inherit the earth&lt;!-- raw HTML omitted --&gt;
+without taxes&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for forests and animals&lt;!-- raw HTML omitted --&gt;
+to reclaim the earth as theirs&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for a way to be devised&lt;!-- raw HTML omitted --&gt;
+to destroy all nationalisms&lt;!-- raw HTML omitted --&gt;
+without killing anybody&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for linnets and planets to fall like rain&lt;!-- raw HTML omitted --&gt;
+and I am waiting for lovers and weepers&lt;!-- raw HTML omitted --&gt;
+to lie down together again&lt;!-- raw HTML omitted --&gt;
+in a new rebirth of wonder&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I am waiting for the Great Divide to be crossed&lt;!-- raw HTML omitted --&gt;
+and I am anxiously waiting&lt;!-- raw HTML omitted --&gt;
+for the secret of eternal life to be discovered&lt;!-- raw HTML omitted --&gt;
+by an obscure general practitioner&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the storms of life&lt;!-- raw HTML omitted --&gt;
+to be over&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+to set sail for happiness&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for a reconstructed Mayflower&lt;!-- raw HTML omitted --&gt;
+to reach America&lt;!-- raw HTML omitted --&gt;
+with its picture story and tv rights&lt;!-- raw HTML omitted --&gt;
+sold in advance to the natives&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the lost music to sound again&lt;!-- raw HTML omitted --&gt;
+in the Lost Continent&lt;!-- raw HTML omitted --&gt;
+in a new rebirth of wonder&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I am waiting for the day&lt;!-- raw HTML omitted --&gt;
+that maketh all things clear&lt;!-- raw HTML omitted --&gt;
+and I am awaiting retribution&lt;!-- raw HTML omitted --&gt;
+for what America did&lt;!-- raw HTML omitted --&gt;
+to Tom Sawyer&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for Alice in Wonderland&lt;!-- raw HTML omitted --&gt;
+to retransmit to me&lt;!-- raw HTML omitted --&gt;
+her total dream of innocence&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for Childe Roland to come&lt;!-- raw HTML omitted --&gt;
+to the final darkest tower&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for Aphrodite&lt;!-- raw HTML omitted --&gt;
+to grow live arms&lt;!-- raw HTML omitted --&gt;
+at a final disarmament conference&lt;!-- raw HTML omitted --&gt;
+in a new rebirth of wonder&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I am waiting&lt;!-- raw HTML omitted --&gt;
+to get some intimations&lt;!-- raw HTML omitted --&gt;
+of immortality&lt;!-- raw HTML omitted --&gt;
+by recollecting my early childhood&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the green mornings to come again&lt;!-- raw HTML omitted --&gt;
+youth’s dumb green fields come back again&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for some strains of unpremeditated art&lt;!-- raw HTML omitted --&gt;
+to shake my typewriter&lt;!-- raw HTML omitted --&gt;
+and I am waiting to write&lt;!-- raw HTML omitted --&gt;
+the great indelible poem&lt;!-- raw HTML omitted --&gt;
+and I am waiting&lt;!-- raw HTML omitted --&gt;
+for the last long careless rapture&lt;!-- raw HTML omitted --&gt;
+and I am perpetually waiting&lt;!-- raw HTML omitted --&gt;
+for the fleeing lovers on the Grecian Urn&lt;!-- raw HTML omitted --&gt;
+to catch each other up at last&lt;!-- raw HTML omitted --&gt;
+and embrace&lt;!-- raw HTML omitted --&gt;
+and I am awaiting&lt;!-- raw HTML omitted --&gt;
+perpetually and forever&lt;!-- raw HTML omitted --&gt;
+a renaissance of wonder&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://en.wikipedia.org/wiki/Lawrence_Ferlinghetti&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Lawrence Ferlinghetti&lt;/a&gt;,  &lt;em&gt;A Coney Island of the Mind&lt;/em&gt;.&lt;br&gt;
+&lt;em&gt;Copyright © 1958 by Lawrence Ferlinghetti.&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

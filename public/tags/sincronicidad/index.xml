@@ -1,26 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Sincronicidad on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/sincronicidad/</link>
-    <description>Recent content in Sincronicidad on Nostalgia del Reino</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Mon, 28 Nov 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/sincronicidad/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Paterson</title>
-      <link>https://nostalgiadelreino.net/2016/11/28/Paterson/</link>
-      <pubDate>Mon, 28 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2016/11/28/Paterson/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://es.wikipedia.org/wiki/Paterson_(pel%C3%ADcula)&#34;&gt;Paterson&lt;/a&gt;, la nueva película de &lt;a href=&#34;https://es.wikipedia.org/wiki/Jim_Jarmusch&#34;&gt;Jim Jarmusch&lt;/a&gt; es un pequeña joya, una pieza sin grandes ambiciones, pero que alcanza sobradamente su objetivo. Y de esas obras donde lo importante no es el argumento (que podría contar aquí de principio a fin sin que el placer de verla disminuyera lo más mínimo), sino la verdad que rezuman.&lt;/p&gt;&#xA;&lt;p&gt;![Paterson]({{ site.url }}/images/paterson.jpg)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Otro sueño: Hoy voy a trabajar</title>
-      <link>https://nostalgiadelreino.net/2010/08/19/otro-sue%C3%B1o-hoy-voy-a-trabajar/</link>
-      <pubDate>Thu, 19 Aug 2010 07:42:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2010/08/19/otro-sue%C3%B1o-hoy-voy-a-trabajar/</guid>
-      <description> </description>
-    </item>
-  </channel>
+    <channel>
+        <title>Sincronicidad on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/sincronicidad/</link>
+        <description>Recent content in Sincronicidad on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Mon, 28 Nov 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/sincronicidad/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Paterson</title>
+        <link>http://localhost:1313/2016/11/28/Paterson/</link>
+        <pubDate>Mon, 28 Nov 2016 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2016/11/28/Paterson/</guid>
+        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://es.wikipedia.org/wiki/Paterson_%28pel%C3%ADcula%29&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Paterson&lt;/a&gt;, la nueva película de &lt;a class=&#34;link&#34; href=&#34;https://es.wikipedia.org/wiki/Jim_Jarmusch&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Jim Jarmusch&lt;/a&gt; es un pequeña joya, una pieza sin grandes ambiciones, pero que alcanza sobradamente su objetivo. Y de esas obras donde lo importante no es el argumento (que podría contar aquí de principio a fin sin que el placer de verla disminuyera lo más mínimo), sino la verdad que rezuman.&lt;/p&gt;
+&lt;p&gt;![Paterson]({{ site.url }}/images/paterson.jpg)&lt;/p&gt;
+&lt;p&gt;Uno de las preguntas que aquí me he hecho una y otra vez durante los largos años es si hay un patrón, si hay algún tipo de reglas, sentido, en la existencia, o si es el Azar quien lo gobierna todo, o (lo más probable, imagino), algún punto intermedio entre ambos.&lt;/p&gt;
+&lt;p&gt;Ese es también uno de los temas centrales de Paterson, con una clara respuesta: hay un Patrón. Tu esposa sueña con vuestras futuras hijas, gemelas. Después verás gemelas tu bus.&lt;/p&gt;
+&lt;p&gt;Otra gemela te recitará más tarde uno de sus poemas, sobre la cascada de tu ciudad, tu lugar favorito. Tu esposa ha colgado ese mismo día una imagen de esas cascadas en vuestro salón. Más adelante, en esa misma cascada, un poeta venido desde Japón siguiendo el rastro de &lt;a class=&#34;link&#34; href=&#34;https://es.wikipedia.org/wiki/William_Carlos_Williams&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;otro&lt;/a&gt;, a quien admiras más que a nadie, te regalará un cuaderno en blanco, una oportunidad para volver a empezar tu obra, de un futuro mejor, que comienza hoy.&lt;/p&gt;
+&lt;p&gt;Todo el cine de Jarmusch confíá en la existencia de ese Patrón (se sabe que eres &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Dead_Man&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;hombre muerto&lt;/a&gt;, pues llevas el nombre de &lt;a class=&#34;link&#34; href=&#34;https://es.wikipedia.org/wiki/William_Blake&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;uno&lt;/a&gt;).&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Y es que quizás hay patrones. Mencionas, indirectamente, a William Blake en tu escrito de hoy. Mientras piensas como cerrarlo, descubres que es el &lt;a class=&#34;link&#34; href=&#34;http://allenginsberg.org/2011/11/william-blakes-birthday/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;aniversario&lt;/a&gt; de su nacimiento.&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>Otro sueño: Hoy voy a trabajar</title>
+        <link>http://localhost:1313/2010/08/19/otro-sue%C3%B1o-hoy-voy-a-trabajar/</link>
+        <pubDate>Thu, 19 Aug 2010 07:42:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2010/08/19/otro-sue%C3%B1o-hoy-voy-a-trabajar/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

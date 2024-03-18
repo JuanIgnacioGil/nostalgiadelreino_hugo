@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Cocina on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/cocina/</link>
-    <description>Recent content in Cocina on Nostalgia del Reino</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Wed, 23 Dec 2015 19:15:18 +0000</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/cocina/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>no title</title>
-      <link>https://nostalgiadelreino.net/2015/12/23/la-cocina-fue-desde-ni%C3%B1o-una-de-mis-pasiones-ya/</link>
-      <pubDate>Wed, 23 Dec 2015 19:15:18 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2015/12/23/la-cocina-fue-desde-ni%C3%B1o-una-de-mis-pasiones-ya/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>Cortando calabacines</title>
-      <link>https://nostalgiadelreino.net/2010/09/02/cortando-calabacines/</link>
-      <pubDate>Thu, 02 Sep 2010 07:20:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2010/09/02/cortando-calabacines/</guid>
-      <description> </description>
-    </item>
-  </channel>
+    <channel>
+        <title>Cocina on Nostalgia del Reino</title>
+        <link>http://localhost:1313/tags/cocina/</link>
+        <description>Recent content in Cocina on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Wed, 23 Dec 2015 19:15:18 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cocina/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>no title</title>
+        <link>http://localhost:1313/2015/12/23/la-cocina-fue-desde-ni%C3%B1o-una-de-mis-pasiones-ya/</link>
+        <pubDate>Wed, 23 Dec 2015 19:15:18 +0000</pubDate>
+        
+        <guid>http://localhost:1313/2015/12/23/la-cocina-fue-desde-ni%C3%B1o-una-de-mis-pasiones-ya/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Cortando calabacines</title>
+        <link>http://localhost:1313/2010/09/02/cortando-calabacines/</link>
+        <pubDate>Thu, 02 Sep 2010 07:20:00 +0100</pubDate>
+        
+        <guid>http://localhost:1313/2010/09/02/cortando-calabacines/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>
