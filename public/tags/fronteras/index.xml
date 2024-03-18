@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fronteras on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/fronteras/</link>
+    <link>http://localhost:1313/tags/fronteras/</link>
     <description>Recent content in Fronteras on Nostalgia del Reino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Fri, 28 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/fronteras/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/fronteras/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emigrantes</title>
-      <link>https://nostalgiadelreino.net/2016/10/28/emigrantes/</link>
+      <link>http://localhost:1313/2016/10/28/emigrantes/</link>
       <pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2016/10/28/emigrantes/</guid>
+      <guid>http://localhost:1313/2016/10/28/emigrantes/</guid>
       <description>Desde niño siempre creí que la gente debería tener derecho a ir a donde quisiera, a vivir donde quisiera (y que lo deseable es un estado mundial, pero eso es otro tema del que hablaremos en otra ocasión).&#xA;Ahora, tras más de un año como emigrante, lo tengo aún más claro. Un estado no debería tener derecho a decir a alguien si puede vivir o no en la ciudad que elija.</description>
     </item>
   </channel>

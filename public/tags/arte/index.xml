@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arte on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/arte/</link>
+    <link>http://localhost:1313/tags/arte/</link>
     <description>Recent content in Arte on Nostalgia del Reino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sat, 10 Dec 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/arte/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/arte/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Number 11</title>
-      <link>https://nostalgiadelreino.net/2016/12/10/Number-11/</link>
+      <link>http://localhost:1313/2016/12/10/Number-11/</link>
       <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2016/12/10/Number-11/</guid>
+      <guid>http://localhost:1313/2016/12/10/Number-11/</guid>
       <description>Anoche, en la exposición sobre el Expresionismo Abstracto, en la Royal Academy, no fue, como habría esperado, alguno de los Rothkos lo que más me impresionó, sino el Number 11, o Blue Poles, de Jackson Pollock.&#xA;![Number 11]({{ site.url }}/images/number_11.jpg)&#xA;Quizás porque así percibo ahora mi vida. El más absoluto caos, sin ningún mensaje aparente, ni un camino claro. Una ininteligible sucesión de hechos (desgracias y bendiciones, pero más desgracias que bendiciones) demasiado grandes, demasiado abrumadores.</description>
     </item>
     <item>
       <title>Jilgueros</title>
-      <link>https://nostalgiadelreino.net/2014/06/28/jilgueros/</link>
+      <link>http://localhost:1313/2014/06/28/jilgueros/</link>
       <pubDate>Sat, 28 Jun 2014 17:58:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2014/06/28/jilgueros/</guid>
+      <guid>http://localhost:1313/2014/06/28/jilgueros/</guid>
       <description> </description>
     </item>
     <item>
       <title>Ford</title>
-      <link>https://nostalgiadelreino.net/2013/04/04/ford/</link>
+      <link>http://localhost:1313/2013/04/04/ford/</link>
       <pubDate>Thu, 04 Apr 2013 12:35:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2013/04/04/ford/</guid>
+      <guid>http://localhost:1313/2013/04/04/ford/</guid>
       <description> </description>
     </item>
     <item>
       <title>Miré los muros de la patria mía</title>
-      <link>https://nostalgiadelreino.net/2012/12/21/mir%C3%A9-los-muros-de-la-patria-m%C3%ADa/</link>
+      <link>http://localhost:1313/2012/12/21/mir%C3%A9-los-muros-de-la-patria-m%C3%ADa/</link>
       <pubDate>Fri, 21 Dec 2012 11:28:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2012/12/21/mir%C3%A9-los-muros-de-la-patria-m%C3%ADa/</guid>
+      <guid>http://localhost:1313/2012/12/21/mir%C3%A9-los-muros-de-la-patria-m%C3%ADa/</guid>
       <description> </description>
     </item>
     <item>
       <title>hace unos días en la haya en</title>
-      <link>https://nostalgiadelreino.net/2012/09/20/hace-unos-d%C3%ADas-en-la-haya-en/</link>
+      <link>http://localhost:1313/2012/09/20/hace-unos-d%C3%ADas-en-la-haya-en/</link>
       <pubDate>Thu, 20 Sep 2012 19:37:28 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2012/09/20/hace-unos-d%C3%ADas-en-la-haya-en/</guid>
+      <guid>http://localhost:1313/2012/09/20/hace-unos-d%C3%ADas-en-la-haya-en/</guid>
       <description>Hace unos días, en La Haya, en el Gemeentemuseum (que significa “Museo Municipal”, aunque no me había enterado hasta ahora), descubriendo a un Mondrian desconocido para mí, muy diferente de las maravillosas geometrías de colores.</description>
     </item>
     <item>
       <title>Contra la Literatura</title>
-      <link>https://nostalgiadelreino.net/2012/06/26/contra-la-literatura/</link>
+      <link>http://localhost:1313/2012/06/26/contra-la-literatura/</link>
       <pubDate>Tue, 26 Jun 2012 13:05:52 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2012/06/26/contra-la-literatura/</guid>
+      <guid>http://localhost:1313/2012/06/26/contra-la-literatura/</guid>
       <description> </description>
     </item>
     <item>
       <title>Dos años con Dylan</title>
-      <link>https://nostalgiadelreino.net/2010/10/19/dos-a%C3%B1os-con-dylan/</link>
+      <link>http://localhost:1313/2010/10/19/dos-a%C3%B1os-con-dylan/</link>
       <pubDate>Tue, 19 Oct 2010 12:05:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2010/10/19/dos-a%C3%B1os-con-dylan/</guid>
+      <guid>http://localhost:1313/2010/10/19/dos-a%C3%B1os-con-dylan/</guid>
       <description> </description>
     </item>
     <item>
       <title>El Gran Dictador</title>
-      <link>https://nostalgiadelreino.net/2009/11/25/el-gran-dictador/</link>
+      <link>http://localhost:1313/2009/11/25/el-gran-dictador/</link>
       <pubDate>Wed, 25 Nov 2009 04:36:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2009/11/25/el-gran-dictador/</guid>
+      <guid>http://localhost:1313/2009/11/25/el-gran-dictador/</guid>
       <description>Uno de los momentos más bellos y en que se han dicho más verdades de la historia del cine, y de toda la historia del siglo XXI’m sorry, but I don’t want to be an Emperor - that’s not my business. I don’t want to rule or conquer anyone. I should like to help everyone, if possible – Jew, gentile, black man, white. We all want to help one another; human beings are like that.</description>
     </item>
     <item>
       <title>Sobre Capra</title>
-      <link>https://nostalgiadelreino.net/2009/02/11/sobre-capra/</link>
+      <link>http://localhost:1313/2009/02/11/sobre-capra/</link>
       <pubDate>Wed, 11 Feb 2009 05:44:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2009/02/11/sobre-capra/</guid>
+      <guid>http://localhost:1313/2009/02/11/sobre-capra/</guid>
       <description> </description>
     </item>
     <item>
       <title>Revolutionary Road</title>
-      <link>https://nostalgiadelreino.net/2009/01/28/revolutionary-road/</link>
+      <link>http://localhost:1313/2009/01/28/revolutionary-road/</link>
       <pubDate>Wed, 28 Jan 2009 10:16:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2009/01/28/revolutionary-road/</guid>
+      <guid>http://localhost:1313/2009/01/28/revolutionary-road/</guid>
       <description> </description>
     </item>
     <item>
       <title>Interludio: Cine y Verdad</title>
-      <link>https://nostalgiadelreino.net/2009/01/05/interludio-cine-y-verdad/</link>
+      <link>http://localhost:1313/2009/01/05/interludio-cine-y-verdad/</link>
       <pubDate>Mon, 05 Jan 2009 11:49:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2009/01/05/interludio-cine-y-verdad/</guid>
+      <guid>http://localhost:1313/2009/01/05/interludio-cine-y-verdad/</guid>
       <description> </description>
     </item>
     <item>
       <title>To see a world in a grain of sand</title>
-      <link>https://nostalgiadelreino.net/2008/10/16/to-see-a-world-in-a-grain-of-sand/</link>
+      <link>http://localhost:1313/2008/10/16/to-see-a-world-in-a-grain-of-sand/</link>
       <pubDate>Thu, 16 Oct 2008 11:31:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2008/10/16/to-see-a-world-in-a-grain-of-sand/</guid>
+      <guid>http://localhost:1313/2008/10/16/to-see-a-world-in-a-grain-of-sand/</guid>
       <description> </description>
     </item>
     <item>
       <title>Pasión</title>
-      <link>https://nostalgiadelreino.net/2008/09/24/pasi%C3%B3n/</link>
+      <link>http://localhost:1313/2008/09/24/pasi%C3%B3n/</link>
       <pubDate>Wed, 24 Sep 2008 05:33:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2008/09/24/pasi%C3%B3n/</guid>
+      <guid>http://localhost:1313/2008/09/24/pasi%C3%B3n/</guid>
       <description>Bach es diferente. Bach es la paz, la serenidad, la sensación de que hay en el Universo un orden superior, una finalidad, que no estamos solos. Bach es calidez, compasión, amor. Es esa sensación de que, al final, todo saldrá bien.Nada de la violencia de Beethoven (“Así golpea el Destino a la puerta”, dijo sobre su Quinta Sinfonía) tiene sitio aquí. Es la victoria del Orden sobre el Caos, la perfección.</description>
     </item>
     <item>
       <title>Dorothea Lange</title>
-      <link>https://nostalgiadelreino.net/2008/09/16/dorothea-lange/</link>
+      <link>http://localhost:1313/2008/09/16/dorothea-lange/</link>
       <pubDate>Tue, 16 Sep 2008 07:44:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2008/09/16/dorothea-lange/</guid>
+      <guid>http://localhost:1313/2008/09/16/dorothea-lange/</guid>
       <description> </description>
     </item>
     <item>
       <title>Las uvas de la ira</title>
-      <link>https://nostalgiadelreino.net/2008/09/15/las-uvas-de-la-ira/</link>
+      <link>http://localhost:1313/2008/09/15/las-uvas-de-la-ira/</link>
       <pubDate>Mon, 15 Sep 2008 21:04:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2008/09/15/las-uvas-de-la-ira/</guid>
+      <guid>http://localhost:1313/2008/09/15/las-uvas-de-la-ira/</guid>
       <description> </description>
     </item>
     <item>
       <title>Infernáculo. Laberinto.</title>
-      <link>https://nostalgiadelreino.net/2007/08/21/infern%C3%A1culo-laberinto/</link>
+      <link>http://localhost:1313/2007/08/21/infern%C3%A1culo-laberinto/</link>
       <pubDate>Tue, 21 Aug 2007 08:53:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2007/08/21/infern%C3%A1culo-laberinto/</guid>
+      <guid>http://localhost:1313/2007/08/21/infern%C3%A1culo-laberinto/</guid>
       <description> </description>
     </item>
     <item>
       <title>Bacon y las Eumenides</title>
-      <link>https://nostalgiadelreino.net/2007/06/27/bacon-y-las-eumenides/</link>
+      <link>http://localhost:1313/2007/06/27/bacon-y-las-eumenides/</link>
       <pubDate>Wed, 27 Jun 2007 18:56:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2007/06/27/bacon-y-las-eumenides/</guid>
+      <guid>http://localhost:1313/2007/06/27/bacon-y-las-eumenides/</guid>
       <description> </description>
     </item>
   </channel>

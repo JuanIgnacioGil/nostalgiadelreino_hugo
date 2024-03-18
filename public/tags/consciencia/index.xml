@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Consciencia on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/consciencia/</link>
+    <link>http://localhost:1313/tags/consciencia/</link>
     <description>Recent content in Consciencia on Nostalgia del Reino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Wed, 19 May 2010 07:39:00 +0100</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/consciencia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/consciencia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>De los límites de la ciencia</title>
-      <link>https://nostalgiadelreino.net/2010/05/19/de-los-l%C3%ADmites-de-la-ciencia/</link>
+      <link>http://localhost:1313/2010/05/19/de-los-l%C3%ADmites-de-la-ciencia/</link>
       <pubDate>Wed, 19 May 2010 07:39:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2010/05/19/de-los-l%C3%ADmites-de-la-ciencia/</guid>
+      <guid>http://localhost:1313/2010/05/19/de-los-l%C3%ADmites-de-la-ciencia/</guid>
       <description>Soy, como buen físico, escéptico. No acepto nada sin pruebas, y aún con pruebas, creo en la necesidad de poner siempre, constantemente en duda, de todo lo que consideramos seguro, de atacar el conocimiento para, a través de encontrar sus puntos débiles, reforzarlo. Y creo firmemente en las bondades del método científico.Es este compromiso el que hace que me disgusten actitudes que cada vez con más frecuencia veo a mi alrededor, el considerar la ciencia como la Verdad Única y Absoluta, el despreciar cualquier otra cosa.</description>
     </item>
     <item>
       <title>Una vida absurda produce desvaríos</title>
-      <link>https://nostalgiadelreino.net/2009/01/30/una-vida-absurda-produce-desvar%C3%ADos/</link>
+      <link>http://localhost:1313/2009/01/30/una-vida-absurda-produce-desvar%C3%ADos/</link>
       <pubDate>Fri, 30 Jan 2009 09:34:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2009/01/30/una-vida-absurda-produce-desvar%C3%ADos/</guid>
+      <guid>http://localhost:1313/2009/01/30/una-vida-absurda-produce-desvar%C3%ADos/</guid>
       <description> </description>
     </item>
     <item>
       <title>Infernáculo. Laberinto.</title>
-      <link>https://nostalgiadelreino.net/2007/08/21/infern%C3%A1culo-laberinto/</link>
+      <link>http://localhost:1313/2007/08/21/infern%C3%A1culo-laberinto/</link>
       <pubDate>Tue, 21 Aug 2007 08:53:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2007/08/21/infern%C3%A1culo-laberinto/</guid>
+      <guid>http://localhost:1313/2007/08/21/infern%C3%A1culo-laberinto/</guid>
       <description> </description>
     </item>
   </channel>

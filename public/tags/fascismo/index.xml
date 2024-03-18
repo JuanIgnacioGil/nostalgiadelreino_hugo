@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fascismo on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/fascismo/</link>
+    <link>http://localhost:1313/tags/fascismo/</link>
     <description>Recent content in Fascismo on Nostalgia del Reino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Wed, 09 Nov 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/fascismo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/fascismo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monstruos</title>
-      <link>https://nostalgiadelreino.net/2016/11/09/Monstruos/</link>
+      <link>http://localhost:1313/2016/11/09/Monstruos/</link>
       <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2016/11/09/Monstruos/</guid>
+      <guid>http://localhost:1313/2016/11/09/Monstruos/</guid>
       <description>&lt;p&gt;Llevo años leyendo de los votantes de Trump, Farage, Le Pen y demás líderes del nuevo fascismo como víctimas. Víctimas de Wall Street, de la globalización, de las &lt;em&gt;élites liberales&lt;/em&gt;&amp;hellip; De lo que sea.&lt;/p&gt;&#xA;&lt;p&gt;No niego que cualquier ser humano merece nuestra compasión, y un esfuerzo por intentar entenderles. Pero muy a menudo se cruza una peligrosa línea, la que separa la compasión de la justificación.&lt;/p&gt;&#xA;&lt;p&gt;No se vota al fascismo porque el sistema te falle. Ni tampoco por ignorancia. Se vota al fascismo por maldad. Se le vota porque, si tu presidente es así, abiertamente racista, machista (y cualquier otro defecto que queramos pensar. Es un monstruo, y ni siquiera se molesta en ocultarlo), te da a ti licencia para sacar lo peor de ti mismo.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leucemia on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/leucemia/</link>
+    <link>http://localhost:1313/tags/leucemia/</link>
     <description>Recent content in Leucemia on Nostalgia del Reino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/leucemia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/leucemia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>APML</title>
-      <link>https://nostalgiadelreino.net/2023/05/11/APML/</link>
+      <link>http://localhost:1313/2023/05/11/APML/</link>
       <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2023/05/11/APML/</guid>
+      <guid>http://localhost:1313/2023/05/11/APML/</guid>
       <description>En julio hará tres años que vivo con la leucemia, con algunos intervalos de libertad, meses en los que parecía que estaba curado para siempre, y meses de quimioterapia, tratamientos, debilidad y estancias en el hospital. El tranasplante de células madre en el verano del 22, recuperarse para volver a recaer. Retrasar el deseado regreso a España. Perderme los primeros años de mi sobrina.&#xA;Algo que a menudo te dicen es que &amp;ldquo;vas a ganar esta batalla&amp;rdquo;, &amp;ldquo;eres un luchador&amp;rdquo;.</description>
     </item>
   </channel>

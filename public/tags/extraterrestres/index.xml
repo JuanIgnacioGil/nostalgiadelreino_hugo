@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extraterrestres on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/extraterrestres/</link>
+    <link>http://localhost:1313/tags/extraterrestres/</link>
     <description>Recent content in Extraterrestres on Nostalgia del Reino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sun, 13 Nov 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/extraterrestres/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/extraterrestres/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arrival</title>
-      <link>https://nostalgiadelreino.net/2016/11/13/Arrival/</link>
+      <link>http://localhost:1313/2016/11/13/Arrival/</link>
       <pubDate>Sun, 13 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2016/11/13/Arrival/</guid>
+      <guid>http://localhost:1313/2016/11/13/Arrival/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.imdb.com/title/tt2543164/&#34;&gt;Arrival&lt;/a&gt;, del canadiense &lt;a href=&#34;http://www.imdb.com/name/nm0898288/?ref_=tt_ov_dr&#34;&gt;Denis Villeneuve&lt;/a&gt;, me ha sorprendido por su complejidad, su profundidad. Donde esperaba una buena película de ciencia ficción sobre uno de mis temas, el Primer Contacto, he encontrado una reflexión sobre la humanidad, sobre el tiempo, sobre (no entraré en más detalles por no destripar la película) el valor de la vida, que triunfa sobre el dolor y las desgracias.&lt;/p&gt;&#xA;&lt;p&gt;![Arrival]({{ site.url }}/images/arrival.jpg)&lt;/p&gt;</description>
     </item>
   </channel>

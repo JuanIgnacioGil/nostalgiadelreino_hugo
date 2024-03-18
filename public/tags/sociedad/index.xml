@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sociedad on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/sociedad/</link>
+    <link>http://localhost:1313/tags/sociedad/</link>
     <description>Recent content in Sociedad on Nostalgia del Reino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sun, 23 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/sociedad/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sociedad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Daniel Blake</title>
-      <link>https://nostalgiadelreino.net/2016/10/23/Daniel-Blake/</link>
+      <link>http://localhost:1313/2016/10/23/Daniel-Blake/</link>
       <pubDate>Sun, 23 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2016/10/23/Daniel-Blake/</guid>
+      <guid>http://localhost:1313/2016/10/23/Daniel-Blake/</guid>
       <description>Vi anoche la magnífica I, Daniel Blake, de Ken Loach. Al salir del cine, el terrible contraste del Londres de cada día estaba más presente que nunca: el lujo, las multitudes bien vestidas, bien alimentadas, que salen a gastar cantidades absurdas de dinero en entretenerse (entre los que nos contábamos), y la otra multitud, la invisible, la de los mendigos durmiendo en la calle, muchos más que en otras grandes ciudades europeas, y muchos de ellos jóvenes, muy jóvenes.</description>
     </item>
     <item>
       <title>Horas (II)</title>
-      <link>https://nostalgiadelreino.net/2012/11/03/horas-ii/</link>
+      <link>http://localhost:1313/2012/11/03/horas-ii/</link>
       <pubDate>Sat, 03 Nov 2012 18:32:30 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2012/11/03/horas-ii/</guid>
+      <guid>http://localhost:1313/2012/11/03/horas-ii/</guid>
       <description> </description>
     </item>
     <item>
       <title>El Teorema Central del Límite</title>
-      <link>https://nostalgiadelreino.net/2010/01/28/el-teorema-central-del-l%C3%ADmite/</link>
+      <link>http://localhost:1313/2010/01/28/el-teorema-central-del-l%C3%ADmite/</link>
       <pubDate>Thu, 28 Jan 2010 07:24:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2010/01/28/el-teorema-central-del-l%C3%ADmite/</guid>
+      <guid>http://localhost:1313/2010/01/28/el-teorema-central-del-l%C3%ADmite/</guid>
       <description> </description>
     </item>
     <item>
       <title>De política, quejas e indiferencia</title>
-      <link>https://nostalgiadelreino.net/2009/06/04/de-pol%C3%ADtica-quejas-e-indiferencia/</link>
+      <link>http://localhost:1313/2009/06/04/de-pol%C3%ADtica-quejas-e-indiferencia/</link>
       <pubDate>Thu, 04 Jun 2009 10:55:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2009/06/04/de-pol%C3%ADtica-quejas-e-indiferencia/</guid>
+      <guid>http://localhost:1313/2009/06/04/de-pol%C3%ADtica-quejas-e-indiferencia/</guid>
       <description> </description>
     </item>
   </channel>

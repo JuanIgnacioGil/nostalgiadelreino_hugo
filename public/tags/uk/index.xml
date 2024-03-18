@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UK on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/uk/</link>
+    <link>http://localhost:1313/tags/uk/</link>
     <description>Recent content in UK on Nostalgia del Reino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/uk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/uk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pueblos</title>
-      <link>https://nostalgiadelreino.net/2016/11/01/Pueblos/</link>
+      <link>http://localhost:1313/2016/11/01/Pueblos/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2016/11/01/Pueblos/</guid>
+      <guid>http://localhost:1313/2016/11/01/Pueblos/</guid>
       <description>Contemplo con absoluto horror como en los últimos años se ha hecho habitual el apelar al Pueblo, como una entidad que tiene una personalidad, una voluntad, ideas y deseos&amp;hellip; Por supuesto, esos deseos del pueblo son totalmente uniformes, y coinciden siempre con los del político de turno (que rara vez se definirá como tal: no será un político, sino parte de la gente). Una versión aún más hostil es la de la gente común y decente: si discrepas ya no sólo no eres parte del Pueblo, sino que eres indecente, un enemigo del Pueblo.</description>
     </item>
   </channel>

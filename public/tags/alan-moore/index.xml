@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alan Moore on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/alan-moore/</link>
+    <link>http://localhost:1313/tags/alan-moore/</link>
     <description>Recent content in Alan Moore on Nostalgia del Reino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sat, 30 Aug 2014 11:35:00 +0100</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/alan-moore/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/alan-moore/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Buscadores</title>
-      <link>https://nostalgiadelreino.net/2014/08/30/buscadores/</link>
+      <link>http://localhost:1313/2014/08/30/buscadores/</link>
       <pubDate>Sat, 30 Aug 2014 11:35:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2014/08/30/buscadores/</guid>
+      <guid>http://localhost:1313/2014/08/30/buscadores/</guid>
       <description> </description>
     </item>
     <item>
       <title>To refine the Hydra</title>
-      <link>https://nostalgiadelreino.net/2011/04/30/to-refine-the-hydra/</link>
+      <link>http://localhost:1313/2011/04/30/to-refine-the-hydra/</link>
       <pubDate>Sat, 30 Apr 2011 19:22:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2011/04/30/to-refine-the-hydra/</guid>
+      <guid>http://localhost:1313/2011/04/30/to-refine-the-hydra/</guid>
       <description> </description>
     </item>
   </channel>

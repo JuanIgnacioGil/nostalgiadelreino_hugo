@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inglaterra on Nostalgia del Reino</title>
-    <link>https://nostalgiadelreino.net/tags/inglaterra/</link>
+    <link>http://localhost:1313/tags/inglaterra/</link>
     <description>Recent content in Inglaterra on Nostalgia del Reino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sun, 18 Dec 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nostalgiadelreino.net/tags/inglaterra/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/inglaterra/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Horizontes (II)</title>
-      <link>https://nostalgiadelreino.net/2016/12/18/Horizontes%20%28II%29/</link>
+      <link>http://localhost:1313/2016/12/18/Horizontes%20%28II%29/</link>
       <pubDate>Sun, 18 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2016/12/18/Horizontes%20%28II%29/</guid>
+      <guid>http://localhost:1313/2016/12/18/Horizontes%20%28II%29/</guid>
       <description>&lt;p&gt;![Saint James Park]({{ site.url }}/images/St-James.png)&lt;/p&gt;&#xA;&lt;p&gt;Escribía hace poco de qué tal vez algunos sueños no estén para ser cumplidos, que hay horizontes que quizás no hay que alcanzar. Un triste presentimiento, porque ha sido. Londres, mi ciudad soñada desde hacía tantos años, me ha roto el corazón.&lt;/p&gt;&#xA;&lt;p&gt;No sé qué ha sucedido. Quizás yo he cambiado. Quizás la ciudad ha cambiado. Quizás ambos. Quizás esta es mi condena por haber abandonado, por una mezcla de miedo y ambición, la maravillosa Viena (el Reino Perdido, no una metáfora, sino uno tangible).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sueños:Londres y estrellas de rock</title>
-      <link>https://nostalgiadelreino.net/2010/10/22/sue%C3%B1oslondres-y-estrellas-de-rock/</link>
+      <link>http://localhost:1313/2010/10/22/sue%C3%B1oslondres-y-estrellas-de-rock/</link>
       <pubDate>Fri, 22 Oct 2010 08:40:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2010/10/22/sue%C3%B1oslondres-y-estrellas-de-rock/</guid>
+      <guid>http://localhost:1313/2010/10/22/sue%C3%B1oslondres-y-estrellas-de-rock/</guid>
       <description> </description>
     </item>
     <item>
       <title>Del sistema electoral</title>
-      <link>https://nostalgiadelreino.net/2010/05/25/del-sistema-electoral/</link>
+      <link>http://localhost:1313/2010/05/25/del-sistema-electoral/</link>
       <pubDate>Tue, 25 May 2010 10:31:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2010/05/25/del-sistema-electoral/</guid>
+      <guid>http://localhost:1313/2010/05/25/del-sistema-electoral/</guid>
       <description> </description>
     </item>
     <item>
       <title>The Masque of Anarchy</title>
-      <link>https://nostalgiadelreino.net/2009/12/11/the-masque-of-anarchy/</link>
+      <link>http://localhost:1313/2009/12/11/the-masque-of-anarchy/</link>
       <pubDate>Fri, 11 Dec 2009 12:10:00 +0000</pubDate>
-      <guid>https://nostalgiadelreino.net/2009/12/11/the-masque-of-anarchy/</guid>
+      <guid>http://localhost:1313/2009/12/11/the-masque-of-anarchy/</guid>
       <description> </description>
     </item>
     <item>
       <title>Los mitos homérico y órfico de la creación</title>
-      <link>https://nostalgiadelreino.net/2009/08/24/los-mitos-hom%C3%A9rico-y-%C3%B3rfico-de-la-creaci%C3%B3n/</link>
+      <link>http://localhost:1313/2009/08/24/los-mitos-hom%C3%A9rico-y-%C3%B3rfico-de-la-creaci%C3%B3n/</link>
       <pubDate>Mon, 24 Aug 2009 16:27:00 +0100</pubDate>
-      <guid>https://nostalgiadelreino.net/2009/08/24/los-mitos-hom%C3%A9rico-y-%C3%B3rfico-de-la-creaci%C3%B3n/</guid>
+      <guid>http://localhost:1313/2009/08/24/los-mitos-hom%C3%A9rico-y-%C3%B3rfico-de-la-creaci%C3%B3n/</guid>
       <description> </description>
     </item>
   </channel>
