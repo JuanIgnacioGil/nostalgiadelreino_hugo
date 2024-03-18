@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on Nostalgia del Reino</title>
-    <link>http://localhost:1313/tags/tech/</link>
+    <link>https://nostalgiadelreino.net/tags/tech/</link>
     <description>Recent content in Tech on Nostalgia del Reino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sat, 22 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nostalgiadelreino.net/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Un interludio técnico</title>
-      <link>http://localhost:1313/2016/10/22/interludio-tecnico/</link>
+      <link>https://nostalgiadelreino.net/2016/10/22/interludio-tecnico/</link>
       <pubDate>Sat, 22 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2016/10/22/interludio-tecnico/</guid>
+      <guid>https://nostalgiadelreino.net/2016/10/22/interludio-tecnico/</guid>
       <description>Con este posts este blog abandona Tumblr, y comienza su cuarta encarnación.&#xA;Comencé a escribir en la primavera del 2004, en Blogspot. Años después (sinceramente, no recuerdo cuándo y no sé si sería capaz de averiguarlo) compré el dominio nostalgiadelreino.net, cambié el título del blog (hasta entonces había sido &amp;ldquo;Una vida absurda produce desvaríos&amp;rdquo;, pero había decidido que mi vida ya no era absurda. Espero que tuviera razón) y publiqué durante años en un Wordpress autoalojado.</description>
     </item>
   </channel>

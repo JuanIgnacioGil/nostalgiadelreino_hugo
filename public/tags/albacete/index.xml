@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Albacete on Nostalgia del Reino</title>
-    <link>http://localhost:1313/tags/albacete/</link>
+    <link>https://nostalgiadelreino.net/tags/albacete/</link>
     <description>Recent content in Albacete on Nostalgia del Reino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Mon, 23 Feb 2009 13:51:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/albacete/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nostalgiadelreino.net/tags/albacete/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Mancha</title>
-      <link>http://localhost:1313/2009/02/23/la-mancha/</link>
+      <link>https://nostalgiadelreino.net/2009/02/23/la-mancha/</link>
       <pubDate>Mon, 23 Feb 2009 13:51:00 +0000</pubDate>
-      <guid>http://localhost:1313/2009/02/23/la-mancha/</guid>
+      <guid>https://nostalgiadelreino.net/2009/02/23/la-mancha/</guid>
       <description> </description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Odisea on Nostalgia del Reino</title>
-    <link>http://localhost:1313/tags/odisea/</link>
+    <link>https://nostalgiadelreino.net/tags/odisea/</link>
     <description>Recent content in Odisea on Nostalgia del Reino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Tue, 02 Sep 2014 15:36:49 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/odisea/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nostalgiadelreino.net/tags/odisea/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>El Orden del Mundo</title>
-      <link>http://localhost:1313/2014/09/02/el-orden-del-mundo/</link>
+      <link>https://nostalgiadelreino.net/2014/09/02/el-orden-del-mundo/</link>
       <pubDate>Tue, 02 Sep 2014 15:36:49 +0100</pubDate>
-      <guid>http://localhost:1313/2014/09/02/el-orden-del-mundo/</guid>
+      <guid>https://nostalgiadelreino.net/2014/09/02/el-orden-del-mundo/</guid>
       <description> </description>
     </item>
   </channel>

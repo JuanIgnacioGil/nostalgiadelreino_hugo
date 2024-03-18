@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sincronicidad on Nostalgia del Reino</title>
-    <link>http://localhost:1313/tags/sincronicidad/</link>
+    <link>https://nostalgiadelreino.net/tags/sincronicidad/</link>
     <description>Recent content in Sincronicidad on Nostalgia del Reino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Mon, 28 Nov 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/sincronicidad/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nostalgiadelreino.net/tags/sincronicidad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paterson</title>
-      <link>http://localhost:1313/2016/11/28/Paterson/</link>
+      <link>https://nostalgiadelreino.net/2016/11/28/Paterson/</link>
       <pubDate>Mon, 28 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2016/11/28/Paterson/</guid>
+      <guid>https://nostalgiadelreino.net/2016/11/28/Paterson/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://es.wikipedia.org/wiki/Paterson_(pel%C3%ADcula)&#34;&gt;Paterson&lt;/a&gt;, la nueva película de &lt;a href=&#34;https://es.wikipedia.org/wiki/Jim_Jarmusch&#34;&gt;Jim Jarmusch&lt;/a&gt; es un pequeña joya, una pieza sin grandes ambiciones, pero que alcanza sobradamente su objetivo. Y de esas obras donde lo importante no es el argumento (que podría contar aquí de principio a fin sin que el placer de verla disminuyera lo más mínimo), sino la verdad que rezuman.&lt;/p&gt;&#xA;&lt;p&gt;![Paterson]({{ site.url }}/images/paterson.jpg)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Otro sueño: Hoy voy a trabajar</title>
-      <link>http://localhost:1313/2010/08/19/otro-sue%C3%B1o-hoy-voy-a-trabajar/</link>
+      <link>https://nostalgiadelreino.net/2010/08/19/otro-sue%C3%B1o-hoy-voy-a-trabajar/</link>
       <pubDate>Thu, 19 Aug 2010 07:42:00 +0100</pubDate>
-      <guid>http://localhost:1313/2010/08/19/otro-sue%C3%B1o-hoy-voy-a-trabajar/</guid>
+      <guid>https://nostalgiadelreino.net/2010/08/19/otro-sue%C3%B1o-hoy-voy-a-trabajar/</guid>
       <description> </description>
     </item>
   </channel>
