@@ -1,86 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Estados Unidos on Nostalgia del Reino</title>
-        <link>http://localhost:1313/tags/estados-unidos/</link>
-        <description>Recent content in Estados Unidos on Nostalgia del Reino</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es</language>
-        <lastBuildDate>Tue, 29 May 2012 04:29:02 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/estados-unidos/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>What I must do is all that concerns me, not what the people think. This rule, equally arduous in actual and in intellectual life, may serve for the whole distinction between greatness and meanness. It is the harder because you will always find those who think they know what is your duty better than you know it. It is easy in the world to live after the world’s opinion; it is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude.</title>
-        <link>http://localhost:1313/2012/05/29/what-i-must-do-is-all-that-concerns-me-not-what/</link>
-        <pubDate>Tue, 29 May 2012 04:29:02 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2012/05/29/what-i-must-do-is-all-that-concerns-me-not-what/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Society everywhere is in conspiracy against the manhood of every one of its members. Society is a joint-stock company, in which the members agree, for the better securing of his bread to each shareholder, to surrender the liberty and culture of the eater. The virtue in most request is conformity. Self-reliance is its aversion. It loves not realities and creators, but names and customs.
+  <channel>
+    <title>Estados Unidos on Nostalgia del Reino</title>
+    <link>http://localhost:1313/tags/estados-unidos/</link>
+    <description>Recent content in Estados Unidos on Nostalgia del Reino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 29 May 2012 04:29:02 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/estados-unidos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What I must do is all that concerns me, not what the people think. This rule, equally arduous in actual and in intellectual life, may serve for the whole distinction between greatness and meanness. It is the harder because you will always find those who think they know what is your duty better than you know it. It is easy in the world to live after the world’s opinion; it is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude.</title>
+      <link>http://localhost:1313/2012/05/29/what-i-must-do-is-all-that-concerns-me-not-what/</link>
+      <pubDate>Tue, 29 May 2012 04:29:02 +0100</pubDate>
+      <guid>http://localhost:1313/2012/05/29/what-i-must-do-is-all-that-concerns-me-not-what/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Society everywhere is in conspiracy against the manhood of every one of its members. Society is a joint-stock company, in which the members agree, for the better securing of his bread to each shareholder, to surrender the liberty and culture of the eater. The virtue in most request is conformity. Self-reliance is its aversion. It loves not realities and creators, but names and customs.
 Whoso would be a man must be a nonconformist. He who would gather immortal palms must not be hindered by the name of goodness, but must explore if it be goodness. Nothing is at last sacred but the integrity of your own mind. Absolve you to yourself, and you shall have the suffrage of the world.</title>
-        <link>http://localhost:1313/2012/05/28/society-everywhere-is-in-conspiracy-against-the/</link>
-        <pubDate>Mon, 28 May 2012 08:38:34 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2012/05/28/society-everywhere-is-in-conspiracy-against-the/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>In the woods, we return to reason and faith. There I feel that nothing can befall me in life,—no disgrace, no calamity, ( leaving me my eyes,) which nature cannot repair. Standing on the bare ground,—my head bathed by the blithe air, and uplifted into infinite space,—all mean egotism vanishes. I become a transparent eye-ball; I am nothing; I see all; the currents of the Universal Being circulate through me; I am part or particle of God.</title>
-        <link>http://localhost:1313/2012/05/20/in-the-woods-we-return-to-reason-and-faith-there/</link>
-        <pubDate>Sun, 20 May 2012 13:45:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2012/05/20/in-the-woods-we-return-to-reason-and-faith-there/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>What&#39;d I care about the tower of ghouls</title>
-        <link>http://localhost:1313/2009/03/18/whatd-i-care-about-the-tower-of-ghouls/</link>
-        <pubDate>Wed, 18 Mar 2009 07:37:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2009/03/18/whatd-i-care-about-the-tower-of-ghouls/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>El Hombre en el Laberinto</title>
-        <link>http://localhost:1313/2009/03/03/el-hombre-en-el-laberinto/</link>
-        <pubDate>Tue, 03 Mar 2009 12:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2009/03/03/el-hombre-en-el-laberinto/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Sobre Capra</title>
-        <link>http://localhost:1313/2009/02/11/sobre-capra/</link>
-        <pubDate>Wed, 11 Feb 2009 05:44:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2009/02/11/sobre-capra/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Interludio: Auster, sobre Dios</title>
-        <link>http://localhost:1313/2009/01/03/interludio-auster-sobre-dios/</link>
-        <pubDate>Sat, 03 Jan 2009 10:51:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2009/01/03/interludio-auster-sobre-dios/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Dorothea Lange</title>
-        <link>http://localhost:1313/2008/09/16/dorothea-lange/</link>
-        <pubDate>Tue, 16 Sep 2008 07:44:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2008/09/16/dorothea-lange/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        
-    </channel>
+      <link>http://localhost:1313/2012/05/28/society-everywhere-is-in-conspiracy-against-the/</link>
+      <pubDate>Mon, 28 May 2012 08:38:34 +0100</pubDate>
+      <guid>http://localhost:1313/2012/05/28/society-everywhere-is-in-conspiracy-against-the/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>In the woods, we return to reason and faith. There I feel that nothing can befall me in life,—no disgrace, no calamity, ( leaving me my eyes,) which nature cannot repair. Standing on the bare ground,—my head bathed by the blithe air, and uplifted into infinite space,—all mean egotism vanishes. I become a transparent eye-ball; I am nothing; I see all; the currents of the Universal Being circulate through me; I am part or particle of God.</title>
+      <link>http://localhost:1313/2012/05/20/in-the-woods-we-return-to-reason-and-faith-there/</link>
+      <pubDate>Sun, 20 May 2012 13:45:00 +0100</pubDate>
+      <guid>http://localhost:1313/2012/05/20/in-the-woods-we-return-to-reason-and-faith-there/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>What&#39;d I care about the tower of ghouls</title>
+      <link>http://localhost:1313/2009/03/18/whatd-i-care-about-the-tower-of-ghouls/</link>
+      <pubDate>Wed, 18 Mar 2009 07:37:00 +0000</pubDate>
+      <guid>http://localhost:1313/2009/03/18/whatd-i-care-about-the-tower-of-ghouls/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>El Hombre en el Laberinto</title>
+      <link>http://localhost:1313/2009/03/03/el-hombre-en-el-laberinto/</link>
+      <pubDate>Tue, 03 Mar 2009 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2009/03/03/el-hombre-en-el-laberinto/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Sobre Capra</title>
+      <link>http://localhost:1313/2009/02/11/sobre-capra/</link>
+      <pubDate>Wed, 11 Feb 2009 05:44:00 +0000</pubDate>
+      <guid>http://localhost:1313/2009/02/11/sobre-capra/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Interludio: Auster, sobre Dios</title>
+      <link>http://localhost:1313/2009/01/03/interludio-auster-sobre-dios/</link>
+      <pubDate>Sat, 03 Jan 2009 10:51:00 +0000</pubDate>
+      <guid>http://localhost:1313/2009/01/03/interludio-auster-sobre-dios/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Dorothea Lange</title>
+      <link>http://localhost:1313/2008/09/16/dorothea-lange/</link>
+      <pubDate>Tue, 16 Sep 2008 07:44:00 +0100</pubDate>
+      <guid>http://localhost:1313/2008/09/16/dorothea-lange/</guid>
+      <description> </description>
+    </item>
+  </channel>
 </rss>

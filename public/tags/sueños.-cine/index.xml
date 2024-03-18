@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Sueños. Cine on Nostalgia del Reino</title>
-        <link>http://localhost:1313/tags/sue%C3%B1os.-cine/</link>
-        <description>Recent content in Sueños. Cine on Nostalgia del Reino</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es</language>
-        <lastBuildDate>Mon, 09 Aug 2010 05:16:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/sue%C3%B1os.-cine/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>De sueños autorreferentes</title>
-        <link>http://localhost:1313/2010/08/09/de-sue%C3%B1os-autorreferentes/</link>
-        <pubDate>Mon, 09 Aug 2010 05:16:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2010/08/09/de-sue%C3%B1os-autorreferentes/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Sueños. Cine on Nostalgia del Reino</title>
+    <link>http://localhost:1313/tags/sue%C3%B1os.-cine/</link>
+    <description>Recent content in Sueños. Cine on Nostalgia del Reino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 09 Aug 2010 05:16:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sue%C3%B1os.-cine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>De sueños autorreferentes</title>
+      <link>http://localhost:1313/2010/08/09/de-sue%C3%B1os-autorreferentes/</link>
+      <pubDate>Mon, 09 Aug 2010 05:16:00 +0100</pubDate>
+      <guid>http://localhost:1313/2010/08/09/de-sue%C3%B1os-autorreferentes/</guid>
+      <description> </description>
+    </item>
+  </channel>
 </rss>

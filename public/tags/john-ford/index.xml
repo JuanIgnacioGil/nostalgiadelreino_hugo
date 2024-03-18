@@ -1,40 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>John Ford on Nostalgia del Reino</title>
-        <link>http://localhost:1313/tags/john-ford/</link>
-        <description>Recent content in John Ford on Nostalgia del Reino</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es</language>
-        <lastBuildDate>Tue, 11 Feb 2014 14:48:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/john-ford/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Bailando en Ford Apache</title>
-        <link>http://localhost:1313/2014/02/11/bailando-en-ford-apache/</link>
-        <pubDate>Tue, 11 Feb 2014 14:48:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2014/02/11/bailando-en-ford-apache/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Ford</title>
-        <link>http://localhost:1313/2013/04/04/ford/</link>
-        <pubDate>Thu, 04 Apr 2013 12:35:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2013/04/04/ford/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>De películas y listas</title>
-        <link>http://localhost:1313/2012/08/03/de-pel%C3%ADculas-y-listas/</link>
-        <pubDate>Fri, 03 Aug 2012 10:47:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2012/08/03/de-pel%C3%ADculas-y-listas/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>John Ford on Nostalgia del Reino</title>
+    <link>http://localhost:1313/tags/john-ford/</link>
+    <description>Recent content in John Ford on Nostalgia del Reino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 11 Feb 2014 14:48:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/john-ford/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bailando en Ford Apache</title>
+      <link>http://localhost:1313/2014/02/11/bailando-en-ford-apache/</link>
+      <pubDate>Tue, 11 Feb 2014 14:48:00 +0000</pubDate>
+      <guid>http://localhost:1313/2014/02/11/bailando-en-ford-apache/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Ford</title>
+      <link>http://localhost:1313/2013/04/04/ford/</link>
+      <pubDate>Thu, 04 Apr 2013 12:35:00 +0100</pubDate>
+      <guid>http://localhost:1313/2013/04/04/ford/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>De películas y listas</title>
+      <link>http://localhost:1313/2012/08/03/de-pel%C3%ADculas-y-listas/</link>
+      <pubDate>Fri, 03 Aug 2012 10:47:00 +0100</pubDate>
+      <guid>http://localhost:1313/2012/08/03/de-pel%C3%ADculas-y-listas/</guid>
+      <description> </description>
+    </item>
+  </channel>
 </rss>

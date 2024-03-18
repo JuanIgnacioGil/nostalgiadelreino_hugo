@@ -1,47 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Salman Rushdie on Nostalgia del Reino</title>
-        <link>http://localhost:1313/tags/salman-rushdie/</link>
-        <description>Recent content in Salman Rushdie on Nostalgia del Reino</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es</language>
-        <lastBuildDate>Fri, 19 Nov 2004 03:15:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/salman-rushdie/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Serpientes y escaleras</title>
-        <link>http://localhost:1313/2014/11/19/Serpientes-y-escaleras/</link>
-        <pubDate>Fri, 19 Nov 2004 03:15:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2014/11/19/Serpientes-y-escaleras/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-&lt;blockquote&gt;
-&lt;p&gt;All games have morals; and the game of Snakes and Ladders captures, as no other activity can hope to do, the eternal truth that for every ladder you climb, a snake is waiting just around the corner; and for every snake, a ladder will compensate; but I found, very early in my life, that the game lacked one crucial dimension, that of ambiguity - because, as events are about to show, it is also possible to slither down a ladder and climb to triumph on the venom of a snake.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;de &lt;a class=&#34;link&#34; href=&#34;http://en.wikipedia.org/wiki/Midnight%27s_Children&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Hijos de la Medianoche&lt;/a&gt;, de Salman Rushdie&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Serpientes y escaleras: magnífica metáfora de la vida, de su aleatoriedad, de sus cumbres y caidas.&lt;/p&gt;
-&lt;p&gt;Se hace también tentador aceptar también el que todo da igual, el que podemos dejarnos llevar, arrastrarnos, esperar la siguiente escalera.&lt;/p&gt;
-&lt;p&gt;O podemos leerlo de otro modo: que hay esperanza, que ninguna caída es permanente.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Snakes and Ladders</title>
-        <link>http://localhost:1313/2016/12/02/Snakes-and-Ladders/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2016/12/02/Snakes-and-Ladders/</guid>
-        <description>&lt;p&gt;Hace ya doce años que [publiqué]({% post_url 2004-11-19-Serpientes-y-escaleras %}), en los inicios de este blog, esta cita de &lt;a class=&#34;link&#34; href=&#34;https://es.wikipedia.org/wiki/Hijos_de_la_medianoche&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Hijos de la Medianoche&lt;/a&gt;, de &lt;a class=&#34;link&#34; href=&#34;https://es.wikipedia.org/wiki/Salman_Rushdie&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Salman Rushdie&lt;/a&gt;:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;blockquote&gt;
-&lt;p&gt;All games have morals; and the game of Snakes and Ladders captures,
-as no other activity can hope to do, the eternal truth that for every ladder you climb, a snake is waiting just around the corner; and for every snake, a ladder will compensate…but I found, very early in my life, that the game lacked one crucial dimension, that of ambiguity - because, as events are about to show, it is also possible to slither down a ladder and climb to triumph on the venom of a snake.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;En estos días, más que nunca, mi vida es un reflejo de esa ambigüedad. Lo que aún no sé es si he caído por una escalera hasta el punto de partida, o si estoy escalando gracias al veneno de una serpiente. O ambas cosas a la vez.&lt;/p&gt;
-&lt;p&gt;Una de las cosas que nadie te enseña, salvo, quizás, la gran litaratura, el gran cine, es a afrontar ese tipo de giros argumentales, que en una novela o película rechazarías tal vez por exagerados y poco realistas. Pero cualquier cosa puede suceder, en cualquier momento. La cuestión, es si hay una razón, un sentido, o no, si la vida es impredecible, o simplemente demasiado compleja para entenderla.&lt;/p&gt;</description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Salman Rushdie on Nostalgia del Reino</title>
+    <link>http://localhost:1313/tags/salman-rushdie/</link>
+    <description>Recent content in Salman Rushdie on Nostalgia del Reino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 19 Nov 2004 03:15:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/salman-rushdie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Serpientes y escaleras</title>
+      <link>http://localhost:1313/2014/11/19/Serpientes-y-escaleras/</link>
+      <pubDate>Fri, 19 Nov 2004 03:15:00 +0000</pubDate>
+      <guid>http://localhost:1313/2014/11/19/Serpientes-y-escaleras/</guid>
+      <description>All games have morals; and the game of Snakes and Ladders captures, as no other activity can hope to do, the eternal truth that for every ladder you climb, a snake is waiting just around the corner; and for every snake, a ladder will compensate; but I found, very early in my life, that the game lacked one crucial dimension, that of ambiguity - because, as events are about to show, it is also possible to slither down a ladder and climb to triumph on the venom of a snake.</description>
+    </item>
+    <item>
+      <title>Snakes and Ladders</title>
+      <link>http://localhost:1313/2016/12/02/Snakes-and-Ladders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2016/12/02/Snakes-and-Ladders/</guid>
+      <description>&lt;p&gt;Hace ya doce años que [publiqué]({% post_url 2004-11-19-Serpientes-y-escaleras %}), en los inicios de este blog, esta cita de &lt;a href=&#34;https://es.wikipedia.org/wiki/Hijos_de_la_medianoche&#34;&gt;Hijos de la Medianoche&lt;/a&gt;, de &lt;a href=&#34;https://es.wikipedia.org/wiki/Salman_Rushdie&#34;&gt;Salman Rushdie&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;All games have morals; and the game of Snakes and Ladders captures,&#xA;as no other activity can hope to do, the eternal truth that for every ladder you climb, a snake is waiting just around the corner; and for every snake, a ladder will compensate…but I found, very early in my life, that the game lacked one crucial dimension, that of ambiguity - because, as events are about to show, it is also possible to slither down a ladder and climb to triumph on the venom of a snake.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;En estos días, más que nunca, mi vida es un reflejo de esa ambigüedad. Lo que aún no sé es si he caído por una escalera hasta el punto de partida, o si estoy escalando gracias al veneno de una serpiente. O ambas cosas a la vez.&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>

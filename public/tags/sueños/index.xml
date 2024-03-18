@@ -1,191 +1,145 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Sueños on Nostalgia del Reino</title>
-        <link>http://localhost:1313/tags/sue%C3%B1os/</link>
-        <description>Recent content in Sueños on Nostalgia del Reino</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es</language>
-        <lastBuildDate>Tue, 16 Dec 2014 12:17:57 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/sue%C3%B1os/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Del Dolor y el Sueño</title>
-        <link>http://localhost:1313/2014/12/16/del-dolor-y-el-sue%C3%B1o/</link>
-        <pubDate>Tue, 16 Dec 2014 12:17:57 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2014/12/16/del-dolor-y-el-sue%C3%B1o/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>El Rey. Los marcianos.</title>
-        <link>http://localhost:1313/2012/12/04/el-rey-los-marcianos/</link>
-        <pubDate>Tue, 04 Dec 2012 11:37:17 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2012/12/04/el-rey-los-marcianos/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>La noche</title>
-        <link>http://localhost:1313/2012/03/17/la-noche/</link>
-        <pubDate>Sat, 17 Mar 2012 04:37:06 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2012/03/17/la-noche/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>El artista, mi sofá, el café y Twitter</title>
-        <link>http://localhost:1313/2012/03/16/el-artista-mi-sof%C3%A1-el-caf%C3%A9-y-twitter/</link>
-        <pubDate>Fri, 16 Mar 2012 04:53:05 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2012/03/16/el-artista-mi-sof%C3%A1-el-caf%C3%A9-y-twitter/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Trepanaciones</title>
-        <link>http://localhost:1313/2012/03/15/trepanaciones/</link>
-        <pubDate>Thu, 15 Mar 2012 04:35:06 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2012/03/15/trepanaciones/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Una historia de terror</title>
-        <link>http://localhost:1313/2011/11/12/una-historia-de-terror/</link>
-        <pubDate>Sat, 12 Nov 2011 16:38:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2011/11/12/una-historia-de-terror/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Las puertas del Sueño</title>
-        <link>http://localhost:1313/2011/04/18/las-puertas-del-sue%C3%B1o/</link>
-        <pubDate>Mon, 18 Apr 2011 06:01:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2011/04/18/las-puertas-del-sue%C3%B1o/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Catedrales</title>
-        <link>http://localhost:1313/2011/04/11/catedrales/</link>
-        <pubDate>Mon, 11 Apr 2011 05:07:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2011/04/11/catedrales/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Hendrix</title>
-        <link>http://localhost:1313/2010/10/23/hendrix/</link>
-        <pubDate>Sat, 23 Oct 2010 14:41:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2010/10/23/hendrix/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Sueños:Londres y estrellas de rock</title>
-        <link>http://localhost:1313/2010/10/22/sue%C3%B1oslondres-y-estrellas-de-rock/</link>
-        <pubDate>Fri, 22 Oct 2010 08:40:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2010/10/22/sue%C3%B1oslondres-y-estrellas-de-rock/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Cortando calabacines</title>
-        <link>http://localhost:1313/2010/09/02/cortando-calabacines/</link>
-        <pubDate>Thu, 02 Sep 2010 07:20:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2010/09/02/cortando-calabacines/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Otro sueño: Hoy voy a trabajar</title>
-        <link>http://localhost:1313/2010/08/19/otro-sue%C3%B1o-hoy-voy-a-trabajar/</link>
-        <pubDate>Thu, 19 Aug 2010 07:42:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2010/08/19/otro-sue%C3%B1o-hoy-voy-a-trabajar/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Otro sueño: en La Mancha</title>
-        <link>http://localhost:1313/2010/08/14/otro-sue%C3%B1o-en-la-mancha/</link>
-        <pubDate>Sat, 14 Aug 2010 12:23:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2010/08/14/otro-sue%C3%B1o-en-la-mancha/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>De sueños autorreferentes</title>
-        <link>http://localhost:1313/2010/08/09/de-sue%C3%B1os-autorreferentes/</link>
-        <pubDate>Mon, 09 Aug 2010 05:16:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2010/08/09/de-sue%C3%B1os-autorreferentes/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Soñando de nuevo</title>
-        <link>http://localhost:1313/2010/03/23/so%C3%B1ando-de-nuevo/</link>
-        <pubDate>Tue, 23 Mar 2010 06:52:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2010/03/23/so%C3%B1ando-de-nuevo/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>De la música y del azar</title>
-        <link>http://localhost:1313/2009/06/21/de-la-m%C3%BAsica-y-del-azar/</link>
-        <pubDate>Sun, 21 Jun 2009 10:21:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2009/06/21/de-la-m%C3%BAsica-y-del-azar/</guid>
-        <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Cuando ya había elegido el título para este escrito me di cuenta de que &lt;!-- raw HTML omitted --&gt;Paul Auster&lt;!-- raw HTML omitted --&gt; tiene una novela titulada casi igual: “La Música del Azar”. Una variación más sobre sus temas de siempre, sobre lo inexplicable de la vida, sobre la constante influencia del azar en ella.&lt;!-- raw HTML omitted --&gt;¿De verdad es tanta? Seguramente sí. Y aún así seguramente menos de la que yo tiendo a pensar que hay.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Pero pensaba en la música, recordando dos sucesos de esta semana pasada.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;El martes caminaba por la calle de Alcalá, escuchando música al azar en el iPod, hacia una cervecería donde había quedado con unos amigos, y empezó a llover. Escuchaba a &lt;!-- raw HTML omitted --&gt;Miles Davis&lt;!-- raw HTML omitted --&gt;,uno de los temas del “Milestones”, cuando la lluvia comenzó a apretar, pero no importaba. Generalmente, me gusta caminar bajo la lluvia, y en verano es uno de esos pequeños placeres sin consecuencia que hacen mejor la vida. Y el jazz hacía que todo pareciera mejor, caminaba al ritmo de la trompeta, y el resto de la gente lo hacía al de la batería. Estaba contento.&lt;!-- raw HTML omitted --&gt;Y (¡oh, el azar!) sonó después Gene Kelly cantando &lt;!-- raw HTML omitted --&gt;“Singing in the Rain”&lt;!-- raw HTML omitted --&gt;. Perfecto. Permanecí bajo lo que ya era un chaparrón, empapándome, y recordándome en Nueva York, hace no muchos años, canturreando inocente esa canción bajo la lluvia, bailando agarrando a una farola.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Mozart. Requiem. Rex Tremenda&lt;!-- raw HTML omitted --&gt;e. Cesó la alegría. La tormenta era una castigo por mis errores, por todo el daño causado. Las ropas empapadas eran ya un peso terrible. Pero seguía siendo bienvenida. Una merecida penitencia. Caminé soportando la lluvia. Lo merecía.&lt;!-- raw HTML omitted --&gt;Bob Dylan. I Pity the Poor Inmigrant. Yo era el único que seguía caminando, completamente empapado, mientras el resto de la gente se refugiaba bajo los balcones y todos de las tiendas, seguros, sin sufrir la lluvia, esperando con tranquilidad a que la tormenta cesara.&lt;!-- raw HTML omitted --&gt;Y después sonó Bach, dándome la paz, como siempre hace. El chaparrón parecía leve, gotitas que limpiaban mi alma. Caminé despacio, disfrutando del final del paseo.&lt;!-- raw HTML omitted --&gt;Llegué a la cervecería. Unos pasos antes de alcanzar la puerta, la tormenta cesó de repente, como hacen siempre estas tormentas de verano. La lluvia había sido todo el rato la misma.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Anoche, regresaba a casa en el Metro, cansado, un poco triste. Había terminado el libro que llevaba por la tarde (&lt;!-- raw HTML omitted --&gt;“Por el Camino de Swann”&lt;!-- raw HTML omitted --&gt;. Creo que Proust es en parte corresponsable de todos los recuerdos que me acosan en los últimos días, de parte de mi hastío, de estas revisiones de mis años en Madrid), mientras esperaba a un amigo en una parada de metro de Leganés. Así que, contrario a mi costumbre no iba leyendo, sino simplemente escuchando música al azar.&lt;!-- raw HTML omitted --&gt;Y sonó “Highwayman”, una versión de una sosa canción de Jimmy Webb, que cantada por The Highaymen (un supergrupo de country que en los ochenta formaron Johnny Cash, Kris Kristofferson, Waylon Jennings y Willie Nelson) se convierte en un tema prodigioso, cargado de una poderosa melancolía.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;I was a sailor. I was born upon the tide&lt;!-- raw HTML omitted --&gt;And with the sea I did abide.&lt;!-- raw HTML omitted --&gt;I sailed a schooner round the Horn to Mexico&lt;!-- raw HTML omitted --&gt;I went aloft and furled the mainsail in a blow&lt;!-- raw HTML omitted --&gt;And when the yards broke off they said that I got killed&lt;!-- raw HTML omitted --&gt;But I am living still.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;No recordaba esa canción, que estaba oculta en el fondo del iPod desde hacía años. Pero sonó en el momento en que debía sonar. Comencé a sentir algo que en aquel momento no era capaz de definir. Salí del metro y comencé a caminar en la noche, hacia mi casa, deseando no ser yo, no estar allí, entonces. &lt;!-- raw HTML omitted --&gt;But I am still around..I’ll always be around..and around and around and around and around.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Y sonó Dylan. Fue él, por supuesto, quien tenía las palabras que definían cómo me sentía. &lt;!-- raw HTML omitted --&gt;My weariness amazes me&lt;!-- raw HTML omitted --&gt;. Exactamente eso. Me di cuenta de mi cansancio, de lo perseguido que estaba por mil demonios, de lo harto que estaba de recorrer estas calles una y otra vez, de la necesidad de cambiar de una vez. Y el deseo de marcharme, que viene y va desde hace diez años, que en los últimos meses es más fuerte que nunca, gritó y gritó. &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Then take me disappearin’ through the smoke rings of my mind,&lt;!-- raw HTML omitted --&gt;Down the foggy ruins of time, far past the frozen leaves,&lt;!-- raw HTML omitted --&gt;The haunted, frightened trees, out to the windy beach,&lt;!-- raw HTML omitted --&gt;Far from the twisted reach of crazy sorrow.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Y llegué a casa, y escribí, e intenté dormir.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;With all memory and fate driven deep beneath the waves,&lt;!-- raw HTML omitted --&gt;Let me forget about today until tomorrow.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Tuve un sueño en que jugaba al baloncesto en la calle, con varios amigos, actuales y antiguos, algunos a los que jamás volveré a ver. Uno de ellos, un viejo compañero del Johnny, desaparecido en el tiempo, se subía a mis espaldas, y yo intentaba seguir jugando, soportando todo el peso.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Ahora, al mediodía, escuchaba ambas canciones mientras escribía esto, y rompí a llorar.&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Un sueño</title>
-        <link>http://localhost:1313/2007/06/05/un-sue%C3%B1o/</link>
-        <pubDate>Tue, 05 Jun 2007 19:05:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2007/06/05/un-sue%C3%B1o/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Sin sueños</title>
-        <link>http://localhost:1313/2007/05/20/sin-sue%C3%B1os/</link>
-        <pubDate>Sun, 20 May 2007 03:09:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2007/05/20/sin-sue%C3%B1os/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Infierno</title>
-        <link>http://localhost:1313/2017/05/15/Inferno/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2017/05/15/Inferno/</guid>
-        <description>&lt;p&gt;Un sueño:&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Un viejo enemigo, que, décadas atrás, cuando era joven, solía cubrirse la cara con un pañuelo, como un forajido del Oeste. Pero eso fue mucho tiempo atrás: los años habían pasado, y él había envejecido y muerto.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Yo necesitaba hacerle unas preguntas, sobre nuestro pasado, sobre algunos temas todavía presentes para mí, que sólo él conocía, así que fui a visitarle al Infierno.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;El Infierno, al menos la parte donde nos reunimos, era un bar con luces rojas, donde todo el mundo fumaba. Mi viejo enemigo aparentaba estar ahora en la cincuentena. Nos sentamos, bebimos y charlamos, sabiendo nuestra enemistad ya resuelta, y pude hacerle esas preguntas. No recuerdo qué respondió.&lt;/em&gt;&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Sueños on Nostalgia del Reino</title>
+    <link>http://localhost:1313/tags/sue%C3%B1os/</link>
+    <description>Recent content in Sueños on Nostalgia del Reino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 16 Dec 2014 12:17:57 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sue%C3%B1os/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Del Dolor y el Sueño</title>
+      <link>http://localhost:1313/2014/12/16/del-dolor-y-el-sue%C3%B1o/</link>
+      <pubDate>Tue, 16 Dec 2014 12:17:57 +0000</pubDate>
+      <guid>http://localhost:1313/2014/12/16/del-dolor-y-el-sue%C3%B1o/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>El Rey. Los marcianos.</title>
+      <link>http://localhost:1313/2012/12/04/el-rey-los-marcianos/</link>
+      <pubDate>Tue, 04 Dec 2012 11:37:17 +0000</pubDate>
+      <guid>http://localhost:1313/2012/12/04/el-rey-los-marcianos/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>La noche</title>
+      <link>http://localhost:1313/2012/03/17/la-noche/</link>
+      <pubDate>Sat, 17 Mar 2012 04:37:06 +0000</pubDate>
+      <guid>http://localhost:1313/2012/03/17/la-noche/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>El artista, mi sofá, el café y Twitter</title>
+      <link>http://localhost:1313/2012/03/16/el-artista-mi-sof%C3%A1-el-caf%C3%A9-y-twitter/</link>
+      <pubDate>Fri, 16 Mar 2012 04:53:05 +0000</pubDate>
+      <guid>http://localhost:1313/2012/03/16/el-artista-mi-sof%C3%A1-el-caf%C3%A9-y-twitter/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Trepanaciones</title>
+      <link>http://localhost:1313/2012/03/15/trepanaciones/</link>
+      <pubDate>Thu, 15 Mar 2012 04:35:06 +0000</pubDate>
+      <guid>http://localhost:1313/2012/03/15/trepanaciones/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Una historia de terror</title>
+      <link>http://localhost:1313/2011/11/12/una-historia-de-terror/</link>
+      <pubDate>Sat, 12 Nov 2011 16:38:00 +0000</pubDate>
+      <guid>http://localhost:1313/2011/11/12/una-historia-de-terror/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Las puertas del Sueño</title>
+      <link>http://localhost:1313/2011/04/18/las-puertas-del-sue%C3%B1o/</link>
+      <pubDate>Mon, 18 Apr 2011 06:01:00 +0100</pubDate>
+      <guid>http://localhost:1313/2011/04/18/las-puertas-del-sue%C3%B1o/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Catedrales</title>
+      <link>http://localhost:1313/2011/04/11/catedrales/</link>
+      <pubDate>Mon, 11 Apr 2011 05:07:00 +0100</pubDate>
+      <guid>http://localhost:1313/2011/04/11/catedrales/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Hendrix</title>
+      <link>http://localhost:1313/2010/10/23/hendrix/</link>
+      <pubDate>Sat, 23 Oct 2010 14:41:00 +0100</pubDate>
+      <guid>http://localhost:1313/2010/10/23/hendrix/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Sueños:Londres y estrellas de rock</title>
+      <link>http://localhost:1313/2010/10/22/sue%C3%B1oslondres-y-estrellas-de-rock/</link>
+      <pubDate>Fri, 22 Oct 2010 08:40:00 +0100</pubDate>
+      <guid>http://localhost:1313/2010/10/22/sue%C3%B1oslondres-y-estrellas-de-rock/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Cortando calabacines</title>
+      <link>http://localhost:1313/2010/09/02/cortando-calabacines/</link>
+      <pubDate>Thu, 02 Sep 2010 07:20:00 +0100</pubDate>
+      <guid>http://localhost:1313/2010/09/02/cortando-calabacines/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Otro sueño: Hoy voy a trabajar</title>
+      <link>http://localhost:1313/2010/08/19/otro-sue%C3%B1o-hoy-voy-a-trabajar/</link>
+      <pubDate>Thu, 19 Aug 2010 07:42:00 +0100</pubDate>
+      <guid>http://localhost:1313/2010/08/19/otro-sue%C3%B1o-hoy-voy-a-trabajar/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Otro sueño: en La Mancha</title>
+      <link>http://localhost:1313/2010/08/14/otro-sue%C3%B1o-en-la-mancha/</link>
+      <pubDate>Sat, 14 Aug 2010 12:23:00 +0100</pubDate>
+      <guid>http://localhost:1313/2010/08/14/otro-sue%C3%B1o-en-la-mancha/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>De sueños autorreferentes</title>
+      <link>http://localhost:1313/2010/08/09/de-sue%C3%B1os-autorreferentes/</link>
+      <pubDate>Mon, 09 Aug 2010 05:16:00 +0100</pubDate>
+      <guid>http://localhost:1313/2010/08/09/de-sue%C3%B1os-autorreferentes/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Soñando de nuevo</title>
+      <link>http://localhost:1313/2010/03/23/so%C3%B1ando-de-nuevo/</link>
+      <pubDate>Tue, 23 Mar 2010 06:52:00 +0000</pubDate>
+      <guid>http://localhost:1313/2010/03/23/so%C3%B1ando-de-nuevo/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>De la música y del azar</title>
+      <link>http://localhost:1313/2009/06/21/de-la-m%C3%BAsica-y-del-azar/</link>
+      <pubDate>Sun, 21 Jun 2009 10:21:00 +0100</pubDate>
+      <guid>http://localhost:1313/2009/06/21/de-la-m%C3%BAsica-y-del-azar/</guid>
+      <description>Cuando ya había elegido el título para este escrito me di cuenta de que Paul Auster tiene una novela titulada casi igual: “La Música del Azar”. Una variación más sobre sus temas de siempre, sobre lo inexplicable de la vida, sobre la constante influencia del azar en ella.¿De verdad es tanta? Seguramente sí. Y aún así seguramente menos de la que yo tiendo a pensar que hay.Pero pensaba en la música, recordando dos sucesos de esta semana pasada.</description>
+    </item>
+    <item>
+      <title>Un sueño</title>
+      <link>http://localhost:1313/2007/06/05/un-sue%C3%B1o/</link>
+      <pubDate>Tue, 05 Jun 2007 19:05:00 +0100</pubDate>
+      <guid>http://localhost:1313/2007/06/05/un-sue%C3%B1o/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Sin sueños</title>
+      <link>http://localhost:1313/2007/05/20/sin-sue%C3%B1os/</link>
+      <pubDate>Sun, 20 May 2007 03:09:00 +0100</pubDate>
+      <guid>http://localhost:1313/2007/05/20/sin-sue%C3%B1os/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Infierno</title>
+      <link>http://localhost:1313/2017/05/15/Inferno/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2017/05/15/Inferno/</guid>
+      <description>Un sueño:&#xA;Un viejo enemigo, que, décadas atrás, cuando era joven, solía cubrirse la cara con un pañuelo, como un forajido del Oeste. Pero eso fue mucho tiempo atrás: los años habían pasado, y él había envejecido y muerto.&#xA;Yo necesitaba hacerle unas preguntas, sobre nuestro pasado, sobre algunos temas todavía presentes para mí, que sólo él conocía, así que fui a visitarle al Infierno.&#xA;El Infierno, al menos la parte donde nos reunimos, era un bar con luces rojas, donde todo el mundo fumaba.</description>
+    </item>
+  </channel>
 </rss>

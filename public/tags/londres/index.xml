@@ -1,106 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Londres on Nostalgia del Reino</title>
-        <link>http://localhost:1313/tags/londres/</link>
-        <description>Recent content in Londres on Nostalgia del Reino</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es</language>
-        <lastBuildDate>Sun, 18 Dec 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/londres/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Horizontes (II)</title>
-        <link>http://localhost:1313/2016/12/18/Horizontes%20%28II%29/</link>
-        <pubDate>Sun, 18 Dec 2016 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2016/12/18/Horizontes%20%28II%29/</guid>
-        <description>&lt;p&gt;![Saint James Park]({{ site.url }}/images/St-James.png)&lt;/p&gt;
-&lt;p&gt;Escribía hace poco de qué tal vez algunos sueños no estén para ser cumplidos, que hay horizontes que quizás no hay que alcanzar. Un triste presentimiento, porque ha sido. Londres, mi ciudad soñada desde hacía tantos años, me ha roto el corazón.&lt;/p&gt;
-&lt;p&gt;No sé qué ha sucedido. Quizás yo he cambiado. Quizás la ciudad ha cambiado. Quizás ambos. Quizás esta es mi condena por haber abandonado, por una mezcla de miedo y ambición, la maravillosa Viena (el Reino Perdido, no una metáfora, sino uno tangible).&lt;/p&gt;
-&lt;p&gt;Todo comenzó, claro, el 23 de junio, cuando yo ya había aceptado la oferta que me trajó aquí, que me tentó a abandonar mi paraíso vienés. Daba por hecho que el Reino Unido seguiría ese supuesto pragmatismo por el que era famoso y votaría por la permanencia en el proyecto europeo. Y tenía miedo de que mis vecinos austriacos volvieran a repetir viejos horrores y a caer de nuevo en la pesadilla del fascismo. Al final fue, claro, al revés.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;A finales de agosto llegué a un país que no me quería. Me esperaba un carísimo y miserable apartamento en el nordeste de la ciudad, donde pasaría el primer mes hasta encontrar algo definitivo.&lt;/p&gt;
-&lt;p&gt;En el 2001, la primera vez que vine a esta ciudad, caí rendido en cuanto salí del metro en Camden Town. Amor a primera vista. Quince años después, saldría de la estación de Finsbury Park, y mi corazón se rompió. No sé qué fue. Quizás los mendigos. Quizás la fealdad. Quizás el saber que había encontrado mi lugar y lo había abandonado. Voluntariamente. Estúpidamente. Quizás que el mundo se estaba desmoronando mientras yo viajaba sin rumbo, imitando tal vez los errores de mi padre.&lt;/p&gt;
-&lt;p&gt;La tarde siguiente viajé al centro (&lt;em&gt;viajé&lt;/em&gt; es, sí, la palabra correcta, con las inmensas distancias de esta ciudad), me reuní con A. (&lt;em&gt;quien aparece con otra letra en los remotos orígenes de este blog&lt;/em&gt;), y todo pareció volver a la normalidad. Pasear por las calles de Bloomsbury y el Soho pareció calmarme, y me engañé pensando que sólo había sido el nerviosismo normal en un cambio tan grande.&lt;/p&gt;
-&lt;p&gt;Tres meses después, justo antes de abandonar la ciudad, A. me diría &lt;em&gt;Me gusta Londres, pero tienes la sensación de ir siempre cuesta arriba&lt;/em&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Había, claro, muchos más, pero recuerdo claramente a tres de los mendigos de Finsbury Park. Una chica rubia, torturada, que a menudo lloraba con rabia. A ella la vi ese primer día en Finsbury Park. Fue tal vez mi primer indicio de que algo estaba roto, y que este no era mi sitio, que no lo había sido nunca, que me había estado engañando.&lt;/p&gt;
-&lt;p&gt;Un chico, quizás el más joven de todos, que lloraba desolado, mientras alguien intentaba consolarle.&lt;/p&gt;
-&lt;p&gt;Con la tercera de ellas, otra chica muy joven, que debía llevar poco tiempo en la calle, llegaría a hablar E., y supimos su nombre y parte de su historia. Pierdes el trabajo, y la casa, acabas en la calle. Y ya no puedes salir. Nadie te da trabajo si no tienes una dirección. Y no puedes conseguir una dirección si no tienes un trabajo para pagarla.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Y el mundo hundiéndose. Trump venciendo en Estados Unidos. La prensa británica recuperando el viejo término de &lt;em&gt;enemigo del pueblo&lt;/em&gt; a quienes criticaran la política nacionalista del gobierno. El horror en Francia, donde todo indica que habrá que elegir entre el fascismo puro, o un retrógrado integrismo religioso.&lt;/p&gt;
-&lt;p&gt;Contemplaba aterrorizado la situación, y preguntándome si no estaba volviéndome loco, obsesionado, como esas personas que llenan sus paredes de recortes de periódico.&lt;/p&gt;
-&lt;p&gt;Y el horror de saber que mi trabajo contribuía a ello, la desesperación de estar en el lugar equivocado.&lt;/p&gt;
-&lt;p&gt;Tres meses después perdería mi trabajo. Hasta que punto fue uno más de la multitud de despidos de esos días en mi empresa, o si fue causado por una infelicidad más obvia de lo que pensaba, no lo sabré nunca. Poco importa ya. Fue, eso lo sé, aunque duela, una bendición.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Llegó E., y abandomos el horrible Finsbury Park para venir al plácido Pimlico, un barrio tranquilo, hasta bonito, a un apartamento desde el que vemos todo el cielo londinense. Y todo fue mejor. Pero ya no queda en mí amor por esta ciudad.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;También en Pimlico hay mendigos, mayores que en Finsbury Park, más maltratados por los años y el alcohol. Es una sociedad tan cruel. Me pregunto hasta qué punto es obra de Margaret Tatcher, su &lt;em&gt;there
-is no such thing as society&lt;/em&gt;, y su mensaje de crueldad y egoísmo, o hasta que punto ha sido siempre así, y ella sólo sacó a flote lo peor de su gente (y es triste, porque también hay tanto de admirable en esta gente).&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;¿Y ahora? Quizás me marche pronto. De vuelva a Madrid, al que, ahora lo sé, es mi verdadero hogar. O quizás a otro lugar, que todavía no soy capaz de ver. O quizás permanezca, y logre reconciliarme con este viejo amor.&lt;/p&gt;</description>
-        </item>
-        <item>
-        <title>Horizontes</title>
-        <link>http://localhost:1313/2016/08/24/horizontes/</link>
-        <pubDate>Wed, 24 Aug 2016 18:58:19 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2016/08/24/horizontes/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Historia de dos ciudades</title>
-        <link>http://localhost:1313/2017/01/15/Historia-de-dos-Ciudades/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2017/01/15/Historia-de-dos-Ciudades/</guid>
-        <description>&lt;p&gt;![V. y L.]({{ site.url }}/images/Wien_London.png)&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;(Esta es una historia real. Se puede amar a ciudades, como se ama a personas. Y pueden, al igual que las personas, romperte el corazón.)&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Se enamoró de L. desde el momento en que la vio por primera vez, a la salida del metro. Estaba allí, esperando a él y a sus amigos, con los que había quedado. Eran todavía muy jóvenes, recién terminada la Universidad, con toda una vida por delante. Pero, en ese primer momento, supo, o eso creía él, que la amaría siempre.&lt;/p&gt;
-&lt;p&gt;L. era todo lo que siempre había soñado y admirado: hermosa (más elegante que guapa, en realidad), moderna, sofisticada, libre, divertida. Se encontraron muchas veces a lo largo de los años, y él seguía loco por ella. Esos breves momentos que podía pasar a su lado le llenaban de felicidad, y la idea de estar con ella le perseguía, pero el sentimiento no era mutuo. Muchas veces la llamó, pero no habo manera, ni tan siquiera una primera cita. Sabía ya, tras los primeros desengaños de la vida, que muchos sueños no se cumplen nunca, por mucho que te esfuerces. Lo que aún no había aprendido, era que algunos no debían cumplirse.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Con V. había coincidido un par de veces, una de ellas por placer, otra por trabajo. Era una chica bellísima y culta, apasionada por la música, de una familia de la aristocracia de provincias. Él la consideraba anticuada y aburrida. Años después, ya bien entrados en la treintena, fue ella quien le llamó, proponiéndole quedar para cenar. Al principio le sorprendió, pero, ¿por qué no?. Salieron juntos durante unos meses, y se fueron a vivir juntos. Él no dejó de sentirse sorprendido, y no del todo seguro de lo que quería. También le soprendió descubrir que la amaba, que adoraba su delicadeza, su sencillez, su belleza, su carácter tranquilo y alegre, que nunca había sido tan feliz en su vida, que lo que pensaba que sería una relación pasajera podría ser para siempre.&lt;/p&gt;
-&lt;p&gt;Fue entonces, en medio de esa etapa de felicidad, cuando recibió un correo de L. Hacía años que no se veían, le contó que había estado pensando en él, que le echaba de menos, que quería que lo intentaran. Y él enloqueció. Una voz en su interior le decía que era un error, que V. era perfecta, que estaba enamorado de ella, que era feliz con ella, que L. era un sueño del pasado, que se arrepentiría. Pero a veces no se puede hacer nada. Dejó a V., y acudió a la llamada de su imposible amor de juventud. Estaba seguro de que estaban destinados a estar juntos, y de que todos los rodeos que había dado a lo largo de su vida no eran más que pruebas en el camino. A partir de ese momento, todo estaría bien. Echaría, claro, de menos a la adorable V., pero ahora estaría, al fin, con el verdadero amor de su vida, en el lugar al que pertenecía.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Lo suyo se torció casi desde el primer día. Se dio cuenta de que no conocía a L., que la imagen que los demás veían era, sí, real, pero que había mucho más, todos esa parte de la persona que sólo los realmente íntimos conocen. De V. fue precisamente esa parte privada lo que le había hecho amarla. Con L. fue justo lo contrario. Descubrió su dureza, su falta de compasión, su profundo desprecio por los débiles, los pobres, contra todo el que ella consideraba de una clase inferior; su obsesión por el dinero, la necesidad de estar constantemente gastando cantidades absurdas, quizás, pensaba él, porque eso era lo único que calmaba el profundo vacío que debía sentir. Descubrió que esa vida de L. tan intensa, tan glamurosa, le resultaba agotadora, que no era capaz de seguir su ritmo. Sus amigos le resultaban antipáticos e hipócritas. Sus ideas políticas (que ya le disgustaban antes), ahora cada vez más extremas (porque hasta el esto seguía ella, o incluso marcaba, la moda), le resultaban intolerables.&lt;/p&gt;
-&lt;p&gt;Se sentía profundamente infeliz, y se encontraba a menudo pensando que había cometido el mayor error de su vida. Miraba sus viejas fotos con V., añorando su tiempo juntos. En Navidad recordaba la inocente alegría de esta, frente a la obsesión de L. por las compras. A menudo quería llorar.&lt;/p&gt;
-&lt;p&gt;Sabía ya que ya no amaba a L. Que la había admirado sin conocerla, o que ella había cambiado con los años, o que él había cambiado, probablemente todo a la vez. La miraba y sentía ese profundo dolor que queda tras el amor, un vacío que comenzaba a llenarse de desprecio y odio. Y el remordimiento por haber abandonado a V., el darse cuenta de lo feliz que había sido a su lado, de lo estúpido de haber persiguiendo ese sueño de juventud.&lt;/p&gt;
-&lt;p&gt;Fue, sin embargo, L. quien le dejó, con esa dureza suya que tan bien conocía ya: &lt;em&gt;Lo nuestro no funciona. Hemos terminado. Coge tus cosas, y vete.&lt;/em&gt; Al principio se sintió angustiado, frustrado. Después también vino el alivio. Ya estaba hecho. Habían terminado. No tenía que quedarse con ella, no tenía que verla más.&lt;/p&gt;
-&lt;p&gt;Pero tampoco había remedio a su error. Llamó, claro, a V. Sí, ella también le echaba de menos, y siempre le recordaría, pero no se podía volver atrás.&lt;/p&gt;
-&lt;p&gt;Se encontró solo, regresando al hogar familiar, a donde había comenzado. En parte, era como si sus relaciones con V. y L. nunca hubieran sucedido. Volvería a recorrer sus viejos lugares, a ver a sus viejos amigos (aunque estos, ya casados, con familias, apenas tendrían ya tiempo para él). Pero su corazón estaba doblemente roto. La añoranza de V., la certeza de su error. Y el haber perdido el sueño de L., que le había acompañado toda su vida adulta. El no tener ya sueños, sino recuerdos. El sentir que la vida comenzaba a estar más atrás que adelante.&lt;/p&gt;</description>
-        </item>
-        <item>
-        <title>Segundas oportunidades</title>
-        <link>http://localhost:1313/2018/07/25/segundas-oportunidades/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2018/07/25/segundas-oportunidades/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Leía hoy en Twitter a un nacionalista catalán quejándose de quien vivía
-en Cataluña &lt;em&gt;sin emociones&lt;/em&gt;. La absurdez de la idea, es, por supuesto,
-manifiesta: el que es
-imposible vivir en un sitio sin emociones, si eres humano, el que cuando él
-se refiere a emociones se refiere a tus sentimientos por un trapo de colores,
-no por la ciudad donde habitas, y que, aún así, nada tienen que ver
-esas emociones (incluso las que sientas por el trapo) con la organización
-política de tu ciudad (yo me emociono mucho en las Olimpiadas, pero
-eso no influye en nada en mi sueño de ver al estado estañol disolverse en
-una federación europea o mundial).&lt;/p&gt;
-&lt;p&gt;Pero pensaba sobre todo a que eso, a &lt;em&gt;vivir sin emociones&lt;/em&gt; es a lo
-yo aspiro ahora, que regreso a Londres. Amé enloquecidamente esa ciudad
-desde que la pisé por primera vez cuando este siglo comenzaba (nunca
-olvidaré ese momento, el verano del 2001, saliendo por primera vez
-del metro en Camden Town), y luego, cuando al fin logré vivir en ella,
-quince años después, llegué a odiarla, a sentirme miserable por haber
-elegido ese lugar, a detestar sus calles, sus atascos, el vacío estilo
-de vida de ganar y gastar y ganar y gastar.&lt;/p&gt;
-&lt;p&gt;Y ahora la vida me da lo que no puede ser sino una segunda oportunidad,
-para reconciliarme con Londres, pero, sobre todo, para aprender a &lt;em&gt;vivir sin
-emociones&lt;/em&gt;, o, al menos, sin excesos, a disfrutar de nuestros paseos,
-de sus restaurantes, ir al teatro, ser un &lt;em&gt;pijo mantenido de zona alta&lt;/em&gt;
-&lt;em&gt;inadaptado social que no se integra&lt;/em&gt;. Simplemente vivir.&lt;/p&gt;</description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Londres on Nostalgia del Reino</title>
+    <link>http://localhost:1313/tags/londres/</link>
+    <description>Recent content in Londres on Nostalgia del Reino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 18 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/londres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Horizontes (II)</title>
+      <link>http://localhost:1313/2016/12/18/Horizontes%20%28II%29/</link>
+      <pubDate>Sun, 18 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2016/12/18/Horizontes%20%28II%29/</guid>
+      <description>&lt;p&gt;![Saint James Park]({{ site.url }}/images/St-James.png)&lt;/p&gt;&#xA;&lt;p&gt;Escribía hace poco de qué tal vez algunos sueños no estén para ser cumplidos, que hay horizontes que quizás no hay que alcanzar. Un triste presentimiento, porque ha sido. Londres, mi ciudad soñada desde hacía tantos años, me ha roto el corazón.&lt;/p&gt;&#xA;&lt;p&gt;No sé qué ha sucedido. Quizás yo he cambiado. Quizás la ciudad ha cambiado. Quizás ambos. Quizás esta es mi condena por haber abandonado, por una mezcla de miedo y ambición, la maravillosa Viena (el Reino Perdido, no una metáfora, sino uno tangible).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Horizontes</title>
+      <link>http://localhost:1313/2016/08/24/horizontes/</link>
+      <pubDate>Wed, 24 Aug 2016 18:58:19 +0100</pubDate>
+      <guid>http://localhost:1313/2016/08/24/horizontes/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Historia de dos ciudades</title>
+      <link>http://localhost:1313/2017/01/15/Historia-de-dos-Ciudades/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2017/01/15/Historia-de-dos-Ciudades/</guid>
+      <description>&lt;p&gt;![V. y L.]({{ site.url }}/images/Wien_London.png)&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;(Esta es una historia real. Se puede amar a ciudades, como se ama a personas. Y pueden, al igual que las personas, romperte el corazón.)&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Segundas oportunidades</title>
+      <link>http://localhost:1313/2018/07/25/segundas-oportunidades/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2018/07/25/segundas-oportunidades/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Leía hoy en Twitter a un nacionalista catalán quejándose de quien vivía&#xA;en Cataluña &lt;em&gt;sin emociones&lt;/em&gt;. La absurdez de la idea, es, por supuesto,&#xA;manifiesta: el que es&#xA;imposible vivir en un sitio sin emociones, si eres humano, el que cuando él&#xA;se refiere a emociones se refiere a tus sentimientos por un trapo de colores,&#xA;no por la ciudad donde habitas, y que, aún así, nada tienen que ver&#xA;esas emociones (incluso las que sientas por el trapo) con la organización&#xA;política de tu ciudad (yo me emociono mucho en las Olimpiadas, pero&#xA;eso no influye en nada en mi sueño de ver al estado estañol disolverse en&#xA;una federación europea o mundial).&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>

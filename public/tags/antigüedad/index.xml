@@ -1,48 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Antigüedad on Nostalgia del Reino</title>
-        <link>http://localhost:1313/tags/antig%C3%BCedad/</link>
-        <description>Recent content in Antigüedad on Nostalgia del Reino</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es</language>
-        <lastBuildDate>Mon, 24 Aug 2009 16:27:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/antig%C3%BCedad/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Los mitos homérico y órfico de la creación</title>
-        <link>http://localhost:1313/2009/08/24/los-mitos-hom%C3%A9rico-y-%C3%B3rfico-de-la-creaci%C3%B3n/</link>
-        <pubDate>Mon, 24 Aug 2009 16:27:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2009/08/24/los-mitos-hom%C3%A9rico-y-%C3%B3rfico-de-la-creaci%C3%B3n/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>De Seneca, el deseo y la necesidad</title>
-        <link>http://localhost:1313/2009/03/09/de-seneca-el-deseo-y-la-necesidad/</link>
-        <pubDate>Mon, 09 Mar 2009 14:21:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2009/03/09/de-seneca-el-deseo-y-la-necesidad/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Los griegos en la India</title>
-        <link>http://localhost:1313/2009/03/04/los-griegos-en-la-india/</link>
-        <pubDate>Wed, 04 Mar 2009 17:54:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2009/03/04/los-griegos-en-la-india/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Atlantis Púnica</title>
-        <link>http://localhost:1313/2008/04/15/atlantis-p%C3%BAnica/</link>
-        <pubDate>Tue, 15 Apr 2008 19:32:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2008/04/15/atlantis-p%C3%BAnica/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Antigüedad on Nostalgia del Reino</title>
+    <link>http://localhost:1313/tags/antig%C3%BCedad/</link>
+    <description>Recent content in Antigüedad on Nostalgia del Reino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 24 Aug 2009 16:27:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/antig%C3%BCedad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los mitos homérico y órfico de la creación</title>
+      <link>http://localhost:1313/2009/08/24/los-mitos-hom%C3%A9rico-y-%C3%B3rfico-de-la-creaci%C3%B3n/</link>
+      <pubDate>Mon, 24 Aug 2009 16:27:00 +0100</pubDate>
+      <guid>http://localhost:1313/2009/08/24/los-mitos-hom%C3%A9rico-y-%C3%B3rfico-de-la-creaci%C3%B3n/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>De Seneca, el deseo y la necesidad</title>
+      <link>http://localhost:1313/2009/03/09/de-seneca-el-deseo-y-la-necesidad/</link>
+      <pubDate>Mon, 09 Mar 2009 14:21:00 +0000</pubDate>
+      <guid>http://localhost:1313/2009/03/09/de-seneca-el-deseo-y-la-necesidad/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Los griegos en la India</title>
+      <link>http://localhost:1313/2009/03/04/los-griegos-en-la-india/</link>
+      <pubDate>Wed, 04 Mar 2009 17:54:00 +0000</pubDate>
+      <guid>http://localhost:1313/2009/03/04/los-griegos-en-la-india/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Atlantis Púnica</title>
+      <link>http://localhost:1313/2008/04/15/atlantis-p%C3%BAnica/</link>
+      <pubDate>Tue, 15 Apr 2008 19:32:00 +0100</pubDate>
+      <guid>http://localhost:1313/2008/04/15/atlantis-p%C3%BAnica/</guid>
+      <description> </description>
+    </item>
+  </channel>
 </rss>

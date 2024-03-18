@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Tolkien on Nostalgia del Reino</title>
-        <link>http://localhost:1313/tags/tolkien/</link>
-        <description>Recent content in Tolkien on Nostalgia del Reino</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es</language>
-        <lastBuildDate>Sun, 31 Jan 2016 19:27:26 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tolkien/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Yéni únótimë</title>
-        <link>http://localhost:1313/2016/01/31/y%C3%A9ni-%C3%BAn%C3%B3tim%C3%AB/</link>
-        <pubDate>Sun, 31 Jan 2016 19:27:26 +0000</pubDate>
-        
-        <guid>http://localhost:1313/2016/01/31/y%C3%A9ni-%C3%BAn%C3%B3tim%C3%AB/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>The Road goes ever on and on
+  <channel>
+    <title>Tolkien on Nostalgia del Reino</title>
+    <link>http://localhost:1313/tags/tolkien/</link>
+    <description>Recent content in Tolkien on Nostalgia del Reino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 31 Jan 2016 19:27:26 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tolkien/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yéni únótimë</title>
+      <link>http://localhost:1313/2016/01/31/y%C3%A9ni-%C3%BAn%C3%B3tim%C3%AB/</link>
+      <pubDate>Sun, 31 Jan 2016 19:27:26 +0000</pubDate>
+      <guid>http://localhost:1313/2016/01/31/y%C3%A9ni-%C3%BAn%C3%B3tim%C3%AB/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>The Road goes ever on and on
 Down from the door where it began.
 Now far ahead the Road has gone,
 And I must follow, if I can,
@@ -24,38 +24,24 @@ Pursuing it with eager feet,
 Until it joins some larger way,
 Where many paths and errands meet.
 And whither then? I cannot say.</title>
-        <link>http://localhost:1313/2015/05/16/the-road-goes-ever-on-and-on-down-from-the-door/</link>
-        <pubDate>Sat, 16 May 2015 21:40:13 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2015/05/16/the-road-goes-ever-on-and-on-down-from-the-door/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Anillos</title>
-        <link>http://localhost:1313/2014/09/04/anillos/</link>
-        <pubDate>Thu, 04 Sep 2014 14:23:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2014/09/04/anillos/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>But it is not your own Shire</title>
-        <link>http://localhost:1313/2012/09/12/but-it-is-not-your-own-shire/</link>
-        <pubDate>Wed, 12 Sep 2012 09:04:00 +0100</pubDate>
-        
-        <guid>http://localhost:1313/2012/09/12/but-it-is-not-your-own-shire/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        
-    </channel>
+      <link>http://localhost:1313/2015/05/16/the-road-goes-ever-on-and-on-down-from-the-door/</link>
+      <pubDate>Sat, 16 May 2015 21:40:13 +0100</pubDate>
+      <guid>http://localhost:1313/2015/05/16/the-road-goes-ever-on-and-on-down-from-the-door/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Anillos</title>
+      <link>http://localhost:1313/2014/09/04/anillos/</link>
+      <pubDate>Thu, 04 Sep 2014 14:23:00 +0100</pubDate>
+      <guid>http://localhost:1313/2014/09/04/anillos/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>But it is not your own Shire</title>
+      <link>http://localhost:1313/2012/09/12/but-it-is-not-your-own-shire/</link>
+      <pubDate>Wed, 12 Sep 2012 09:04:00 +0100</pubDate>
+      <guid>http://localhost:1313/2012/09/12/but-it-is-not-your-own-shire/</guid>
+      <description> </description>
+    </item>
+  </channel>
 </rss>
