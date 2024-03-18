@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Muerte on Nostalgia del Reino</title>
-    <link>http://localhost:1313/tags/muerte/</link>
+    <link>https://nostalgiadelreino.net/tags/muerte/</link>
     <description>Recent content in Muerte on Nostalgia del Reino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Mon, 21 Nov 2011 04:04:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/muerte/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nostalgiadelreino.net/tags/muerte/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le Mort joyeux</title>
-      <link>http://localhost:1313/2011/11/21/le-mort-joyeux/</link>
+      <link>https://nostalgiadelreino.net/2011/11/21/le-mort-joyeux/</link>
       <pubDate>Mon, 21 Nov 2011 04:04:00 +0000</pubDate>
-      <guid>http://localhost:1313/2011/11/21/le-mort-joyeux/</guid>
+      <guid>https://nostalgiadelreino.net/2011/11/21/le-mort-joyeux/</guid>
       <description> </description>
     </item>
   </channel>

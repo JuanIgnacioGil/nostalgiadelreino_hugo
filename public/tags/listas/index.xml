@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Listas on Nostalgia del Reino</title>
-    <link>http://localhost:1313/tags/listas/</link>
+    <link>https://nostalgiadelreino.net/tags/listas/</link>
     <description>Recent content in Listas on Nostalgia del Reino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sat, 02 Jan 2016 17:25:50 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/listas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nostalgiadelreino.net/tags/listas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mis películas del 2015</title>
-      <link>http://localhost:1313/2016/01/02/mis-pel%C3%ADculas-del-2015/</link>
+      <link>https://nostalgiadelreino.net/2016/01/02/mis-pel%C3%ADculas-del-2015/</link>
       <pubDate>Sat, 02 Jan 2016 17:25:50 +0000</pubDate>
-      <guid>http://localhost:1313/2016/01/02/mis-pel%C3%ADculas-del-2015/</guid>
+      <guid>https://nostalgiadelreino.net/2016/01/02/mis-pel%C3%ADculas-del-2015/</guid>
       <description> </description>
     </item>
     <item>
       <title>De libros que se quedan</title>
-      <link>http://localhost:1313/2014/07/05/de-libros-que-se-quedan/</link>
+      <link>https://nostalgiadelreino.net/2014/07/05/de-libros-que-se-quedan/</link>
       <pubDate>Sat, 05 Jul 2014 20:32:00 +0100</pubDate>
-      <guid>http://localhost:1313/2014/07/05/de-libros-que-se-quedan/</guid>
+      <guid>https://nostalgiadelreino.net/2014/07/05/de-libros-que-se-quedan/</guid>
       <description> </description>
     </item>
   </channel>

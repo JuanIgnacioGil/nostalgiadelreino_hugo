@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Viena on Nostalgia del Reino</title>
-    <link>http://localhost:1313/tags/viena/</link>
+    <link>https://nostalgiadelreino.net/tags/viena/</link>
     <description>Recent content in Viena on Nostalgia del Reino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Wed, 24 Aug 2016 18:58:19 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/viena/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nostalgiadelreino.net/tags/viena/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Horizontes</title>
-      <link>http://localhost:1313/2016/08/24/horizontes/</link>
+      <link>https://nostalgiadelreino.net/2016/08/24/horizontes/</link>
       <pubDate>Wed, 24 Aug 2016 18:58:19 +0100</pubDate>
-      <guid>http://localhost:1313/2016/08/24/horizontes/</guid>
+      <guid>https://nostalgiadelreino.net/2016/08/24/horizontes/</guid>
       <description> </description>
     </item>
     <item>
       <title>esta mañana visité en el cementerio central de</title>
-      <link>http://localhost:1313/2015/11/14/esta-ma%C3%B1ana-visit%C3%A9-en-el-cementerio-central-de/</link>
+      <link>https://nostalgiadelreino.net/2015/11/14/esta-ma%C3%B1ana-visit%C3%A9-en-el-cementerio-central-de/</link>
       <pubDate>Sat, 14 Nov 2015 19:50:18 +0000</pubDate>
-      <guid>http://localhost:1313/2015/11/14/esta-ma%C3%B1ana-visit%C3%A9-en-el-cementerio-central-de/</guid>
+      <guid>https://nostalgiadelreino.net/2015/11/14/esta-ma%C3%B1ana-visit%C3%A9-en-el-cementerio-central-de/</guid>
       <description>Esta mañana visité en el Cementerio Central de Viena, el Zentralfriedhof, las tumbas de Beethoven y Boltzmann. Hace tan sólo seis meses desde la última vez que escribí aquí, pero parecen siglos. Hace seis meses vivía en ese Madrid, que, tras veinte años paseando por sus calles, era ya claramente mi ciudad. Hace seis meses mi madre aún vivía. En la tumba de Boltzmann, está escrito, como epitafio, una de sus ecuaciones, ese S=k log W.</description>
     </item>
     <item>
       <title>no title</title>
-      <link>http://localhost:1313/2015/05/09/en-estos-d%C3%ADas-me-despido-de-madrid-de-este-madrid/</link>
+      <link>https://nostalgiadelreino.net/2015/05/09/en-estos-d%C3%ADas-me-despido-de-madrid-de-este-madrid/</link>
       <pubDate>Sat, 09 May 2015 19:22:23 +0100</pubDate>
-      <guid>http://localhost:1313/2015/05/09/en-estos-d%C3%ADas-me-despido-de-madrid-de-este-madrid/</guid>
+      <guid>https://nostalgiadelreino.net/2015/05/09/en-estos-d%C3%ADas-me-despido-de-madrid-de-este-madrid/</guid>
       <description> </description>
     </item>
     <item>
       <title>Errores</title>
-      <link>http://localhost:1313/2017/05/09/Errores/</link>
+      <link>https://nostalgiadelreino.net/2017/05/09/Errores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/05/09/Errores/</guid>
+      <guid>https://nostalgiadelreino.net/2017/05/09/Errores/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Nel mezzo del cammin di nostra vita&lt;br&gt;&#xA;mi ritrovai per una selva oscura&lt;br&gt;&#xA;ché la diritta via era smarrita.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Dante, &lt;em&gt;Divina Comedia&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mi padre siempre ha lamentado el haber dejado la Marina. Pasó allí varios años, sin lograr adaptarse a la disciplina militar, y, finalmente, la abandonó por una carrera, en Correos, que nunca le satisfizo. Y esa decisión, el dejar la Marina, es tal vez el gran &lt;em&gt;y si&amp;hellip;&lt;/em&gt; de su vida, la intersección donde cree que tomó el camino equivocado (yo, claro, no acabo de compartirlo: de haber tomado la otra ruta, mis padres nunca se hubieran conocido, y yo no habría nacido. Mi padre me dijo una vez que habría conocido a mi madre de todas formas, y que yo sí habría nacido, sólo que en otro lugar. Lo dudo, pero, en cualquier caso, él está en su derecho a lamentar sus decisiones, aunque el fruto indirecto fuera yo).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Historia de dos ciudades</title>
-      <link>http://localhost:1313/2017/01/15/Historia-de-dos-Ciudades/</link>
+      <link>https://nostalgiadelreino.net/2017/01/15/Historia-de-dos-Ciudades/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2017/01/15/Historia-de-dos-Ciudades/</guid>
+      <guid>https://nostalgiadelreino.net/2017/01/15/Historia-de-dos-Ciudades/</guid>
       <description>&lt;p&gt;![V. y L.]({{ site.url }}/images/Wien_London.png)&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;(Esta es una historia real. Se puede amar a ciudades, como se ama a personas. Y pueden, al igual que las personas, romperte el corazón.)&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>

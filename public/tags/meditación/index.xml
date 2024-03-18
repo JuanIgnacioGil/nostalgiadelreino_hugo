@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meditación on Nostalgia del Reino</title>
-    <link>http://localhost:1313/tags/meditaci%C3%B3n/</link>
+    <link>https://nostalgiadelreino.net/tags/meditaci%C3%B3n/</link>
     <description>Recent content in Meditación on Nostalgia del Reino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Tue, 15 Sep 2009 05:47:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/meditaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nostalgiadelreino.net/tags/meditaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Famous Blue Raincoat</title>
-      <link>http://localhost:1313/2009/09/15/famous-blue-raincoat/</link>
+      <link>https://nostalgiadelreino.net/2009/09/15/famous-blue-raincoat/</link>
       <pubDate>Tue, 15 Sep 2009 05:47:00 +0100</pubDate>
-      <guid>http://localhost:1313/2009/09/15/famous-blue-raincoat/</guid>
+      <guid>https://nostalgiadelreino.net/2009/09/15/famous-blue-raincoat/</guid>
       <description> </description>
     </item>
   </channel>
