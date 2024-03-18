@@ -7,6 +7,9 @@ tags:
   - Star Trek
 title: Star Trek y el infantilismo colectivo
 url: /2024/02/20/Star_Trek_y_el infantilismo_colectivo/
+resources:
+- src:  /images/2024/02/inner_light.jpg
+  title: "Inner Light"
 ---
 
 
