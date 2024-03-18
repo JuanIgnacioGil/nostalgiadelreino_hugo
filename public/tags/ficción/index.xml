@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Ficción on Nostalgia del Reino</title>
-        <link>http://localhost:1313/tags/ficci%C3%B3n/</link>
+        <link>https://nostalgiadelreino.net/tags/ficci%C3%B3n/</link>
         <description>Recent content in Ficción on Nostalgia del Reino</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es</language>
-        <lastBuildDate>Sun, 06 Nov 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ficci%C3%B3n/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 06 Nov 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://nostalgiadelreino.net/tags/ficci%C3%B3n/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Nocturnal Animals</title>
-        <link>http://localhost:1313/2016/11/06/Nocturnal-Aminals/</link>
+        <link>https://nostalgiadelreino.net/2016/11/06/Nocturnal-Aminals/</link>
         <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/2016/11/06/Nocturnal-Aminals/</guid>
+        <guid>https://nostalgiadelreino.net/2016/11/06/Nocturnal-Aminals/</guid>
         <description>&lt;p&gt;![]({{ site.url }}/images/nocturnal_animals.jpg)&lt;/p&gt;
 &lt;p&gt;Vi anoche &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Nocturnal_Animals_%28film%29&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;em&gt;Nocturnal Animals&lt;/em&gt;&lt;/a&gt;, la segunda película de &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Tom_Ford&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;

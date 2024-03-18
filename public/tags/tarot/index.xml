@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tarot on Nostalgia del Reino</title>
-        <link>http://localhost:1313/tags/tarot/</link>
+        <link>https://nostalgiadelreino.net/tags/tarot/</link>
         <description>Recent content in Tarot on Nostalgia del Reino</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es</language>
-        <lastBuildDate>Tue, 07 Feb 2012 04:03:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tarot/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 07 Feb 2012 04:03:00 +0000</lastBuildDate><atom:link href="https://nostalgiadelreino.net/tags/tarot/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Naipes</title>
-        <link>http://localhost:1313/2012/02/07/naipes/</link>
+        <link>https://nostalgiadelreino.net/2012/02/07/naipes/</link>
         <pubDate>Tue, 07 Feb 2012 04:03:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/2012/02/07/naipes/</guid>
+        <guid>https://nostalgiadelreino.net/2012/02/07/naipes/</guid>
         <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
         </item>
         <item>
         <title>Encierros</title>
-        <link>http://localhost:1313/2009/04/14/encierros/</link>
+        <link>https://nostalgiadelreino.net/2009/04/14/encierros/</link>
         <pubDate>Tue, 14 Apr 2009 08:33:00 +0100</pubDate>
         
-        <guid>http://localhost:1313/2009/04/14/encierros/</guid>
+        <guid>https://nostalgiadelreino.net/2009/04/14/encierros/</guid>
         <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>

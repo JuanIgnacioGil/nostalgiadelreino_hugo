@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tech on Nostalgia del Reino</title>
-        <link>http://localhost:1313/tags/tech/</link>
+        <link>https://nostalgiadelreino.net/tags/tech/</link>
         <description>Recent content in Tech on Nostalgia del Reino</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>es</language>
-        <lastBuildDate>Sat, 22 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 22 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://nostalgiadelreino.net/tags/tech/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Un interludio técnico</title>
-        <link>http://localhost:1313/2016/10/22/interludio-tecnico/</link>
+        <link>https://nostalgiadelreino.net/2016/10/22/interludio-tecnico/</link>
         <pubDate>Sat, 22 Oct 2016 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/2016/10/22/interludio-tecnico/</guid>
+        <guid>https://nostalgiadelreino.net/2016/10/22/interludio-tecnico/</guid>
         <description>&lt;p&gt;Con este posts este blog abandona Tumblr, y comienza su cuarta encarnación.&lt;/p&gt;
 &lt;p&gt;Comencé a escribir en la primavera del 2004, en Blogspot. Años después (sinceramente, no recuerdo cuándo y no sé si sería capaz de averiguarlo) compré el dominio nostalgiadelreino.net, cambié el título del blog (hasta entonces había sido &lt;em&gt;&amp;ldquo;Una vida absurda produce desvaríos&amp;rdquo;&lt;/em&gt;, pero había decidido que mi vida ya no era absurda. Espero que tuviera razón) y publiqué durante años en un Wordpress autoalojado. Tras varios ataques de hackers, me di cuenta de que no tenía ni los conocimientos de seguridad, ni las ganas de aprenderlos, para tener mi propio servidor, y me mudé de nuevo, esta vez a Tumblr.&lt;/p&gt;
 &lt;p&gt;A partir de hoy publicaré en &lt;a class=&#34;link&#34; href=&#34;http://jekyllrb.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
