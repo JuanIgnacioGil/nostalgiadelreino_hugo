@@ -1,32 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Dylan on Nostalgia del Reino</title>
-        <link>https://nostalgiadelreino.net/tags/dylan/</link>
-        <description>Recent content in Dylan on Nostalgia del Reino</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es</language>
-        <lastBuildDate>Fri, 07 Feb 2014 14:43:35 +0000</lastBuildDate><atom:link href="https://nostalgiadelreino.net/tags/dylan/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Mis 25 de Dylan</title>
-        <link>https://nostalgiadelreino.net/2014/02/07/mis-25-de-dylan/</link>
-        <pubDate>Fri, 07 Feb 2014 14:43:35 +0000</pubDate>
-        
-        <guid>https://nostalgiadelreino.net/2014/02/07/mis-25-de-dylan/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        <item>
-        <title>Dos años con Dylan</title>
-        <link>https://nostalgiadelreino.net/2010/10/19/dos-a%C3%B1os-con-dylan/</link>
-        <pubDate>Tue, 19 Oct 2010 12:05:00 +0100</pubDate>
-        
-        <guid>https://nostalgiadelreino.net/2010/10/19/dos-a%C3%B1os-con-dylan/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dylan on Nostalgia del Reino</title><link>https://nostalgiadelreino.net/tags/dylan/</link><description>Recent content in Dylan on Nostalgia del Reino</description><generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 07 Feb 2014 14:43:35 +0000</lastBuildDate><atom:link href="https://nostalgiadelreino.net/tags/dylan/index.xml" rel="self" type="application/rss+xml"/><item><title>Mis 25 de Dylan</title><link>https://nostalgiadelreino.net/2014/02/07/mis-25-de-dylan/</link><pubDate>Fri, 07 Feb 2014 14:43:35 +0000</pubDate><guid>https://nostalgiadelreino.net/2014/02/07/mis-25-de-dylan/</guid><description>&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted --></description></item><item><title>Dos años con Dylan</title><link>https://nostalgiadelreino.net/2010/10/19/dos-a%C3%B1os-con-dylan/</link><pubDate>Tue, 19 Oct 2010 12:05:00 +0100</pubDate><guid>https://nostalgiadelreino.net/2010/10/19/dos-a%C3%B1os-con-dylan/</guid><description>&lt;!-- raw HTML omitted --></description></item></channel></rss>

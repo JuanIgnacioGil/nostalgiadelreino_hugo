@@ -1,25 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Ficción on Nostalgia del Reino</title>
-        <link>https://nostalgiadelreino.net/tags/ficci%C3%B3n/</link>
-        <description>Recent content in Ficción on Nostalgia del Reino</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>es</language>
-        <lastBuildDate>Sun, 06 Nov 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://nostalgiadelreino.net/tags/ficci%C3%B3n/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Nocturnal Animals</title>
-        <link>https://nostalgiadelreino.net/2016/11/06/Nocturnal-Aminals/</link>
-        <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
-        
-        <guid>https://nostalgiadelreino.net/2016/11/06/Nocturnal-Aminals/</guid>
-        <description>&lt;p&gt;![]({{ site.url }}/images/nocturnal_animals.jpg)&lt;/p&gt;
-&lt;p&gt;Vi anoche &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Nocturnal_Animals_%28film%29&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;em&gt;Nocturnal Animals&lt;/em&gt;&lt;/a&gt;, la segunda película de &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Tom_Ford&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Tom Ford&lt;/a&gt;, una poderosa historia sobre el poder de la ficción, sobre como una novela puede tener un devastador impacto sobre nuestra vida, más que cualquier hecho real.&lt;/p&gt;
-&lt;p&gt;Porque, como [Ende](Vi anoche &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Nocturnal_Animals_%28film%29&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;em&gt;Nocturnal Animals&lt;/em&gt;&lt;/a&gt;, la segunda película de &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Tom_Ford&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Tom Ford&lt;/a&gt;, una poderosa historia sobre el poder de la ficción, sobre como una novela puede tener un devastador impacto sobre nuestra vida, más que cualquier hecho real.) nos enseñó de niños, las historias imaginarias son otra forma de Verdad. O, mal usadas, la más poderosa y venenosa mentira.&lt;/p&gt;</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ficción on Nostalgia del Reino</title><link>https://nostalgiadelreino.net/tags/ficci%C3%B3n/</link><description>Recent content in Ficción on Nostalgia del Reino</description><generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Sun, 06 Nov 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://nostalgiadelreino.net/tags/ficci%C3%B3n/index.xml" rel="self" type="application/rss+xml"/><item><title>Nocturnal Animals</title><link>https://nostalgiadelreino.net/2016/11/06/Nocturnal-Aminals/</link><pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate><guid>https://nostalgiadelreino.net/2016/11/06/Nocturnal-Aminals/</guid><description>&lt;p>![]({{ site.url }}/images/nocturnal_animals.jpg)&lt;/p>
+&lt;p>Vi anoche &lt;a class="link" href="https://en.wikipedia.org/wiki/Nocturnal_Animals_%28film%29" target="_blank" rel="noopener"
+>&lt;em>Nocturnal Animals&lt;/em>&lt;/a>, la segunda película de &lt;a class="link" href="https://en.wikipedia.org/wiki/Tom_Ford" target="_blank" rel="noopener"
+>Tom Ford&lt;/a>, una poderosa historia sobre el poder de la ficción, sobre como una novela puede tener un devastador impacto sobre nuestra vida, más que cualquier hecho real.&lt;/p>
+&lt;p>Porque, como [Ende](Vi anoche &lt;a class="link" href="https://en.wikipedia.org/wiki/Nocturnal_Animals_%28film%29" target="_blank" rel="noopener"
+>&lt;em>Nocturnal Animals&lt;/em>&lt;/a>, la segunda película de &lt;a class="link" href="https://en.wikipedia.org/wiki/Tom_Ford" target="_blank" rel="noopener"
+>Tom Ford&lt;/a>, una poderosa historia sobre el poder de la ficción, sobre como una novela puede tener un devastador impacto sobre nuestra vida, más que cualquier hecho real.) nos enseñó de niños, las historias imaginarias son otra forma de Verdad. O, mal usadas, la más poderosa y venenosa mentira.&lt;/p></description></item></channel></rss>
