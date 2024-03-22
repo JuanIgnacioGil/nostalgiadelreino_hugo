@@ -1,2 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Beethoven on Nostalgia del Reino</title><link>https://nostalgiadelreino.net/tags/beethoven/</link><description>Recent content in Beethoven on Nostalgia del Reino</description><generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Mon, 15 Dec 2014 09:58:00 +0000</lastBuildDate><atom:link href="https://nostalgiadelreino.net/tags/beethoven/index.xml" rel="self" type="application/rss+xml"/><item><title>Morfinas</title><link>https://nostalgiadelreino.net/2014/12/15/morfinas/</link><pubDate>Mon, 15 Dec 2014 09:58:00 +0000</pubDate><guid>https://nostalgiadelreino.net/2014/12/15/morfinas/</guid><description>&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted --></description></item><item><title>no title</title><link>https://nostalgiadelreino.net/2013/09/19/veintid%C3%B3s-de-noviembre-de-1963-erich/</link><pubDate>Thu, 19 Sep 2013 12:37:25 +0100</pubDate><guid>https://nostalgiadelreino.net/2013/09/19/veintid%C3%B3s-de-noviembre-de-1963-erich/</guid><description>&lt;!-- raw HTML omitted --></description></item><item><title>no title</title><link>https://nostalgiadelreino.net/2005/05/08/un-poema-de-jos%C3%A9-hierro-un-regalo-beethoven/</link><pubDate>Sun, 08 May 2005 05:14:00 +0100</pubDate><guid>https://nostalgiadelreino.net/2005/05/08/un-poema-de-jos%C3%A9-hierro-un-regalo-beethoven/</guid><description>&lt;!-- raw HTML omitted --></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Beethoven on Nostalgia del Reino</title>
+        <link>https://nostalgiadelreino.net/tags/beethoven/</link>
+        <description>Recent content in Beethoven on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Mon, 15 Dec 2014 09:58:00 +0000</lastBuildDate><atom:link href="https://nostalgiadelreino.net/tags/beethoven/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Morfinas</title>
+        <link>https://nostalgiadelreino.net/2014/12/15/morfinas/</link>
+        <pubDate>Mon, 15 Dec 2014 09:58:00 +0000</pubDate>
+        
+        <guid>https://nostalgiadelreino.net/2014/12/15/morfinas/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>no title</title>
+        <link>https://nostalgiadelreino.net/2013/09/19/veintid%C3%B3s-de-noviembre-de-1963-erich/</link>
+        <pubDate>Thu, 19 Sep 2013 12:37:25 +0100</pubDate>
+        
+        <guid>https://nostalgiadelreino.net/2013/09/19/veintid%C3%B3s-de-noviembre-de-1963-erich/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>no title</title>
+        <link>https://nostalgiadelreino.net/2005/05/08/un-poema-de-jos%C3%A9-hierro-un-regalo-beethoven/</link>
+        <pubDate>Sun, 08 May 2005 05:14:00 +0100</pubDate>
+        
+        <guid>https://nostalgiadelreino.net/2005/05/08/un-poema-de-jos%C3%A9-hierro-un-regalo-beethoven/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,2 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chateaubriand on Nostalgia del Reino</title><link>https://nostalgiadelreino.net/tags/chateaubriand/</link><description>Recent content in Chateaubriand on Nostalgia del Reino</description><generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Fri, 07 Jun 2013 11:10:38 +0100</lastBuildDate><atom:link href="https://nostalgiadelreino.net/tags/chateaubriand/index.xml" rel="self" type="application/rss+xml"/><item><title>La derecha salvaje</title><link>https://nostalgiadelreino.net/2013/06/07/la-derecha-salvaje/</link><pubDate>Fri, 07 Jun 2013 11:10:38 +0100</pubDate><guid>https://nostalgiadelreino.net/2013/06/07/la-derecha-salvaje/</guid><description>&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted --></description></item><item><title>Veo hoy, en mi memoria, Grecia</title><link>https://nostalgiadelreino.net/2012/11/09/veo-hoy-en-mi-memoria-grecia/</link><pubDate>Fri, 09 Nov 2012 14:20:00 +0000</pubDate><guid>https://nostalgiadelreino.net/2012/11/09/veo-hoy-en-mi-memoria-grecia/</guid><description>&lt;!-- raw HTML omitted --></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Chateaubriand on Nostalgia del Reino</title>
+        <link>https://nostalgiadelreino.net/tags/chateaubriand/</link>
+        <description>Recent content in Chateaubriand on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Fri, 07 Jun 2013 11:10:38 +0100</lastBuildDate><atom:link href="https://nostalgiadelreino.net/tags/chateaubriand/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>La derecha salvaje</title>
+        <link>https://nostalgiadelreino.net/2013/06/07/la-derecha-salvaje/</link>
+        <pubDate>Fri, 07 Jun 2013 11:10:38 +0100</pubDate>
+        
+        <guid>https://nostalgiadelreino.net/2013/06/07/la-derecha-salvaje/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Veo hoy, en mi memoria, Grecia</title>
+        <link>https://nostalgiadelreino.net/2012/11/09/veo-hoy-en-mi-memoria-grecia/</link>
+        <pubDate>Fri, 09 Nov 2012 14:20:00 +0000</pubDate>
+        
+        <guid>https://nostalgiadelreino.net/2012/11/09/veo-hoy-en-mi-memoria-grecia/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

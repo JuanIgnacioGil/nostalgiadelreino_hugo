@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>China on Nostalgia del Reino</title><link>https://nostalgiadelreino.net/tags/china/</link><description>Recent content in China on Nostalgia del Reino</description><generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Mon, 03 Aug 2009 14:17:00 +0100</lastBuildDate><atom:link href="https://nostalgiadelreino.net/tags/china/index.xml" rel="self" type="application/rss+xml"/><item><title>Consultando el I Ching</title><link>https://nostalgiadelreino.net/2009/08/03/consultando-el-i-ching/</link><pubDate>Mon, 03 Aug 2009 14:17:00 +0100</pubDate><guid>https://nostalgiadelreino.net/2009/08/03/consultando-el-i-ching/</guid><description>&lt;!-- raw HTML omitted --></description></item><item><title>Dos pequeños interludios</title><link>https://nostalgiadelreino.net/2009/01/26/dos-peque%C3%B1os-interludios/</link><pubDate>Mon, 26 Jan 2009 11:35:00 +0000</pubDate><guid>https://nostalgiadelreino.net/2009/01/26/dos-peque%C3%B1os-interludios/</guid><description>&lt;!-- raw HTML omitted --></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>China on Nostalgia del Reino</title>
+        <link>https://nostalgiadelreino.net/tags/china/</link>
+        <description>Recent content in China on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Mon, 03 Aug 2009 14:17:00 +0100</lastBuildDate><atom:link href="https://nostalgiadelreino.net/tags/china/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Consultando el I Ching</title>
+        <link>https://nostalgiadelreino.net/2009/08/03/consultando-el-i-ching/</link>
+        <pubDate>Mon, 03 Aug 2009 14:17:00 +0100</pubDate>
+        
+        <guid>https://nostalgiadelreino.net/2009/08/03/consultando-el-i-ching/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Dos pequeños interludios</title>
+        <link>https://nostalgiadelreino.net/2009/01/26/dos-peque%C3%B1os-interludios/</link>
+        <pubDate>Mon, 26 Jan 2009 11:35:00 +0000</pubDate>
+        
+        <guid>https://nostalgiadelreino.net/2009/01/26/dos-peque%C3%B1os-interludios/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

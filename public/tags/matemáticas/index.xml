@@ -1,2 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Matemáticas on Nostalgia del Reino</title><link>https://nostalgiadelreino.net/tags/matem%C3%A1ticas/</link><description>Recent content in Matemáticas on Nostalgia del Reino</description><generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Thu, 28 Jan 2010 07:24:00 +0000</lastBuildDate><atom:link href="https://nostalgiadelreino.net/tags/matem%C3%A1ticas/index.xml" rel="self" type="application/rss+xml"/><item><title>El Teorema Central del Límite</title><link>https://nostalgiadelreino.net/2010/01/28/el-teorema-central-del-l%C3%ADmite/</link><pubDate>Thu, 28 Jan 2010 07:24:00 +0000</pubDate><guid>https://nostalgiadelreino.net/2010/01/28/el-teorema-central-del-l%C3%ADmite/</guid><description>&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted --></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Matemáticas on Nostalgia del Reino</title>
+        <link>https://nostalgiadelreino.net/tags/matem%C3%A1ticas/</link>
+        <description>Recent content in Matemáticas on Nostalgia del Reino</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Thu, 28 Jan 2010 07:24:00 +0000</lastBuildDate><atom:link href="https://nostalgiadelreino.net/tags/matem%C3%A1ticas/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>El Teorema Central del Límite</title>
+        <link>https://nostalgiadelreino.net/2010/01/28/el-teorema-central-del-l%C3%ADmite/</link>
+        <pubDate>Thu, 28 Jan 2010 07:24:00 +0000</pubDate>
+        
+        <guid>https://nostalgiadelreino.net/2010/01/28/el-teorema-central-del-l%C3%ADmite/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
