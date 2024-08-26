@@ -10,18 +10,14 @@ tags:
   - Inglaterra
 title: Horizontes (II)
 url: /2016/12/18/Horizontes (II)/
+image: /images/2016/12/St-James.png
 ---
-
-
-![Saint James Park]({{ site.url }}/images/St-James.png)
 
 Escribía hace poco de qué tal vez algunos sueños no estén para ser cumplidos, que hay horizontes que quizás no hay que alcanzar. Un triste presentimiento, porque ha sido. Londres, mi ciudad soñada desde hacía tantos años, me ha roto el corazón.
 
 No sé qué ha sucedido. Quizás yo he cambiado. Quizás la ciudad ha cambiado. Quizás ambos. Quizás esta es mi condena por haber abandonado, por una mezcla de miedo y ambición, la maravillosa Viena (el Reino Perdido, no una metáfora, sino uno tangible).
 
-<!--more-->
-
-Todo comenzó, claro, el 23 de junio, cuando yo ya había aceptado la oferta que me trajó aquí, que me tentó a abandonar mi paraíso vienés. Daba por hecho que el Reino Unido seguiría ese supuesto pragmatismo por el que era famoso y votaría por la permanencia en el proyecto europeo. Y tenía miedo de que mis vecinos austriacos volvieran a repetir viejos horrores y a caer de nuevo en la pesadilla del fascismo. Al final fue, claro, al revés.
+Todo comenzó, claro, el 23 de junio, cuando yo ya había aceptado la oferta que me trajo aquí, que me tentó a abandonar mi paraíso vienés. Daba por hecho que el Reino Unido seguiría ese supuesto pragmatismo por el que era famoso y votaría por la permanencia en el proyecto europeo. Y tenía miedo de que mis vecinos austriacos volvieran a repetir viejos horrores y a caer de nuevo en la pesadilla del fascismo. Al final fue, claro, al revés.
 
 ***
 
@@ -53,7 +49,7 @@ Tres meses después perdería mi trabajo. Hasta que punto fue uno más de la mul
 
 ***
 
-Llegó E., y abandomos el horrible Finsbury Park para venir al plácido Pimlico, un barrio tranquilo, hasta bonito, a un apartamento desde el que vemos todo el cielo londinense. Y todo fue mejor. Pero ya no queda en mí amor por esta ciudad.
+Llegó E., y abandonamos el horrible Finsbury Park para venir al plácido Pimlico, un barrio tranquilo, hasta bonito, a un apartamento desde el que vemos todo el cielo londinense. Y todo fue mejor. Pero ya no queda en mí amor por esta ciudad.
 
 ***
 
