@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2025-02-16
-description: Renovando el blog
+description: Si cine, y el mundo derrumbándose
 share: true
 tags: [
     "cine", "personal"
