@@ -7,6 +7,7 @@ tags:
   - cine
 title: Las Películas del 2022
 url: /2023/01/02/Las-Peliculas-del-2022/
+image : /images/2023/01/petite_maman.jpg
 ---
 
 
