@@ -7,8 +7,8 @@ tags:
   - cine
 title: Las Películas del 2020
 url: /2021/01/02/Las-Peliculas-del-2020/
+image : /images/2021/01/laverdad.jpg
 ---
-
 
 Un año sin cine, sin ese ritual de la sala a oscuras, la pantalla grande,
 el silencio, la imposibilidad de parar lo que sucede en la pantalla para charlar o mirar tu móvil.
@@ -28,8 +28,7 @@ o las de los Verdi de Madrid.
 
 ## [La Verdad](https://www.imdb.com/title/tt8323120/), de Hirokazu Koreeda ##
 
-<a href="https://imgur.com/a/KLviXK1"><img src="https://i.imgur.com/qiv8jPh.jpg"
-title="source: imgur.com" /></a>
+![La Verdad](https://i.imgur.com/qiv8jPh.jpg)
 
 No es el mejor Koreeda, pero sigue siendo uno de los mejores directores en activo,
 con su tema principal, la familia, esta vez en Francia. La experiencia humana es universal,
@@ -37,8 +36,7 @@ y lo atractivo de Koreeda es su comprensión de la misma, no su exotismo orienta
 
 ## [Vida oculta](https://www.imdb.com/title/tt5827916/), de Terrence Malick ##
 
-<a href="https://imgur.com/a/LMvawwv"><img src="https://i.imgur.com/uVRWeRO.jpg"
-title="source: imgur.com" /></a>
+![Vida Oculta](https://i.imgur.com/uVRWeRO.jpg)
 
 La prueba de que no ha sido un buen año es que no salí satisfecho de la sala
 (los Curzon de Bloomsbury, otra de esas salas añoradas, donde también vi la anterior), y,
@@ -51,8 +49,7 @@ La fórmula Malick sigue funcionando y emocionando: esas conversaciones interior
 
 ## [Los dos papas](https://www.imdb.com/title/tt8404614/), de Fernando Meirelles ##
 
-<a href="https://imgur.com/gallery/bAqcFza"><img src="https://i.imgur.com/juqTcKg.jpg"
-title="source: imgur.com" /></a>
+![Los Dos Papas](https://i.imgur.com/juqTcKg.jpg)
 
 Y llegamos a la tercera, que ni siquiera vi en sala, sino en televisión, via Netflix. De nuevo,
 cine religioso (¿ha sido este el tema del 2020? ¿Dios?), con excelentes interpretaciones
