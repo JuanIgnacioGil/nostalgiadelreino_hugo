@@ -11,14 +11,14 @@ title: Nothing will Die
 url: /2025/04/27/nothingwilldie/
 ---
 
-The world was never made;<br>  
-It will change, but it will not fade<br> 
-So let the wind range;  <br>
-For even and morn <br>
-Ever will be<br>
-Thro' eternity<br>
-Nothing was born;<br>
-Nothing will die;<br>
-All things will change.<br>
+The world was never made;</p>  
+It will change, but it will not fade</p> 
+So let the wind range;  </p>
+For even and morn </p>
+Ever will be</p>
+Thro' eternity</p>
+Nothing was born;</p>
+Nothing will die;</p>
+All things will change.</p>
 
 **Alfred, Lord Tennyson**
