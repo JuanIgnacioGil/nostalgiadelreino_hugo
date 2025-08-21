@@ -20,5 +20,7 @@ Thro' eternity
 Nothing was born;  
 Nothing will die;  
 All things will change.  
-<p>
+&nbsp;
+&nbsp;
+
 **Alfred, Lord Tennyson**
